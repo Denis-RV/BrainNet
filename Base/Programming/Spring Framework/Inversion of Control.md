@@ -44,7 +44,7 @@ need to know: [[Introduction (R)]]
 
 ![Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled%206.png](Untitled%206.png)
 
-**Решение:** проблема решается с помощью [Dependency Injection](Dependency%20Injection) 
+**Решение:** проблема решается с помощью [Dependency Injection](Dependency%20Injection.md) 
 
 ---
 
