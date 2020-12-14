@@ -1,6 +1,10 @@
-## Отправка данных на репозиторий
+---
+modified: 2020-12-14T22:08:13+03:00
+---
 
-git add *
+# Взаимодейстаие с git
+
+Отправка данных на репозиторийgit add *
 git commit -m "Commit"
 git push git@github.com:Denis-VR/BrainNet.git master
 
