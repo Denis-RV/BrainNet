@@ -1,7 +1,7 @@
 # 
 status: В процессе
 format: mini
-tegs: #english
+tegs: #english #englishTense 
 
 ---
 #### Дух времени: 
@@ -15,11 +15,10 @@ tegs: #english
 (-) 
 
 Примеры:
-*
 (+) 
 (?) 
 (-) 
-*
+
 #### Указатели времени:
 
  

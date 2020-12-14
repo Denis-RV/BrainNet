@@ -1,12 +1,7 @@
----
-modified: 2020-12-14T22:31:42+03:00
----
-
 # Present Simple
-
 status: В процессе
 format: mini
-tegs: #english 
+tegs: #english #englishTense
 
 ---
 #### Дух времени: 
@@ -21,11 +16,9 @@ tegs: #english
 (-) S + do/does + not + V 
 
 Примеры:
-*
 (+) 
 (?) 
 (-) 
-*
 
 #### Указатели времени:
 always (всегда), hardly (почти никогда, крайне редко), often (часто), every day, week, month (каждый день, неделю, месяц), seldom (редко), usually (обычно), sometimes (иногда), never (никогда), др.
