@@ -1,10 +1,10 @@
 ---
-modified: 2020-12-16T04:05:15+03:00
+modified: 2020-12-16T04:09:19+03:00
 ---
 
 # Present Simple
 
-status: В процессе
+status: готово
 format: mini
 tegs: #english #englishTense
 
@@ -21,9 +21,9 @@ tegs: #english #englishTense
 (-) S + do/does + not + V 
 
 Примеры:
-(+) 
-(?) 
-(-) 
+(+) I swim every day. She never plays.
+(?) Do i swim every day? Does she never play?
+(-) i don't swim every day. She doesn't play.
 
 #### Указатели времени:
 always (всегда), hardly (почти никогда, крайне редко), often (часто), every day, week, month (каждый день, неделю, месяц), seldom (редко), usually (обычно), sometimes (иногда), never (никогда), др.
