@@ -1,4 +1,9 @@
+---
+modified: 2020-12-16T04:05:15+03:00
+---
+
 # Present Simple
+
 status: В процессе
 format: mini
 tegs: #english #englishTense
@@ -23,7 +28,7 @@ tegs: #english #englishTense
 #### Указатели времени:
 always (всегда), hardly (почти никогда, крайне редко), often (часто), every day, week, month (каждый день, неделю, месяц), seldom (редко), usually (обычно), sometimes (иногда), never (никогда), др.
  
-##### Грамматические нюансы: 
+#### Грамматические нюансы: 
 - Вопрос задается при помощи вспомогательного глагола do, а в трьетьем лице единственного числа(он, она, оно) - при помощи вспомогательного глагола does: 
 *Ты часто поешь? - Do you often sing? 
 Зимой рано темнеет? - Does it get dark early in winter?*
