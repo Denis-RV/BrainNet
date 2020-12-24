@@ -9,3 +9,5 @@ git push git@github.com:Denis-VR/BrainNet.git master
 
 ##  Получение данных с репозиторий
 git pull git@github.com:Denis-VR/BrainNet.git
+
+test
