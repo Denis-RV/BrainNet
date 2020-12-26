@@ -1,7 +1,9 @@
 ---
-modified: 2020-12-14T22:08:13+03:00
+modified: 2020-12-26T08:53:33+03:00
 ---
-## Отправка данных на репозиторий
+
+# # Отправка данных на репозиторий
+
 git add *
 git commit -m "Commit"
 git push git@github.com:Denis-VR/BrainNet.git master
@@ -10,4 +12,4 @@ git push git@github.com:Denis-VR/BrainNet.git master
 ##  Получение данных с репозиторий
 git pull git@github.com:Denis-VR/BrainNet.git
 
-test
+Successful
