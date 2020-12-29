@@ -1,6 +1,6 @@
 status: В процессе
 format: flow
-tegs: #programming #regex
+tegs: #analysis #programming  #java #linux  #python  #regex 
 need to know: -
 \ - экранирование символа 
 

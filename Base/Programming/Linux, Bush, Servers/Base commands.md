@@ -1,4 +1,4 @@
-# Base commands
+# Base bash commands
 
 Created: Oct 28, 2020 10:18 PM
 status: В процессе

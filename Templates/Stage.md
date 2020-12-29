@@ -1,6 +1,9 @@
 #
-Need to know: 
-tegs: 
+*Need to know:*
+*status:* In process
+*format:* stage
+*tegs:*
+*desckription:*
 
 ---
 ## 
