@@ -1,14 +1,14 @@
-# 
+# Past Simple
 status: В процессе
 format: mini
 tegs: #english #englishTense 
 
 ---
 #### Дух времени: 
-
+Констатация того, что действие произошло или происходило в прошлом.
 
 #### Формула времени: 
->
+>Слова, обозначающие истекшее время: yesterday, last week/year, 2 days ago, in childhood, in youth(в юности).
 
 (+)  
 (?) 

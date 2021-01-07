@@ -6,20 +6,13 @@ format: flow
 Tags: #programming #linux 
 need to know: [[Base commands]]
 
-![%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled.png](Images/Programming/%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled.png)
-
 ### Command ls
 
  - a (—all) - все файлы.
-
  - d (—directory) - информация о каталоге, а не о содержимом.
-
  - l - вывод в режиме длинного формата
-
  - r - вывод информации в обратном порядке.
-
  - S - сортировка по размеру.
-
  - t - сортировка по времени последнего изменения.
 
 ![%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled%201.png](Images/Programming/%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled%201.png)
@@ -34,7 +27,7 @@ need to know: [[Base commands]]
 
 ![%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled%202.png](Images/Programming/%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled%202.png)
 
-Command mv
+### Command mv
 
 - -i, interactive - запрашивать у пользователя подтверждение перед перезаписью существующего фалйа. **При отстутсвии этой команды существующие файлы просто будут перезаписаны.**
 - -u, update - копировать файлы, отсутствующие в каталоге назначения или более новые..
@@ -42,7 +35,7 @@ Command mv
 
 ![%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled%203.png](Images/Programming/%D0%92%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%207a0a7667c1c2438bb67999e182ae73f3/Untitled%203.png)
 
-Comand rm
+### Comand rm
 
 - -i, --interactive Запрашивать у пользователя подтверждение перед удалением
 существующего файла. Если этот параметр отсутствует,

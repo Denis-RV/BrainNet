@@ -96,5 +96,5 @@ $ command -param(s) arg(s)
 
 ---
 ### See also:
-- [[Params]]
+- [[Base params]]
 - [[Команданя строка Linux]]
