@@ -5,8 +5,7 @@ status: В процессе
 format: flow
 Tags: #programming  #linux
 need to know: [[Terms]]
-
-![Important%20commands%204a2eb77416874840aa293c25d29f377a/Untitled.png](Images/Programming/Important%20commands%204a2eb77416874840aa293c25d29f377a/Untitled.png)
+---
 
 ### Справочная информация
 ```bash

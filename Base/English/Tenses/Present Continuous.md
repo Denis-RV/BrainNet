@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # Present Continuous
 status: В процессе
-=======
-# 
 status: Готово
->>>>>>> 7c4a9ac7776ee0e438f214f7f1ea334329a3d405
 format: mini
 tegs: #english #englishTense 
 
