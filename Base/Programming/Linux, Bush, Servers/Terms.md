@@ -5,8 +5,6 @@ status: В процессе
 format: terms
 Tags: #programming #linux 
 
-![Terms%20cb45dd4534d440abbc3e9d5e0b2a306b/Untitled.png](Images/Programming/Terms%20cb45dd4534d440abbc3e9d5e0b2a306b/Untitled.png)
-
 - Командная оболочка (shell) - это программа, которая принимает команды,
 введенные с клавиатуры, и передает их операционной системе для выполнения.
 - Эмулятор терминала - программа, предоставляющая доступ к командной оболочке.
