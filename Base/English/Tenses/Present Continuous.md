@@ -1,5 +1,4 @@
 # Present Continuous
-status: В процессе
 status: Готово
 format: mini
 tegs: #english #englishTense 

@@ -1,5 +1,5 @@
 # Present Simple
-status: готово
+status: Готово
 format: mini
 tegs: #english #englishTense
 
