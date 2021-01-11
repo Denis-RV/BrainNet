@@ -6,6 +6,8 @@ format: flow
 Tags: #programming #linux 
 need to know: [[Base commands]]
 
+#task: Избавиться от этой статьи и научиться читать английскую документацию, где все это написано. Тажке можно добавить 
+
 ### Command ls
 
  - a (—all) - все файлы.

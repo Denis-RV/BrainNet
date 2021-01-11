@@ -5,6 +5,7 @@ status: В процессе
 format: flow
 Tags: #programming  #linux
 need to know: [[Terms]]
+
 ---
 
 ### Справочная информация
@@ -96,4 +97,3 @@ $ command -param(s) arg(s)
 ---
 ### See also:
 - [[Base params]]
-- [[Команданя строка Linux]]

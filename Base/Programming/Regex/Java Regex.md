@@ -1,7 +1,7 @@
 status: В процессе
 format: stage
 tegs:  #programming #java #regex 
-need to know: -
+need to know: [[class Pattern]]
 
 class Pattern - используется для регулярных выражений. Чтобы поспользоваться, необходимо создать обект с помощью метода Pattern.compile("…"). 
 

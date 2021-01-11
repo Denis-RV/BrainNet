@@ -1,4 +1,4 @@
-class: [[Date]]
+class: [[class Date]]
 ### type: long
 ## Description:
 `
