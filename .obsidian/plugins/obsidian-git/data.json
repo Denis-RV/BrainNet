@@ -1,1 +1,1 @@
-{"commitMessage":"Backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":5,"autoPullOnBoot":false,"disablePush":false,"disablePopups":false,"currentBranch":"master","remote":""}
+{"commitMessage":"Backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":5,"autoPullOnBoot":true,"disablePush":false,"disablePopups":false,"currentBranch":"master","remote":""}
