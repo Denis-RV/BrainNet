@@ -10,11 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+            "file": "Base/Programming/Linux, Bush, Servers/Base commands.md",
             "mode": "source"
           }
-        },
-        "group": "05a63b273548d5e5"
+        }
       },
       {
         "id": "5bb1652548ef1685",
@@ -22,11 +21,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
-            "mode": "preview"
+            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/2. Операции с файлами и каталогами.md",
+            "mode": "source"
           }
-        },
-        "group": "05a63b273548d5e5"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+                "file": "Base/Programming/Linux, Bush, Servers/Base commands.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md"
+                "file": "Base/Programming/Linux, Bush, Servers/Base commands.md"
               }
             }
           }
@@ -129,15 +127,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Base/Programming/Linux, Bush, Servers/Base commands.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/2. Операции с файлами и каталогами.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/1. Исследование системы.md",
+    "Base/Programming/Linux, Bush, Servers/Base params.md",
     "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
     "Base/English/Tenses/Past Perfect.md",
     "Base/English/Tenses/Past Perfect Continuous.md",
     "Base/English/Tenses/Past Continuous.md",
     "Base/English/Tenses/Past Simple.md",
-    "Base/English/Tenses/Present Continuous.md",
-    "Base/English/Tenses/Present Perfect.md",
-    "Base/English/Tenses/Present Simple.md",
-    "Base/English/Tenses/Present Perfect Continuous.md",
-    "Templates/English Tense.md"
+    "Base/English/Tenses/Present Continuous.md"
   ]
 }
