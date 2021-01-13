@@ -6,16 +6,25 @@ format: stage
 Tags: #programming #database
 need to know: [[Terms SQL]]
 
-![PostgreSQL%20(by%20book)%2089cf03444096409d935bc2b1b7d1f78f/Untitled.png](Images/Programming/PostgreSQL%20(by%20book)%2089cf03444096409d935bc2b1b7d1f78f/Untitled.png)
 
 Важные команды:
 ```bash
-errverbose #вывод подробной сообщения о последней ошибке.
-? #справка по сервисным командам.
-dt #просмотр всех таблиц и представлений в вашей бд.
-h #получение списка всех SQL - команд.
-h <--SQL-command--> #вывод подробного описания команды.
-sudo -i -u postgres #запуск PostgreSQL (psql - запуск субд)
+$errverbose #вывод подробной сообщения о последней ошибке.
+$? #справка по сервисным командам.
+$dt #просмотр всех таблиц и представлений в вашей бд.
+$h #получение списка всех SQL - команд.
+$h <--SQL-command--> #вывод подробного описания команды.
+$sudo -i -u postgres #запуск PostgreSQL (psql - запуск субд)
+
+$ sudo su - postgres //команда, чтобы зайти под пользователя postgres
+$ psql //утилита для работы с sql
+
+\q //выход
+\h //commands
+\l //доступные бд
+\c [database-name]//подключение к бд
+
+\d //просмотр таблиц
 ```
 
 Важные нюансы:

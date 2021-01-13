@@ -20,4 +20,4 @@ Tags: #programming #database
 
 ---
 ### See also:
-- [[PostgreSQL (by book)]]
+- [[1. Термины DB и SQL]]

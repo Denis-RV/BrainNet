@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "e5f80969e3d5e581",
+    "type": "split",
+    "children": [
+      {
+        "id": "25c82b994385983c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+            "mode": "source"
+          }
+        },
+        "group": "05a63b273548d5e5"
+      },
+      {
+        "id": "5bb1652548ef1685",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+            "mode": "preview"
+          }
+        },
+        "group": "05a63b273548d5e5"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b57d9209ffd4ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "600431f3f7ae6be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4aad823e7d8c477",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d977fd0dd85c1c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#java",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b13d4c239e581ea0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233
+  },
+  "right": {
+    "id": "850730c931ec7b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8c7b31b2cdcc25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42c169ad3c6a9493",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9587d3764558326d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d823d43dbfe3464d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+    "Base/English/Tenses/Past Perfect.md",
+    "Base/English/Tenses/Past Perfect Continuous.md",
+    "Base/English/Tenses/Past Continuous.md",
+    "Base/English/Tenses/Past Simple.md",
+    "Base/English/Tenses/Present Continuous.md",
+    "Base/English/Tenses/Present Perfect.md",
+    "Base/English/Tenses/Present Simple.md",
+    "Base/English/Tenses/Present Perfect Continuous.md",
+    "Templates/English Tense.md"
+  ]
+}
