@@ -5,7 +5,7 @@ Description: https://www.dmosk.ru/instruktions.php?object=openvpn-centos-install
 status: В процессе
 format: stage
 Tags: #linux #programming 
-need to know: [[Base commands]]
+need to know: [[Base  bash commands]]
 
 ![VPN%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20OpenVPN%20f6b3ce1b499f460d83c024c148e0abec/Untitled.png](Images/Programming/VPN%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20OpenVPN%20f6b3ce1b499f460d83c024c148e0abec/Untitled.png)
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Programming/Linux, Bush, Servers/Base commands.md",
+            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Programming/Linux, Bush, Servers/Base commands.md",
+                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Programming/Linux, Bush, Servers/Base commands.md"
+                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md"
               }
             }
           }
@@ -117,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/Programming/Linux, Bush, Servers/Base commands.md",
     "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
-    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/4. Перенаправление ввода и вывода.md",
-    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/3. Работа с командами.md",
-    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/2. Операции с файлами и каталогами.md",
-    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/1. Исследование системы.md",
+    "Templates/English Tense.md",
+    "Base/Programming/Linux, Bush, Servers/Base  bash commands.md",
     "Base/Programming/Linux, Bush, Servers/Base params.md",
-    "Base/English/Tenses/Past Perfect.md",
-    "Base/English/Tenses/Past Perfect Continuous.md",
-    "Base/English/Tenses/Past Continuous.md"
+    "Base/Programming/Linux, Bush, Servers/Other/Happy Commands.md",
+    "Base/Programming/Linux, Bush, Servers/Other/Hacknet.md",
+    "Base/Programming/Linux, Bush, Servers/Base commands.md",
+    "Base/Programming/Linux, Bush, Servers/Terms.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/4. Перенаправление ввода и вывода.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/3. Работа с командами.md"
   ]
 }
