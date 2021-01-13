@@ -14,17 +14,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "5bb1652548ef1685",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/4. Перенаправление ввода и вывода.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -72,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 233,
+    "collapsed": true
   },
   "right": {
     "id": "850730c931ec7b74",
@@ -128,12 +118,12 @@
   },
   "lastOpenFiles": [
     "Base/Programming/Linux, Bush, Servers/Base commands.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
     "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/4. Перенаправление ввода и вывода.md",
     "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/3. Работа с командами.md",
     "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/2. Операции с файлами и каталогами.md",
     "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/1. Исследование системы.md",
     "Base/Programming/Linux, Bush, Servers/Base params.md",
-    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
     "Base/English/Tenses/Past Perfect.md",
     "Base/English/Tenses/Past Perfect Continuous.md",
     "Base/English/Tenses/Past Continuous.md"

@@ -180,11 +180,39 @@ $ type foo
 $ cat #объединяет файлы
 $ sort #сортирует строки текста
 $ uniq #сообщает о повторяющихся строках или удаляет их
-$ wc #выводит число строк, слов и байтов в указанном файле
+#wc выводит число строк, слов и байтов в указанном файле
+$ wc ls-output.txt
+	>>>7902 64566 503634 ls-output.txt
 $ grep #находит и выводит строки, соответсвующие шаблону
 $ head #выводит первые строки из файл
 $ tail #выводит последние строки из файла
-$ tee #читает данные со стандартного ввода и записывает в 
-#стандартный вывод и в файлы
+$ tee #читает данные со стандартного ввода и записывает в стандартный вывод и в файлы
+
+#Перенаправление вывода:
+$ ls -l /usr/bin > ls-output.txt
+$ > ls-out.txt #создаст новый файл или очисстит старый
+$ ls -l /usr/bin >> ls-output.txt #добавит вывод в конец файла
+$ ls -l /bin/usr 2> ls-error.txt
+$ ls -l /bin/usr &> ls-output.txt # перезапись файла
+$ ls -l /bin/usr &>> ls-output.txt # вывод в конец 
+
+# имеем файлы movie.mpeg.001, movie.mpeg.002 ... movie.mpeg.099, их надо объединить:
+$ cat movie.mpeg.0* > movie.mpeg
+
+#Создание текстовых файлов
+$ cat > record.txt
+<<<Any text
+<<<More text
+<<<Ctld + D
+
+#Применение фильтров:
+$ ls /bin /usr/bin | sort | uniq | less #удаление дубликатов
+$ ls /bin /usr/bin | sort | uniq -d | less #вывод дубликатов
+$ ls /usr/bin | tee ls.txt | grep zip
+
+#Вывод в конец или начало:
+$ head -n 5 ls-output.txt
+$ tail -n 5 ls-output.txt
+$ ls /usr/bin | tail
 ```
 
