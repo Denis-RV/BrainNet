@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/6. Продвинутые приемы с клавиатурой.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "acadfcfd9c9f4bf2"
+      },
+      {
+        "id": "db772682a4e696f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/6. Продвинутые приемы с клавиатурой.md",
+            "mode": "preview"
+          }
+        },
+        "group": "acadfcfd9c9f4bf2"
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233,
-    "collapsed": true
+    "width": 233
   },
   "right": {
     "id": "850730c931ec7b74",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/6. Продвинутые приемы с клавиатурой.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md"
+                "file": "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/6. Продвинутые приемы с клавиатурой.md"
               }
             }
           }
@@ -117,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/6. Продвинутые приемы с клавиатурой.md",
     "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/5. Командная оболочка.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/Untitled.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/4. Перенаправление ввода и вывода.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/3. Работа с командами.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/1. Исследование системы.md",
+    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/2. Операции с файлами и каталогами.md",
     "Base/Programming/Mini Stages/Basics of Git & GitHub.md",
     "Templates/English Tense.md",
-    "Base/Programming/Linux, Bush, Servers/Base  bash commands.md",
-    "Base/Programming/Linux, Bush, Servers/Base params.md",
-    "Base/Programming/Linux, Bush, Servers/Other/Happy Commands.md",
-    "Base/Programming/Linux, Bush, Servers/Other/Hacknet.md",
-    "Base/Programming/Linux, Bush, Servers/Base commands.md",
-    "Base/Programming/Linux, Bush, Servers/Terms.md",
-    "Base/Programming/Linux, Bush, Servers/''Командная строка Linux''/4. Перенаправление ввода и вывода.md"
+    "Base/Programming/Linux, Bush, Servers/Base  bash commands.md"
   ]
 }
