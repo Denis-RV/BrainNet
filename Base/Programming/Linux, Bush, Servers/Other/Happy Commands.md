@@ -1,7 +1,7 @@
 # Happy Commands
 
 Created: Nov 6, 2020 11:28 AM
-status: В процессе
+status: complemented by
 format: flow
 Tags: #programming  #linux 
 Description: https://pastebin.com/7VQVB2xW

@@ -4,7 +4,7 @@ Created: Nov 23, 2020 4:59 PM
 status: В процессе
 format: flow
 Tags: #programming #linux 
-need to know: [[Base  bash commands]]
+need to know: [[$ Base  bash commands]]
 
 #task: Избавиться от этой статьи и научиться читать английскую документацию, где все это написано. Тажке можно добавить 
 

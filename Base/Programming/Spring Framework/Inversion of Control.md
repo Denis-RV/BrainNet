@@ -1,10 +1,10 @@
 # Inversion of Control (loC)
 
 Created: Oct 27, 2020 5:37 PM
-status: В процессе
+status: Ready
 format: stage
 tags: #programming #spring
-need to know: [[Introduction (R)]]
+need to know: [[$ Introduction]]
 
 ![Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled.png](Images/Programming/Spring%20Framework/Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled.png)
 
@@ -44,7 +44,7 @@ need to know: [[Introduction (R)]]
 
 ![Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled%206.png](Untitled%206.png)
 
-**Решение:** проблема решается с помощью [Dependency Injection](Dependency%20Injection.md) 
+**Решение:** проблема решается с помощью [$ Dependency Injection]($%20Dependency%20Injection.md) 
 
 ---
 
@@ -70,5 +70,5 @@ need to know: [[Introduction (R)]]
 
 ---
 ### See next:
-- [[Dependency Injection]]
-- [[Bean]]
+- [[$ Dependency Injection]]
+- [[$ Bean]]

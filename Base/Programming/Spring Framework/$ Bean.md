@@ -54,4 +54,4 @@ Destroy-method
 
 ---
 ### See next:
-- [[Dependency Injection]]
+- [[$ Dependency Injection]]

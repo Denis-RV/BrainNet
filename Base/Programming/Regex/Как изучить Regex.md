@@ -1,6 +1,6 @@
 # Как, наконец, выучить Regex?
 *Need to know:* -
-*status:* In process
+*status:* Ready
 *format:* stage
 *tegs:* #analysis #programming  #java #linux  #python  #regex 
 *deskritpion:* В этой статье вы найдете советы по изучению Regex, ссылки на руководства и шпаргалки.
