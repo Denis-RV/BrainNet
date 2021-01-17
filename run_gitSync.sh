@@ -13,7 +13,7 @@
 #Запуск Obsidian
 /usr/bin/flatpak run --branch=stable --arch=x86_64 --command=obsidian.sh --file-forwarding md.obsidian.Obsidian @@u %u @@
 
-/home/danis/Documents/Obsidian/All/gitSync.sh 
+/home/danis/Documents/Obsidian/All/gitSync.sh &
 
 
 #git pull git@github.com:Denis-VR/BrainNet.git
