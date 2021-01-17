@@ -6,8 +6,6 @@ format: stage
 tags: #programming #spring
 need to know: [[$ Introduction]]
 
-![Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled.png](Images/Programming/Spring%20Framework/Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled.png)
-
 # Проблемы зависимости
 
 ---

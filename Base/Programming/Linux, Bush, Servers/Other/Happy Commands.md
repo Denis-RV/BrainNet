@@ -7,7 +7,7 @@ Tags: #programming  #linux
 Description: https://pastebin.com/7VQVB2xW
 need to know: -
 
-![Happy%20Commands%20192967e1f28e45d99ec5bf0702b63c09/Untitled.png](Images/Programming/Happy%20Commands%20192967e1f28e45d99ec5bf0702b63c09/Untitled.png)
+---
 
 ```bash
 $ cat /dev/random #генерация случайных символов на основе процессов
@@ -22,7 +22,3 @@ $ toilet -F metal sh0x1er
 $ toilet -f mono12 -F metal sh0x1er
 $ cacafire # визуализация огня
 ```
-
-1. Еще одна визуализация со звуком:
-2. apt install bb
-3. /usr/games/bb
