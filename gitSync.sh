@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Синхронизируемся с удаленным репозиторием перед загрузкой программы
+cd ~/Documents/Obsidian/All
 git pull git@github.com:Denis-VR/BrainNet.git
 
 git add *
