@@ -1,3 +1,5 @@
+# Work with Java from cmd
+
 status: В процессе
 format: stage
 tegs: #java #programming 
@@ -5,23 +7,17 @@ need to know: -
 
 ---
 
-<cd /> перемещает нас в начало пути. 
+### Основные команды работы с javac и java:
+```bash
+javac <ClassName>.java #компиляция файла в байт код
+javac -d <../classes> Classname.java #компиляция файла в указанную дирректорию
 
-<cd ..> перемещает нас на одну дирректорию левее. 
+java <ClassName> #запуск java-программы
+java -classpath <../classes> <ClassName> #поволяет запуситить java программу из другой папки
 
-<cd (папка)> перемещает нас правее в указанную папку. 
 
-<md (filaName)> - созать папку 
-
+```
  
-
-<javac (class).java> компилирует указанный файл в байт-код. 
-
-<java (class)> запускает указанный класс. 
-
-<javac -d (путь к папке)/(class).java> компилирует указанный класс в указанную папку  
-
-<java -classpath ./bin (className) - позволяет запустить java программу (находящуюся в папку bin) из текущий папки 
 
 <javac -sourcepath ./src -d bin src/com/qwertovsky/helloworld/HelloWorld.java> - компиляция программы, состоящей из нескольких классов (благодаря ключу -sourcepath) 
 
