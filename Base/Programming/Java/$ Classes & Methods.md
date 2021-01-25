@@ -8,7 +8,7 @@ class **BufferedWriter, BufferedReader,** 
 - Классы-обертки (BIS и BOS для InputStream и Outputstream, а BW и BR для Writer и Reader).
 - BufferedInputStream принимает на вход InputStream и его наследников. В качестве дополнительного параметра он принимает размер буфера в байтах. Теперь благодаря этому данные будут считываться из файла не по одному байту, а по 200! Представь, насколько мы сократили количество обращений к файлу.
 
-abstract class **InputStream** & **OutputStream** 
+interface **InputStream** & **OutputStream** 
 
 — это абстрактные классы, которые отвечает за байтовый ввод и вывод
 
