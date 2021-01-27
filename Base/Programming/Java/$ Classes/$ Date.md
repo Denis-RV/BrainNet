@@ -1,12 +1,11 @@
 # class Date
-#javaClass
+#javaClass 
+**extends:** Object
+** implements **:Serializable, Cloneable, Comparable\<Date>
 
 ---
 
 >С помощью этого класса можно хранить дату и время, а также измерять временные промежутки.
-
-**extends:** Object
-** implements **:Serializable, Cloneable, Comparable<Date>
 
 ### Возможности:
 - В каком виде хранится время в классе Date?

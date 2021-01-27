@@ -22,10 +22,12 @@ pablic void main(String[] args) {
 						- Seventh level
 							- ...
 			additional level
+
+<? Comment ?>
 	
-*One type*
-**Two type**
-***Three type***
+*Type one*
+**Type two**
+***Type three***
 
 ---
 # One

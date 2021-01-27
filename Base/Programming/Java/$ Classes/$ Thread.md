@@ -1,11 +1,13 @@
 # class Thread
-#javaClass
+
+**extends:** 
+** implements:** Runnable
+tegs: #javaClass
+
 ---
 
 >---
 
-**extends:** Object
-** implements:** Runnable
 ### Возможности:
 
 ### Методы класса:

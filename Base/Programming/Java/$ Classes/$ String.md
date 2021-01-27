@@ -1,12 +1,12 @@
 # class String
-#javaClass
+**extends:** 
+** implements:** [[$ Serializable]], Comparable\<String>
+tegs: #javaClass
+
 ---
 
 >
 
-**extends:** Object
-** implements:** Serializable, Comparable<String>, CharSequence, Constable, ConstantDesc\
-	
 ### Возможности:
 - Как осуществляется форматирование?
 
