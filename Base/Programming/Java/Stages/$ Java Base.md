@@ -3,7 +3,7 @@
 *status:* In process
 *format:* stage
 *tegs:* #programming #java 
-*desckription:* Основые конструкции Java
+*desckritpion:* Основые конструкции Java
 
 ---
 # Конструкции в Java:

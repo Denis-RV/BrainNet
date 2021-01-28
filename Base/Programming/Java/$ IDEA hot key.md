@@ -3,7 +3,7 @@
 *status:* In process
 *format:* stage
 *tegs:*
-*desckription:*
+*desckritpion:*
 
 ---
 #### Работа с кодом
