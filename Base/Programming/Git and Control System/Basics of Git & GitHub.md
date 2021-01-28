@@ -4,7 +4,7 @@ Created: Oct 28, 2020 8:05 PM
 status: Ready
 format: flow
 Tags: #programming
-need to know: [[$ Base  bash commands]]
+need to know: [[$ Base bash commands]]
 
 ![Basics%20of%20Git%20&%20GitHub%20a859a9b942214e4083d4e8ade3882b97/Untitled.png](Images/Programming/Basics%20of%20Git%20&%20GitHub%20a859a9b942214e4083d4e8ade3882b97/Untitled.png)
 

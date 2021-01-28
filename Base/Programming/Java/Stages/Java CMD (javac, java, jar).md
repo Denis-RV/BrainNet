@@ -3,7 +3,7 @@
 status: Ready
 format: stage
 tegs: #java #programming 
-need to know: [[$ Base  bash commands]]
+need to know: [[$ Base bash commands]]
 
 ---
 
@@ -60,4 +60,4 @@ jar -xf packeg.jar
 
 ---
 ## See also:
-- [[$ Java servers]]
+- [[$ JWS & Java servers]]
