@@ -3,9 +3,12 @@
 
 >Frame for text
 
-`Excretion`
+
 ==Other excretion. Next latex:==
+~~strikethrough text~~
+`Latext expression:`
 $$lim_{x\to1}(\frac{2x^2-3x-5}{x+1})$$
+<? Comment ?>
 
 ```java
 pablic void main(String[] args) {
@@ -23,7 +26,7 @@ pablic void main(String[] args) {
 							- ...
 			additional level
 
-<? Comment ?>
+
 	
 *Type one*
 **Type two**

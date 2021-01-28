@@ -6,7 +6,8 @@
 *desckription:* Основые конструкции Java
 
 ---
-## Исключения try-catch-finally
+# Конструкции в Java:
+### Исключения try-catch-finally
 Синтаксис:
 ```java
 try {
@@ -18,6 +19,8 @@ try {
 }
 ```
 
+#  Важные методы в java:
+- Math.random() - генератор рандомных чисел. Подробнее [[class Math]]
 
 ---
 

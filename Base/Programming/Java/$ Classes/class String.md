@@ -1,6 +1,6 @@
 # class String
 **extends:** 
-** implements:** [[$ Serializable]], Comparable\<String>
+** implements:** [[interface Serializable]], Comparable\<String>
 tegs: #javaClass
 
 ---
