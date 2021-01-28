@@ -1,12 +1,10 @@
 # class 
 **extends:** 
 ** implements:** 
-tegs: #javaClass
+**tegs:** #javaClass
+**description:** 
 
 ---
-
->description
-
 ### Возможности:
 - 
 ### Методы класса:

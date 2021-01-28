@@ -13,7 +13,7 @@ tegs: #javaClass
 - `println(String x)` - Записывает строчку в файл. Строка может не записаться, если не закрыть поток (`writer.close()`)
 
 ### Примеры использования:
-- Можно поместить в [[$ BufferedWriter]]:
+- Можно поместить в [[BufferedWriter]]:
 	```java
 	BufferedWriter writer = new BufferedWriter(new PrintWriter("Testing\_file.txt"));
 	writer.write("My name is Kris");

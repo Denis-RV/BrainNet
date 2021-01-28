@@ -2,12 +2,12 @@
 *Need to know:* 
 *status:* In process
 *format:* stage
-*tegs:*
-*desckription:*
+*tegs:* #programming #java 
+*desckription:* 
 
 ---
 ## Состоит из следующих классов:
-[[$ ArrayList]], 
+[[ArrayList]], 
 
 
 ---
