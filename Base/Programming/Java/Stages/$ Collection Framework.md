@@ -6,14 +6,8 @@
 *desckription:* 
 
 ---
-## Состоит из следующих классов:
+## Классы:
 [[class ArrayList]], 
 
 
 ---
-
-# Links:
-- 
-
-# See also:
-- 
