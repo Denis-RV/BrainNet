@@ -1,4 +1,4 @@
-# Введение в VIM
+# Введение в Vim
 *Need to know:* -
 *status:* Ready
 *format:* flow
