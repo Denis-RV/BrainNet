@@ -4,7 +4,7 @@ Created: Oct 27, 2020 5:37 PM
 status: Ready
 format: stage
 tags: #programming #spring
-need to know: [[$ Introduction]]
+need to know: [[Spring terms]]
 
 # Проблемы зависимости
 
