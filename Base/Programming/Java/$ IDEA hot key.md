@@ -1,8 +1,8 @@
-#
+# IDEA hot key
 *Need to know:*
 *status:* In process
 *format:* stage
-*tegs:*
+*tegs:* #editText #java #programming #spring 
 *desckritpion:*
 
 ---

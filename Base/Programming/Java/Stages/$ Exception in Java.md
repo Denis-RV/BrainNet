@@ -6,13 +6,6 @@
 *desckription:*
 
 ---
-## 
+# 
 
-
----
-
-# Links:
-- 
-
-# See also:
-- 
+![[Pasted image 20210131192500.png]]
