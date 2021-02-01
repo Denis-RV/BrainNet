@@ -1,7 +1,7 @@
-# Spring terms
+# Intro to Spring
 
 Created: Oct 27, 2020 7:07 PM
-status: В процессе
+status: ready
 format: terms
 tags: #programming #spring 
 need to know: [[$ Java Base]]

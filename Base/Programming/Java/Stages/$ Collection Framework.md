@@ -6,8 +6,11 @@
 *desckription:* 
 
 ---
+### Сложность алгоритмов
+![[Pasted image 20210131211823.png]]
 ### Иерархия классов: 
 ![](https://cdn.javacodeexamples.com/wp-content/uploads/java-collections-cheat-sheet.png)
+
 - [[interface Map]]
 	- [[class Hashtable]]
 	- [[class HashMap]]

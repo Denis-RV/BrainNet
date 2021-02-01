@@ -2,7 +2,7 @@
 **extends:** 
 ** implements:** 
 **tegs:** #javaClass
-**description:** 
+**description:** отличается от [[class HashSet]] только тем, что в основе лежит [[class LinkedHashMap]] вместо [[class HashMap]]. Благодаря этому отличию порядок элементов при обходе коллекции является идентичным порядку добавления элементов.
 
 ---
 ### Возможности:
