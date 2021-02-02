@@ -1,7 +1,7 @@
-# Pattern 
+# Pattern Mediator
 *tegs:* #programming #python #java #design 
-*type:* 
-*desckription:* 
+*type:* поведенческий
+*desckription:* Позволяет уменьшить связанность множества классов между собой, благодаря перемещению этих связей в один класс-посредник.
 
 ---
 ### Проблема

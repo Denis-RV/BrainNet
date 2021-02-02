@@ -1,7 +1,7 @@
 # Introduction in Data Structures
 *status:* In process
 *format:* stage
-*tegs:* #programming #java #analysis #python 
+*tegs:* #programming #java #analysis #python #dataScience 
 *desckription:* Все реализации алгоритмов доступны по [ссылке](https://www.manning.com/downloads/1368)
 
 ---

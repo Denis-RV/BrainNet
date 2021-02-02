@@ -3,11 +3,10 @@
 Created: Nov 9, 2020 12:27 AM
 status: В процессе
 format: stage
-tegs: #programming #spring
+tegs: #programming #spring #java
 need to know: [[Inversion of Control]] 
 
-![Bean%20ca7b701378db4e89810fa2fa29d93275/Untitled.png](Images/Programming/Spring%20Framework/Bean%20ca7b701378db4e89810fa2fa29d93275/Untitled.png)
-
+---
 ## Bean
 
 1. Это простой Java объект.

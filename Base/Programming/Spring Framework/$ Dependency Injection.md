@@ -3,11 +3,10 @@
 Created: Oct 27, 2020 6:57 PM
 status: В процессе
 format: stage
-Tags: #programming #spring 
+Tags: #programming #spring #java #design 
 need to know: [[$ Bean]], [[Inversion of Control]]
 
-![Dependency%20Injection%2087375ca0a0964c3c8deb222d3d09d206/Untitled.png](Images/Programming/Spring%20Framework/Dependency%20Injection%2087375ca0a0964c3c8deb222d3d09d206/Untitled.png)
-
+---
 ## **Как сделать так, чтобы зависимость music не нужно было внедрять вручную и создавать объект musicPlayer?**
 
 ```java
@@ -106,7 +105,7 @@ Singltone используется, когда мы точно знаем, чт�
 
 ### 5. Global-session
 
-### [Внедрение бинов с помощью init-method и destroy-method]($%20Bean.md)
+### 6. [[$ Bean#Внедрение бинов с помощью init-method и destroy-method]]
 
 ### Внедрение бинов с помощью factory method
 	

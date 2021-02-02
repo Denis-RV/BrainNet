@@ -1,7 +1,7 @@
-# Pattern 
+# Pattern State
 *tegs:* #programming #python #java #design 
-*type:* 
-*desckription:* 
+*type:* поведенческий
+*desckription:* Позволяет объектам менять поведение в зависимости от своего состояния. Извне создаётся впечатление, что изменился класс объекта.
 
 ---
 ### Проблема

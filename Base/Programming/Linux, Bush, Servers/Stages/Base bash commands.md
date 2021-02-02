@@ -1,10 +1,10 @@
 # Base bash commands
 
 Created: Oct 28, 2020 10:18 PM
-status: В процессе
+status: Ready
 format: flow
 Tags: #programming  #linux
-need to know: [[$ Terms]]
+need to know: [[Terms]]
 
 ---
 

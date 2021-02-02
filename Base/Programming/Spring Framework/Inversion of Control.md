@@ -3,7 +3,7 @@
 Created: Oct 27, 2020 5:37 PM
 status: Ready
 format: stage
-tags: #programming #spring
+tags: #programming #spring #java 
 need to know: [[Intro to Spring]]
 
 # Проблемы зависимости

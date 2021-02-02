@@ -2,7 +2,7 @@
 *Need to know:*
 *status:* In process
 *format:* mini stage
-*tegs:* #programming #maths #binarMaths #python #analysis #dataStruct
+*tegs:* #programming #maths #binarMaths #python #analysis #dataScience 
 *desckription:*
 
 ---

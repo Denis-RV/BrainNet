@@ -1,7 +1,7 @@
-# Pattern 
+# Pattern Visitor
 *tegs:* #programming #python #java #design 
-*type:* 
-*desckription:* 
+*type:* поведенческий
+*desckription:* Позволяет содздавать новые операции, не меняя классы объектов, над которыми эти операции могут выполняться.
 
 ---
 ### Проблема

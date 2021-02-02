@@ -1,7 +1,5 @@
 # Terms
-
 Created: Nov 18, 2020 2:24 PM
-status: В процессе
 format: terms
 Tags: #programming #linux 
 

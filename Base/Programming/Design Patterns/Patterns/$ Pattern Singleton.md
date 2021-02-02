@@ -1,7 +1,8 @@
-# Pattern 
+# Pattern Singleton
 *tegs:* #programming #python #java #design 
-*type:* 
-*desckription:* 
+*type:* пораждающий
+*desckription:* Гарантирует, что у класса есть только один экземпляр, и
+предоставляет к нему глобальную точку доступа.
 
 ---
 ### Проблема

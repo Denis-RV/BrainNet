@@ -1,7 +1,7 @@
-# Pattern 
+# Pattern Decorator
 *tegs:* #programming #python #java #design 
-*type:* 
-*desckription:* 
+*type:* структурный
+*desckription:* Позволяет динамически добавлять объектам новую функциональность, оборачивая их в полезные "обертки".
 
 ---
 ### Проблема
