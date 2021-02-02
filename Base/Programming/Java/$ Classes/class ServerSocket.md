@@ -1,7 +1,7 @@
 # class 
 **extends:** 
 ** implements:** 
-tegs: #javaClass
+tegs: #javaClass #java
 
 ---
 

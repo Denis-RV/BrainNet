@@ -1,5 +1,5 @@
 # class Date
-#javaClass 
+#javaClass #java
 **extends:** Object
 ** implements **:Serializable, Cloneable, Comparable\<Date>
 

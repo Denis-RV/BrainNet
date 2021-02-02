@@ -1,7 +1,7 @@
 # class 
 **extends:** 
 ** implements:** 
-**tegs:** #javaClass
+**tegs:** #javaClass #java
 **description:** Является упорядоченной. По-умолчанию, коллекция сортируется по ключам с использованием принципа "[natural ordering](http://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html)", но это поведение может быть настроено под конкретную задачу при помощи объекта `Comparator`, который указывается в качестве параметра при создании объекта `TreeMap`.
 
 ---

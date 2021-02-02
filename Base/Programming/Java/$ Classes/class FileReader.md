@@ -1,7 +1,7 @@
 # class FileReader(File f)
 **extends:** 
 ** implements:** 
-tegs: #javaClass
+tegs: #javaClass #java
 
 ---
 

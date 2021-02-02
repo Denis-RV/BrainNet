@@ -1,7 +1,7 @@
 # class PrintWriter
 **extends:** 
 ** implements:** 
-tegs: #javaClass 
+tegs: #javaClass  #java
 
 ---
 

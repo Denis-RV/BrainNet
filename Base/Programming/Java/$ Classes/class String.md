@@ -1,7 +1,7 @@
 # class String
 **extends:** 
 ** implements:** [[interface Serializable]], Comparable\<String>
-tegs: #javaClass
+tegs: #javaClass #java
 
 ---
 
