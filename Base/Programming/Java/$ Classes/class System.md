@@ -1,7 +1,7 @@
 # class System
 **extends:** 
 ** implements:** 
-**tegs:** #javaClass
+**tegs:** #javaClass #java 
 **description:** 
 
 ---
