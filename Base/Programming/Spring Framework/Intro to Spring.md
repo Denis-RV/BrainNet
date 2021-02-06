@@ -4,7 +4,7 @@ Created: Oct 27, 2020 7:07 PM
 status: ready
 format: terms
 tags: #programming #spring #java 
-need to know: [[$ Java Base]]
+need to know: [[Java Base]]
 
 ---
 ## Spring Framework
