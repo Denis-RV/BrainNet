@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Синхронизируемся с удаленным репозиторием перед загрузкой программы
-cd /home/danis/Documents/BrainNet/
+cd /home/denis/Documents/BrainNet/
 pwd
 git pull git@github.com:Denis-VR/BrainNet.git
 
