@@ -32,3 +32,18 @@
 	- [[interface Deque]]
 		- [[class ArrayDque]]
 
+### Делаем возможность перебирать элементы с помощью foreach
+Для этого необходимо реализовать [[interface Iterable''T'']], а именно метод iterator(). В этом же обхекте надо создать анонимный класс и прееопределить у него методы hasNext() (проверка, есть ли еще элементы в коллекции) и next() (возвращает следующий элемент).:
+```java
+public Iterator<Object> iterator() {
+	return new Iterator<Object>() {
+	@Override
+	public boolean hasNext() {
+		return false;
+	}
+	
+	@Override
+	public Car next() {
+		return null;
+	}
+}
