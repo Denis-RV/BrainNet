@@ -1,12 +1,18 @@
 # class TreeSet
 **extends:** 
-** implements:** 
-**tegs:** #javaClass #java
-**description:** аналогично другим классам-реализациям [[interface Set]] содержит в себе объект `NavigableMap`, что и обуславливает его поведение. Значения внутри этой коллекции сохранятюся в отсортированном виде. Предоставляет возможность управлять порядком элементов в коллекции при помощи объекта `Comparator`, либо сохраняет элементы с использованием "[natural ordering](http://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html)".
+
+** implements:** [[interface Set]]
+
+**tegs:** #javaClass #java 
+
+**description:** Значения внутри этой коллекции сохранятюся в отсортированном виде. Предоставляет возможность управлять порядком элементов в коллекции при помощи объекта `Comparator`, либо сохраняет элементы с использованием "[natural ordering](http://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html)". Использовать можно только с классами, реализующими [[interface Comparable''T'']]. Алгоритмическая сложность всех операций - O(log(n))
 
 ---
-### Возможности:
-- 
+#### *Преимущества:*
+
+#### *Недостатки:*
+
+
 ### Методы класса:
 - 
 
