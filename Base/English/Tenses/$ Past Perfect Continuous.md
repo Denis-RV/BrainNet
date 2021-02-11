@@ -20,7 +20,7 @@ tegs: #english #englishTense
 (-) 
 
 #### Указатели времени:
-
+for two minutes (в течение двух минут)
  
 ##### Грамматические нюансы: 
 - Если мы даем дополнительную информацию о длительности отрезка времени в прошлом, то нужно использовать предлог for: `My dad gave up smoking 2 years ago. He had been smoking for 25 years.`
