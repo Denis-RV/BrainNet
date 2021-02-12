@@ -1,10 +1,10 @@
 # Present Perfect
-status: Готово
+status: Ready
 format: mini
 tegs: #english #englishTense 
 
 ---
-#### Дух времени: 
+### Дух времени: 
 Наличие результата к настоящему моменту времени
 
 #### Формула времени: 
@@ -22,7 +22,7 @@ tegs: #english #englishTense
 #### Указатели времени:
 already, just.
  
-##### Грамматические нюансы: 
+### Грамматические нюансы: 
 - Present perfect может первеводиться на русский как и в совершенной форме (речь о глаголе), так и в несовершенной:
    I have already read this book (я уже читал эту книгу).
    i have just read this book (я только что прочитал эту книгу)

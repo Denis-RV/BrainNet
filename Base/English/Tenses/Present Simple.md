@@ -1,10 +1,10 @@
 # Present Simple
-status: Готово
+status: Ready
 format: mini
 tegs: #english #englishTense
 
 ---
-#### Дух времени: 
+### Дух времени: 
 Обычность и повторяемость.
 
 
@@ -23,7 +23,7 @@ tegs: #english #englishTense
 #### Указатели времени:
 always (всегда), hardly (почти никогда, крайне редко), often (часто), every day, week, month (каждый день, неделю, месяц), seldom (редко), usually (обычно), sometimes (иногда), never (никогда), др.
  
-#### Грамматические нюансы: 
+### Грамматические нюансы: 
 - Вопрос задается при помощи вспомогательного глагола do, а в трьетьем лице единственного числа(он, она, оно) - при помощи вспомогательного глагола does: 
 *Ты часто поешь? - Do you often sing? 
 Зимой рано темнеет? - Does it get dark early in winter?*

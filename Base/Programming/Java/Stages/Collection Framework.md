@@ -47,3 +47,6 @@ public Iterator<Object> iterator() {
 		return null;
 	}
 }
+```
+
+#TODO добавить инфу про equals(), hashcode, iterator...

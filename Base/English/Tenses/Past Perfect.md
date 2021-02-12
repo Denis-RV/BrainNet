@@ -1,12 +1,10 @@
 # Past Perfect
-status: В процессе
-
+status: Ready
 format: mini
-
 tegs: #english #englishTense 
 
 ---
-#### Дух времени: 
+### Дух времени: 
 Наличие рузультата к какому-то моменту в прошлом.
 
 #### Формула времени: 
@@ -34,6 +32,6 @@ tegs: #english #englishTense
 	- no sooner... then (не успед... как)
 	- Эти союзы используются так: `Hardly had i entered the room when the light went out`.
  
-##### Грамматические нюансы: 
+### Грамматические нюансы: 
 - Past Perfect употребляется тогда, когда мы хотим подчернуть, что одно из двух действий предшествовало другому: `Was your daddy at home when you came? - No, he wasn't. He had already gone to work. (Он уже ушел на работу)`
 - Если мы не хотим подчеркнуть, что одно из двух действий предшествовало другому, а просто называем два действия, которые произошли в прошлом одно за другим, то есть констатируем последовательнойсть действий в прошлом, то тогда при переводе на английский язык нужно пользоваться временем past simple. `We lived in Tbilisi and then we decided to move to Moscow1` 
