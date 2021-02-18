@@ -1,6 +1,6 @@
 # Pattern Prototype
 *tegs:* #programming #python #java #design 
-*type:* пораждающий
+*type:* #порождающий
 *desckription:* Позволяет копировать объекты, не вдаваясь в подробности их реализации.
 
 ---

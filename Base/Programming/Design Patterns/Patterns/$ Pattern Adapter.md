@@ -1,6 +1,6 @@
 # Pattern Adapter
 *tegs:* #programming #python #java #design 
-*type:* Структурный
+*type:* #структурный
 *desckription:* Позволяет объектам с несовместимыми интерфесами работать вместе.
 
 ---
