@@ -9,7 +9,7 @@
 ## Функциональные интерфейсы
 \- это интерфейсы с одним абстрактным методом. Именно с этими интерфейсами вы можете использовать лямбда-выражения.
 
-**Пример:**
+***Пример 1:***
 ```java
 new Thread(() -> System.out.println(1)).start();
 ```
@@ -28,3 +28,42 @@ new Thread(new Runnable() {
 
 ==Функциональные интерфейсы необходимо помечать аннотацией [[@FunctionalInterface]]==
 Благодаря этой аннотации компилятор будет следить за тем, чтобы в интерфейсе был один абстрактный метод, и если кто-то добавит новый, то программа не собереться. 
+
+***Пример 2:***
+```java
+System.out.println(new Director().jobStart((n) -> {  
+    for (int i = 0; i < n; i++) {  
+        System.out.println("I'm working");  
+ }  
+    return "Success";  
+}, 5));
+```
+**Что означает:**
+```java
+Worker worker = new Worker() {  
+    @Override  
+ public String work(int count) {  
+        for (int i = 0; i < n; i++) {  
+            System.out.println("I'm working");  
+ }  
+        return "Success";  
+ }  
+}  
+Director director = new Director();  
+String result = director.jobStart(worker, 5);  
+System.out.println(result);  
+```
+  
+  
+### Избавляемся от return
+Если наш код состоит из одной строчки и он возвращает что-то, мы можем сделать так:
+```java
+System.out.println(filter(numbers, (a) -> (a%5\==0)));
+```
+что означает:
+```java
+System.out.println(filter(numbers, (a) -> {  
+   return (a % 5 == 0);  
+}));
+```
+***Пример 3:***
