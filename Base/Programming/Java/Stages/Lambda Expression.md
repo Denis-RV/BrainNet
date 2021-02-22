@@ -66,4 +66,5 @@ System.out.println(filter(numbers, (a) -> {
    return (a % 5 == 0);  
 }));
 ```
-***Пример 3:***
+
+
