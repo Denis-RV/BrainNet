@@ -1,5 +1,7 @@
 # Hacknet
+#linux  #programming 
 
+---
 ### Основные команды:
 ```bash
 $ nmap #скан узлов сети

@@ -21,7 +21,7 @@
 	- [[class HashSet]]
 		- [[class LinkedHashSet]]
 	- [[interface SortedSet]]
-		- [[class TreeSet]]]
+		- [[class TreeSet]]
 - [[interface List]]
 	- [[class ArrayList]]
 	- [[class LinkedList]]
