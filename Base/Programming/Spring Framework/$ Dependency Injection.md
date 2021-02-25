@@ -1,4 +1,4 @@
- # Dependency Injection
+  # Dependency Injection
 
 *need to know:* [[$ Bean]], [[Base/Programming/Spring Framework/Old/Inversion of Control]]
 *status:* В процессе
@@ -73,10 +73,13 @@ classpath - местонахождение пользовательских кл
             </list>
 </property>
 ```
-
+	
 ### Внедрение с помощью Scope.
+Scope (область видимости) определяет:
+- жизненный цикл бина
+- возможное количество создаваемых бинов.
 
-### 1. Singlton
+#### 1. Singlton
 
 - Scope задает то, как Spring будет создавать бины.
 - Singlton - Scope, который используется по умолчанию (он создается еще до вызова метода getBean()).
