@@ -1,10 +1,9 @@
 # Intro to Spring
 
-Created: Oct 27, 2020 7:07 PM
-status: ready
-format: terms
-tags: #programming #spring #java 
-need to know: [[Java Base]]
+*need to know:* [[Java Base]]
+*status:* ready
+*format:* terms
+*tags:* #programming #spring #java 
 
 ---
 ## Spring Framework
@@ -29,5 +28,5 @@ need to know: [[Java Base]]
 - [Описание Spring - компонентов](https://spring.io/projects)
 
 ### See next:
-- [[Inversion of Control]]
+- [[Base/Programming/Spring Framework/Old/Inversion of Control]]
 

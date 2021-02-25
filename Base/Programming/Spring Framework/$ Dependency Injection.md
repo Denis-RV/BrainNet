@@ -1,13 +1,13 @@
-# Dependency Injection
+ # Dependency Injection
 
-Created: Oct 27, 2020 6:57 PM
-status: В процессе
-format: stage
-Tags: #programming #spring #java #design 
-need to know: [[$ Bean]], [[Inversion of Control]]
+*need to know:* [[$ Bean]], [[Base/Programming/Spring Framework/Old/Inversion of Control]]
+*status:* В процессе
+*format:* stage
+*Tags:* #programming #spring #java #design 
 
 ---
-## **Как сделать так, чтобы зависимость music не нужно было внедрять вручную и создавать объект musicPlayer?**
+# Избавляемся от ручново внедрения зависимостей.
+Как сделать так, чтобы зависимость music не нужно было внедрять вручную и создавать объект musicPlayer?
 
 ```java
 Music music = context.getBean("musicBean", Music.class);
@@ -18,9 +18,9 @@ MusicPlayer musicPlayer = new MusicPlayer(music);
 
 - Создаем Java - классы (будщие бины)
 - Создаем и связываем бины с помощью Spring (аннотации, XML или Java код)
-- При использовании, все объекты (бины) берутся из контейнера Spring
+- При использовании, все объекты (бины) берутся из Spring Container (Application Context)
 
-### Способы внедрения зависимостей:
+## Способы внедрения зависимостей:
 
 - Черерз конструктор
 - Через setter
@@ -37,7 +37,7 @@ MusicPlayer musicPlayer = new MusicPlayer(music);
 
 <bean id="musicPlayer"
       class="org.example.MusicPlayer">
-      <!-- В конструктор MusicPlayer необходимо передать объект musicBean -->
+      <!-- В конструктор MusicPlayer необходимо передать объект musicBean. В нем нет конструктора без аргументов  -->
       <constructor-arg ref="musicBean"/>
 </bean>
 ```
@@ -59,6 +59,8 @@ MusicPlayer musicPlayer = new MusicPlayer(music);
 ### Внедрение значений из внешнего файла:
 
 ![Dependency%20Injection%2087375ca0a0964c3c8deb222d3d09d206/Untitled%203.png](Images/Programming/Spring%20Framework/Dependency%20Injection%2087375ca0a0964c3c8deb222d3d09d206/Untitled%203.png)
+	
+classpath - местонахождение пользовательских классов, которые видит система. В него входит файл resources.
 
 Также можно вндерять коллекции:
 

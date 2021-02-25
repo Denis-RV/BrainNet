@@ -4,7 +4,7 @@ Created: Nov 9, 2020 12:27 AM
 status: В процессе
 format: stage
 tegs: #programming #spring #java
-need to know: [[Inversion of Control]] 
+need to know: [[Base/Programming/Spring Framework/Old/Inversion of Control]] 
 
 ---
 ## Bean
