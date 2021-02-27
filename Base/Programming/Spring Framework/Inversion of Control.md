@@ -1,6 +1,6 @@
 # Inversion of Control (loC)
 *Need to know:* [[Intro to Spring]]
-*status:* In process
+*status:* Ready
 *format:* stage
 *tegs:* #programming #spring #java 
 
@@ -39,7 +39,7 @@
 
 	![Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled%206.png](Untitled%206.png)
 
-	**Решение:** проблема решается с помощью [$ Dependency Injection]($%20Dependency%20Injection.md) 
+	**Решение:** проблема решается с помощью [Dependency Injection](Dependency%20Injection.md) 
 
 ---
 ## Пример Inversion of Control
@@ -57,7 +57,7 @@
 
 ![Inversion%20of%20Control%20(loC)%20005481af34aa433398846213cb02962c/Untitled%2010.png](Untitled%2010.png)
 
-## Spring Container (Application Context)
+### Spring Container (Application Context)
 ==Spring Container== создает и управляет объектами. В нем они создаются и от туда извлекаются. Этот контейнер читает конфиг-файлы.
 
 Основные функции Spring Container:
@@ -66,29 +66,89 @@
 
 IoC - аутсорсинг создания и управления объектами, т.к. передача программистом прав на создание и управление объектами Spring-y.
 
-***Spring можно конфигурировать с помощью:***
+## Spring можно конфигурировать с помощью:
 
-- XML файла конфигурации (старый способ, но многие приложения до сих пор его испоьзуют).
-	```xml
-	<bean id = "mePet"
-		  class = "intro.Cat">
-	</bean>
-	```
-	id - идентификатор бина, class - полное имя бина. ==Spring Bean== - это объект, который создается и управляется Spring Container.
+### XML файл
+конфигурации c помощью XML фалйа (старый способ, но многие приложения до сих пор его испоьзуют). Подробнее: [[Dependency Injection]]
+
+```xml
+<bean id = "mePet"
+	  class = "intro.Cat">
+</bean>
+```
+Здесь id - идентификатор бина, class - полное имя бина. ==Spring Bean== - это объект, который создается и управляется Spring Container.
+```java
+public static void main(String\[\] args) {  
+ClassPathXmlApplicationContext context =  
+	 new ClassPathXmlApplicationContext("applicationContext.xml");  
+Pet pet = context.getBean("myPet", Pet.class);  
+pet.say();  
+
+context.close();  
+}
+```
+	
+
+### Java аннотаций и немного XML (современный способ).
+Процесс состоит из 2-х этапов:
+1. Сканирование классов и поск аннотации @Component
+2. Создание (регистрация) бина в Spring Container-e
+
+![[Pasted image 20210226021719.png]]
+
+**Если к аннотации @Component не прописать bean id, то бину будет назначен дефолтный id, который получается из имени класса, заменяя его первую заглавную букву на прописную, НО! Если две заглавные буквы идут в назавании класса, то дефолтный id будет таким же:**
+![[Pasted image 20210226023346.png]]
+
+Зависимости внедряются с помощью аннотации [[@Autowired]].
+Тажке с помощью [[@Qualifier]] указывается бин, который будет использован. Для внедрения строк и др. значений можно использовать [[@Value]].
+Scope указывается с помощью [[@Scope]].
+
+### Вся конфигурация на Java (современный способ).
+**Способ 1:**
+- Необходимо создать [[@Configuration]] класс MyConfig:
 	```java
-	public static void main(String\[\] args) {  
-   ClassPathXmlApplicationContext context =  
-         new ClassPathXmlApplicationContext("applicationContext.xml");  
- 	Pet pet = context.getBean("myPet", Pet.class);  
- 	pet.say();  
- 	 
- 	context.close();  
+	@Configuration
+	@ComponentScan("intro")
+	public class MyConfig {
 	}
 	```
-	
-- Java аннотаций и немного XML (современный способ).
-- Вся конфигурация на Java (современный способ).
+- Добавляем в main контекст:
+	```java
+	AnnotationConfigApplicationContext context =   
+      new AnnotationConfigApplicationContext(MyConfig.class);
+	```
+
+**Способ 2:**
+\- Этот способ не использует сканирование пакета и поиск бинов. Все бины и DI описываются внутри класса - конфигурации [[@Configuration]]. Бины помечаюстя [[@Bean]]. Этот способ не использует [[@Autowired]]. Название метода - это bean id. 
+MyConfig:
+```java
+@Configuration  
+public class MyConfig {  
+  
+   @Bean  
+   @Scope("singleton")
+ public Pet catBean() {  
+      return new Cat();  
+ }  
+}
+```
+Main:
+```java
+public static void main(String[] args) {  
+   AnnotationConfigApplicationContext context =  
+         new AnnotationConfigApplicationContext(MyConfig.class);  
+  
+ Pet pet = context.getBean("catBean", Pet.class);  
+  
+ pet.say();  
+  
+ context.close();  
+}
+```
+Если надо указать файл со значениями полей, используем [[@PropertySource]]:
+![[Pasted image 20210227010553.png]]
+
 ---
 ### See next:
-- [[$ Dependency Injection]]
-- [[$ Bean]]
+- [[Dependency Injection]]
+- [[Bean]]

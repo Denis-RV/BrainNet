@@ -1,9 +1,9 @@
   # Dependency Injection
 
-*need to know:* [[$ Bean]], [[Base/Programming/Spring Framework/Old/Inversion of Control]]
-*status:* В процессе
+*need to know:* [[Inversion of Control]], [[Bean]]
+*status:* Ready
 *format:* stage
-*Tags:* #programming #spring #java #design 
+*Tags:* #programming #spring #java 
 
 ---
 # Избавляемся от ручново внедрения зависимостей.
@@ -90,7 +90,9 @@ Singltone используется, когда мы точно знаем, чт�
 
 ### 2. Prototype
 
-- Каждый раз создает новый объект при вызове getBean().
+- Каждый раз создает новый объект при вызове getBean() (и создание происходит после обращения к Spring Container-у с помощью getBean()).
+- подходит для stateful объектов
+- напоминает [[$ Pattern Prototype]]
 
 ![Dependency%20Injection%2087375ca0a0964c3c8deb222d3d09d206/Untitled%205.png](Images/Programming/Spring%20Framework/Dependency%20Injection%2087375ca0a0964c3c8deb222d3d09d206/Untitled%205.png)
 
@@ -109,8 +111,12 @@ Singltone используется, когда мы точно знаем, чт�
 
 ### 5. Global-session
 
-### 6. [[$ Bean#Внедрение бинов с помощью init-method и destroy-method]]
+### 6. [[Bean#Внедрение бинов с помощью init-method и destroy-method]]
 
 ### Внедрение бинов с помощью factory method
 	
 	
+---
+## See next:
+- [[Bean]]
+- [[AOP]]

@@ -1,10 +1,9 @@
-# Bean
+ # Bean
 
-Created: Nov 9, 2020 12:27 AM
+need to know: [[Dependency Injection]]
 status: В процессе
 format: stage
 tegs: #programming #spring #java
-need to know: [[Base/Programming/Spring Framework/Old/Inversion of Control]] 
 
 ---
 ## Bean
@@ -21,12 +20,12 @@ need to know: [[Base/Programming/Spring Framework/Old/Inversion of Control]]
 
 ### Внедрение бинов с помощью init-method и destroy-method
 
-Init-method
+==Init-method==
 
 - Метод, который запускается в ходе инициализации бина.
 - Инициализация ресурсов, обращение к внешним файлам, запуск БД.
 
-Destroy-method
+==Destroy-method==
 
 - Метод, который запускается в ходе уничтожения бина (при завершении приложенияя)
 - Очищение ресурсов, закрытие потоков ввода-вывода, закрытие доступа к БД.
@@ -41,7 +40,7 @@ Destroy-method
 
 Данные методы создаются внутри класса бина (ClassicalMusci).
 
-Тонкости init и destroy методов
+#### Тонкости init и destroy методов
 
 ![Bean%20ca7b701378db4e89810fa2fa29d93275/Untitled%203.png](Images/Programming/Spring%20Framework/Bean%20ca7b701378db4e89810fa2fa29d93275/Untitled%203.png)
 
@@ -53,4 +52,4 @@ Destroy-method
 
 ---
 ### See next:
-- [[$ Dependency Injection]]
+- [[Dependency Injection]]

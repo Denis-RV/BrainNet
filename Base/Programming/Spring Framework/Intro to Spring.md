@@ -1,7 +1,7 @@
 # Intro to Spring
 
 *need to know:* [[Java Base]]
-*status:* ready
+*status:* Ready
 *format:* terms
 *tags:* #programming #spring #java 
 
@@ -28,5 +28,5 @@
 - [Описание Spring - компонентов](https://spring.io/projects)
 
 ### See next:
-- [[Base/Programming/Spring Framework/Old/Inversion of Control]]
+- [[Inversion of Control]]
 
