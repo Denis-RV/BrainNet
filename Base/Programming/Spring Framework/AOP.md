@@ -62,10 +62,10 @@
 ## Pointcut
 \- выражение, описывающее где должен быть применен Advice.
 
-Spring AOP использует AspectJ Poincut expression language, т.к. определенные правила в написании выражений для создания Pointcut.
+Spring AOP использует AspectJ Pointcut expression language, т.к. определенные правила в написании выражений для создания Pointcut.
 
 Шаблон Pointcut  с виделенными обязателными параметрами:
-*excution(modifiers-pattern? **return-type-pattern** declaring-type-pattern? **method-name-pattern(parameters-pattern)** throws-pattern?)*
+*execution(modifiers-pattern? **return-type-pattern** declaring-type-pattern? **method-name-pattern(parameters-pattern)** throws-pattern?)*
 Здесь declaring-type-pattern обозначает конкретный класс, где находится метод. 
 
 Мы можем использовать группы методов, то есть
@@ -73,3 +73,49 @@ Spring AOP использует AspectJ Poincut expression language, т.к. оп
 
 Примеры:
 ![[Pasted image 20210227155539.png]]
+
+### Парметры Pointcut
+- Любые методы с любым одним парамтром:
+	@Before("execution(public void \*(\*))")	
+- Любые методы с любым количеством любых параметров
+	@Before("execution(public void \*(..))")	
+	
+Примеры:
+![[Pasted image 20210227170820.png]]
+
+### Объявление Pointcut
+Для того, чтобы не пользоваться copy-paste когда для нескольлких Advice-ов подходит один и тот же Pointcut, есть возможность объявлять данный Pointcut и затем использовать его несколько раз:
+```java
+@Pointcut("pointcut_expression") 
+ private void pointcut_reference() {}
+```
+Чтобы можно было использовать Poincut в нейскольких advice-ах, на него должно что-то ссылаться. В данном случае на него ссылается метод pointcut_reference(). 
+Вот как он используется:
+```java
+@Before("allGetMethods()")  
+public void beforeGetLoggingAdvice() {... }
+```
+
+**Плюсы объявления Pointcut:**
+- Возможность использования созданного Pointcut для множества Advice-ос.
+- Возможность быстрого изменения Pointcut expression для множества Advice-ов.
+- Возможность комбинирования Pointcut-ов
+
+### Комбинирования Pointcut-ов
+Комбинирование Pointcut-ов - это их обединение с помощью логических операторов `&&`, `||`, `!`.
+
+```java
+@Pointcut("execution(\* aop.UniLibrary.get\*())")  
+private void allGetMethodsFromUniLibrary() {}  
+  
+@Pointcut("execution(\* aop.UniLibrary.return\*())")  
+private void allReturnMethodsFromUniLibrary() {}  
+  
+@Pointcut("allGetMethodsFromUniLibrary() || allReturnMethodsFromUniLibrary()")  
+private void allGetAndReturnMethodsFromUniLibrary() {}
+
+/* Или так:
+@Pointcut("allGetMethodsFromUniLibrary() && !allReturnMethodsFromUniLibrary()")  
+private void allGetAndReturnMethodsFromUniLibrary() {}
+*/
+```
