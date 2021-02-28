@@ -1,4 +1,4 @@
-# class 
+# class FileOutputStream
 **extends:** 
 ** implements:** 
 tegs: #javaClass #java

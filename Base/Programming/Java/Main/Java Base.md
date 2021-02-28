@@ -22,9 +22,9 @@
 - [[Lambda Expression]]
 - [[Java CMD (javac, java, jar)]]
 - [[$ Exception in Java]]
-- [[$ Multithreading base]]
+- [[Multithreading base]]
 - [[$ JWS & Java servers]]
-- [[$ Collection Framework]]
+- [[Collection Framework]]
 - [[$ Annotations]]
 
 # Методы и возможности java

@@ -2,6 +2,19 @@
 tegs: #java 
 
 ---
+### try-witch-resources
+Данная конструкция позволяет в скобках создавать класс, который нужно будет закрыть. Ее можно применять ко всем классам, которые реализуют Ее вид:
+```java
+try(InputStream inputStream = new FileInputStream(file)) {  
+   int a = inputStream.read();  
+ while(a != -1) {  
+      System.out.print((char) a);  
+ a = inputStream.read();  
+ }  
+} catch (IOException e) {  
+   e.printStackTrace();  
+}
+```
 ### Исключения try-catch-finally
 Синтаксис:
 ```java
