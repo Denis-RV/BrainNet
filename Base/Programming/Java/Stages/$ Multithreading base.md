@@ -1,7 +1,7 @@
  ## Multithreading base
 status: В процессе
 format: stage
-tegs: #programming #java
+tegs: #java
 
 ---
 # Работа с потоками

@@ -2,7 +2,7 @@
 
 status: В процессе
 format: stage
-tegs: #programming #java 
+tegs: #java 
 
 ----
 ## Определение аннотации. 

@@ -1,5 +1,5 @@
 # Pattern Visitor
-*tegs:* #programming #python #java #design 
+*tegs:* #python #java #design 
 *type:* #поведенческий
 *desckription:* Позволяет содздавать новые операции, не меняя классы объектов, над которыми эти операции могут выполняться.
 

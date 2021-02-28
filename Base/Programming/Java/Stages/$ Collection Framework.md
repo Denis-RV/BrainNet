@@ -2,7 +2,7 @@
 *Need to know:* 
 *status:* In process
 *format:* stage
-*tegs:* #programming #java 
+*tegs:* #java 
 *desckription:* 
 
 ---

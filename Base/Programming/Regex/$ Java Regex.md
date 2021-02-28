@@ -1,7 +1,7 @@
 # Java Regex
 *status*: В процессе
 *format*: stage
-*tegs*:  #programming #java #regex #spring 
+*tegs*:  #java #regex #spring 
 *need to know*: [[class Pattern]]
 
 ---

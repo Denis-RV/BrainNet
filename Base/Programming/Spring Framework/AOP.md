@@ -2,7 +2,7 @@
 *Need to know:* [[Dependency Injection]]
 *status:* In process
 *format:* stage
-*tegs:* #spring #programming #java 
+*tegs:* #spring #java 
 *desckription:*
 
 ---

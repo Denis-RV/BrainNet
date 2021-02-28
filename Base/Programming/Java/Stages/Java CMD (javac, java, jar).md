@@ -2,7 +2,7 @@
 
 status: Ready
 format: stage
-tegs: #java #programming 
+tegs: #java 
 need to know: [[Base bash commands]]
 
 ---

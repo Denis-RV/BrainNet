@@ -2,8 +2,8 @@
 
 *need to know:* [[Java Base]]
 *status:* Ready
-*format:* terms
-*tags:* #programming #spring #java 
+*format:* term
+*tags:* #spring #java 
 
 ---
 ## Spring Framework

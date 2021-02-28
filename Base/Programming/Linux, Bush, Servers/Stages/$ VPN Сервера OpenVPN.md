@@ -4,7 +4,7 @@ Created: Nov 14, 2020 2:48 PM
 Description: https://www.dmosk.ru/instruktions.php?object=openvpn-centos-install
 status: В процессе
 format: stage
-Tags: #linux #programming 
+Tags: #linux 
 need to know: [[Base bash commands]]
 
 ---

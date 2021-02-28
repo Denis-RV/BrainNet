@@ -2,8 +2,8 @@
 *Need to know:*
 *status:* In process
 *format:* stage
-*tegs:* #editText #java #programming #spring 
-*desckritpion:*
+*tegs:* #editText #java #spring 
+*desckritpion:![[Pasted image 20210228162928.png]]*
 
 ---
 #### Работа с кодом

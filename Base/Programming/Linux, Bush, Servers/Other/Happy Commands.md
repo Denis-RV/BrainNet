@@ -3,7 +3,7 @@
 Created: Nov 6, 2020 11:28 AM
 status: complemented by
 format: flow
-Tags: #programming  #linux 
+Tags:  #linux 
 Description: https://pastebin.com/7VQVB2xW
 need to know: -
 

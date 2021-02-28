@@ -2,7 +2,7 @@
 *Need to know:* -
 *status:* Ready
 *format:* flow
-*tegs:* #linux #programming #editText 
+*tegs:* #linux #editText 
 
 ---
 # Режимы VIM

@@ -1,5 +1,5 @@
 # Pattern Facade
-*tegs:* #programming #python #java #design 
+*tegs:* #python #java #design 
 *type:* #структурный
 *desckription:* Предоставляет простой интрефейс к сложной системе классов, библиотеке или фреймворку
 

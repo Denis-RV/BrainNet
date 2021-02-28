@@ -1,5 +1,5 @@
 # Pattern Composite
-*tegs:* #programming #python #java #design 
+*tegs:* #python #java #design 
 *type:* #структурный
 *desckription:* Позволяет сгруппировать объекты в древовидную структуру, а затем работать с ними так, если бы это был единичный объект.
 

@@ -3,7 +3,7 @@
 Created: Nov 3, 2020 10:02 AM
 status: В процессе
 format: flow
-Tags: #programming #python #dataScience 
+Tags: #python #dataScience 
 need to know: -
 
 ---

@@ -2,7 +2,7 @@
 *Need to know:*
 *status:* Ready
 *format:* stage
-*tegs:* #java #programming 
+*tegs:* #java 
 *desckritpion:* Библеотека для написания автотестов. Требует добавление зависимости с помощью Gradle и Maven.
 
 ---

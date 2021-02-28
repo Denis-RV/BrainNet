@@ -1,5 +1,5 @@
 # Hacknet
-#linux  #programming 
+#linux 
 
 ---
 ### Основные команды:

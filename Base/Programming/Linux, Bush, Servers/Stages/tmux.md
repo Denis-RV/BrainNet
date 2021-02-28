@@ -1,7 +1,7 @@
 # tmux
 *status:* In process
 *format:* stage
-*tegs:* #editText #linux #programming #java #html #python
+*tegs:* #editText #linux #java #html #python
 *link:* https://habr.com/ru/hub/vim/
 *desckription:* Терминальный мультиплексор. Позволяет разделять окна в терминале и быстро переключать сессии.
 

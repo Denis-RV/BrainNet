@@ -1,5 +1,5 @@
 # Pattern State
-*tegs:* #programming #python #java #design 
+*tegs:* #python #java #design 
 *type:* #поведенческий
 *desckription:* Позволяет объектам менять поведение в зависимости от своего состояния. Извне создаётся впечатление, что изменился класс объекта.
 

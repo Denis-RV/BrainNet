@@ -2,7 +2,7 @@
 *Need to know:* -
 *status:* Ready
 *format:* flow
-*tegs:* #linux #programming #editText
+*tegs:* #linux #editText
 
 ---
 **snipMate** — позволяет быстро вставить в документ текстовый шаблон с помощью ключевого слова + <tаb> и предоставляет удобную навигацию по вставленному шаблону.  

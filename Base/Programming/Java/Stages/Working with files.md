@@ -1,7 +1,7 @@
 # Способы сохранения данных, объектов и их восстановление. 
 status: Ready
 format: stage
-tegs: #programming #java 
+tegs: #java 
 
 ---
 ### Общие вопросы: 

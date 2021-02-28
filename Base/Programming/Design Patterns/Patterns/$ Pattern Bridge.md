@@ -1,5 +1,5 @@
 # Pattern Bridge
-*tegs:* #programming #python #java #design 
+*tegs:* #python #java #design 
 *type:* #структурный
 *desckription:* Разделяет один или несколько классов на две отдельные иерархии — абстракцию и реализацию, позволяя изменять их независимо друг от друга.
 

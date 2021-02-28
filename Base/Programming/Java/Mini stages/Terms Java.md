@@ -1,8 +1,5 @@
 # Terms Java
-*Need to know:*
-*status:* In process
-*format:* terms
-*tegs:* #java #programming 
+*tegs:* #java 
 
 ---
 

@@ -3,7 +3,7 @@
 Created: Oct 28, 2020 10:18 PM
 status: Ready
 format: flow
-Tags: #programming  #linux
+Tags:  #linux
 need to know: [[Terms]]
 
 ---

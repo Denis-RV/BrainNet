@@ -1,7 +1,7 @@
 # UML-диаграммы
 *status:* In process
 *format:* stage
-*tegs:* #java #python #programming #design
+*tegs:* #java #python #design
 *desckription:*
 
 ---

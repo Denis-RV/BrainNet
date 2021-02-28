@@ -1,7 +1,7 @@
 # Design Principles
 *status:* Ready
 *format:* stage
-*tegs:* #design #dataScience  #programming #java #python #spring 
+*tegs:* #design #dataScience #java #python #spring 
 
 ---
 ## Проблемы, встреычаемы из-за неудачного проектирования

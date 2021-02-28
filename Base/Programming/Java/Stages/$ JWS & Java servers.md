@@ -2,7 +2,7 @@
 need to know: [[Java Base]], [[Base bash commands]]
 status: В процессе 
 format: stage
-tegs: #programming #java #net
+tegs:  #java #net
 
 ---
 ## Резюме: 

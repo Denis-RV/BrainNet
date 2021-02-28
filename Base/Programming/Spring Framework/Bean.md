@@ -3,7 +3,7 @@
 need to know: [[Dependency Injection]]
 status: В процессе
 format: stage
-tegs: #programming #spring #java
+tegs: #spring #java
 
 ---
 ## Bean

@@ -2,7 +2,7 @@
 *Need to know:* [[Intro to Spring]]
 *status:* Ready
 *format:* stage
-*tegs:* #programming #spring #java 
+*tegs:* #spring #java 
 
 ---
 ## Проблемы зависимостей

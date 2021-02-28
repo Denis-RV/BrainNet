@@ -2,7 +2,7 @@
 *Need to know:*[[Intro in Data Structures]]
 *status:* In process
 *format:* mini stage
-*tegs:* #programming #maths #binarMaths #python #analysis #dataScience 
+*tegs:* #maths #binarMaths #python #analysis #dataScience 
 *desckription:* на входе получает отсортированный список элементов. Если элемет, который вы ищете, присутствует в списке, то бинарный поиск возвращает ту позицию, в которой он был найден, иначе возвращает null. Бинарным поиском вы каждый раз загадываете число в середине диапазона и исключаете половину оставшихся чисел. Для списка из n элементов бинарный поиск выполняется за $log_2(n)$ шагов.
 
 

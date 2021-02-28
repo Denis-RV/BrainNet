@@ -3,7 +3,7 @@
 *need to know:* [[Inversion of Control]], [[Bean]]
 *status:* Ready
 *format:* stage
-*Tags:* #programming #spring #java 
+*Tags:* #spring #java 
 
 ---
 # Избавляемся от ручново внедрения зависимостей.

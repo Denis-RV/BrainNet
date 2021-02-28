@@ -3,7 +3,7 @@
 Created: Nov 26, 2020 6:01 PM
 status: В процессе
 format: flow
-Tags: #programming #html
+Tags: #html
 needs to know: -
 
 Основные:

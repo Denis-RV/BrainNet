@@ -1,7 +1,7 @@
 # Terms
 Created: Nov 18, 2020 2:24 PM
 format: terms
-Tags: #programming #linux 
+Tags: #linux 
 
 ---
 
