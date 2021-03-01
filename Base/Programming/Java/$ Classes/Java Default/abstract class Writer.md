@@ -1,11 +1,12 @@
-# abstract class Reader
+# abstract class Writer
 *Direct Known Subclasses:* 
 **tegs:** #javaClass #java
-**description:** Посимвользное чтение байтов. 
+**description:** Посимвольная запись байтов.
 
 ---
 ### Возможности:
 - 
 ### Методы класса:
 - 
+
 ### Примеры использования:

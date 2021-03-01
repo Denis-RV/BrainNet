@@ -23,7 +23,16 @@ File[] files = directory.listFiles((dir, name) -> name.startsWith("f"));
 # Передача ифнформации
 Чтобы что-то передать, необходимо преобразовать данные в поток байтов.
 
-Чтобы преобразовать данные в поток байтов, необходимо воспользоваться абстрактными классами [[abstract class InputStream]], [[abstract class OutputStream]]
+Для ==преобразования данных в байты== необходимо воспользоваться абстрактными классами [[abstract class InputStream]], [[abstract class OutputStream]].
+
+Для ==преобразования данных в символы== необходимо воспользоваться [[abstract class Reader]], 
+
+==Чтение файлов== осуществеятся с помощью 
+- [[class FileInputStream]]
+
+==Запись в файлы== осуществляется с помощью [[class FileOutputStream]]
+
+==Чтение символов== осущетсвляется с помощью [[abstract class Reader]]
 
 ## Конструкция try-with-resources
 Чтобы безопасно и быстро работать с потоками ввода-вывода, был создан ([[Конструкции в Java#try-witch-resources]]).
