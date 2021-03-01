@@ -1,4 +1,4 @@
-# Регулярные выражения в Linux
+# Regex в Linux
 *Need to know:* -
 *status:* В процессе
 *format:* flow

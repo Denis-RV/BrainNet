@@ -1,8 +1,6 @@
 # Java Regex
-*status*: В процессе
-*format*: stage
+*need to know*: [[Syntax Regex]]
 *tegs*:  #java #regex #spring 
-*need to know*: [[class Pattern]]
 
 ---
 [[class Pattern]] - используется для регулярных выражений. Чтобы поспользоваться, необходимо создать обект с помощью метода Pattern.compile("…"). 

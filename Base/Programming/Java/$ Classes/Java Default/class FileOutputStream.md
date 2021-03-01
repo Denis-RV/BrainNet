@@ -1,6 +1,5 @@
 # class FileOutputStream
-**extends:** 
-** implements:** 
+**extends:** [[abstract class OutputStream]]
 tegs: #javaClass #java
 
 ---

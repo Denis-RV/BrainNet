@@ -26,6 +26,7 @@
 - [[$ JWS & Java servers]]
 - [[Collection Framework]]
 - [[$ Annotations]]
+- [[Важные тонкости java]]
 
 # Методы и возможности java
 - *[[Важные методы Java]]*

@@ -1,12 +1,8 @@
-# class 
-**extends:** 
-** implements:** 
-tegs: #javaClass #java
+# class Pattern
+*tegs:* #javaClass #java #regex 
+*description:*
 
 ---
-
->description
-
 ### Возможности:
 - 
 ### Методы класса:

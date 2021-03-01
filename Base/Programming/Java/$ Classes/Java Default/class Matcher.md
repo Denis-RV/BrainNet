@@ -1,8 +1,6 @@
-# class 
-**extends:** 
-** implements:** 
-**tegs:** #javaClass #java
-**description:** 
+# class Matcher
+*tegs:* #javaClass #java #regex 
+*description:*
 
 ---
 ### Возможности:
