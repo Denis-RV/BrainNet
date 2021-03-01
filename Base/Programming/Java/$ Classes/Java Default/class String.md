@@ -1,24 +1,21 @@
 # class String
-**extends:** 
-** implements:** [[interface Serializable]], Comparable\<String>
-tegs: #javaClass #java
+*implements:* [[interface Serializable]], Comparable\<String>
+*tegs:* #javaClass #java
+*desckription:* String - immutable (иммутабельный(неизменяемый). Когда мы как-то меняем String, то создается новый String.
 
 ---
 
-### Возможности:
-- Как осуществляется форматирование?
 
 ### Методы класса:
 - split(String s) - позволяет разбивать строку на части и вносит полученные строки в массив. Метод берет символ(ы) s использует его для разделения
 - format("any %s text, %s\n", string1, string2) - позволяет отформатировать текст при помощи спецификаторов ([[$ Спецификаторы формата Java]]).  
 
-### Подробно о возможностях
-- Как осуществляется форматирование?
+### Возможности
+- Форматирование
+	Форматирование осуществляется с помощью статического методао String.format(…), куда в качестве первого аргумента подается строка, содержащая текст и спец знаки - %s (String) и %d (int). Пример:
 
-Форматирование осуществляется с помощью статического методао String.format(…), куда в качестве первого аргумента подается строка, содержащая текст и спец знаки - %s (String) и %d (int). Пример:
+	```java
+	System.out.println(String.format("В г. %s сейчас полночь!", cityName));
 
-```java
-System.out.println(String.format("В г. %s сейчас полночь!", cityName));
-
-System.out.println(String.format("В г. %s сейчас %d:%d:%d!", cityName,hours,minutes,seconds));
-```
+	System.out.println(String.format("В г. %s сейчас %d:%d:%d!", cityName,hours,minutes,seconds));
+	```
