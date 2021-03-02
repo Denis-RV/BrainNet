@@ -38,22 +38,20 @@ try(InputStream inputStream = new FileInputStream(file)) {
 Чтобы что-то передать, необходимо преобразовать данные в поток байтов. Для эффективности стоит использовать буфферные оболочки классов. **Работа буффера:** при работе с этими классами мы заправшиваем у системы 8 кб данных для буффера, система в свою очередь запрашивает 8 кб данных из файла. Так в нашеф буффер-классе появляется буффер, из которого мы можем быстро читать данные по байтам. Без буфффера нам бы пришлось заправшивать байты сначала у системы, затем из файла.
 
 ==Преобразование данных в байты== осуществляется с помощью 
-- [[abstract class InputStream]]
-- [[class BufferedInputStream]]
-- [[abstract class OutputStream]]
-- [[class BufferedOutputStream]]
-
-==Чтение файлов и запись в них== осуществеятся с помощью 
-- [[class FileInputStream]]
-- [[class FileOutputStream]]
+- [[class InputStream (abstract)]]
+	- [[class BufferedInputStream]] - буффер
+	- [[class FileInputStream]] - основная реализация
+- [[class OutputStream (abstract)]]
+	- [[class BufferedOutputStream]] - буффер
+	- [[class FileOutputStream]] - основная реализация
 
 ==Преобразование данных в символы== осуществляется с помощью 
-- [[abstract class Reader]]
-- [[class BufferedReader]]
-- [[class InputStremaReader]]
-- [[abstract class Writer]]
-- [[class BufferedWriter]]
-- [[class OutputStreamWriter]]
+- [[class Reader (abstract)]] 
+	- [[class BufferedReader]] - буффер
+	- [[class InputStremaReader]] - основная реализация
+- [[class Writer (abstract)]] 
+	- [[class BufferedWriter]] - буффер
+	- [[class OutputStreamWriter]] основная реализация
 
 ==Вывод и ввод в консоле== 
 - System.in - ввод через консоль (InputStream)
