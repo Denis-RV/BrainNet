@@ -1,7 +1,5 @@
 # Input & Output
-*Need to know:* [[class File]]
-*status:* In process
-*format:* stage
+*Need to know:* [[class File]] 
 *tegs:* #java
 *desckription:*
 
@@ -37,7 +35,7 @@ try(InputStream inputStream = new FileInputStream(file)) {
 # Передача ифнформации
 Чтобы что-то передать, необходимо преобразовать данные в поток байтов. Для эффективности стоит использовать буфферные оболочки классов. **Работа буффера:** при работе с этими классами мы заправшиваем у системы 8 кб данных для буффера, система в свою очередь запрашивает 8 кб данных из файла. Так в нашеф буффер-классе появляется буффер, из которого мы можем быстро читать данные по байтам. Без буфффера нам бы пришлось заправшивать байты сначала у системы, затем из файла.
 
-==Преобразование данных в байты== осуществляется с помощью 
+==Преобразование данных в байты==
 - [[class InputStream (abstract)]]
 	- [[class BufferedInputStream]] - буффер
 	- [[class FileInputStream]] - основная реализация
@@ -45,19 +43,29 @@ try(InputStream inputStream = new FileInputStream(file)) {
 	- [[class BufferedOutputStream]] - буффер
 	- [[class FileOutputStream]] - основная реализация
 
-==Преобразование данных в символы== осуществляется с помощью 
+==Преобразование данных в символы==
 - [[class Reader (abstract)]] 
 	- [[class BufferedReader]] - буффер
 	- [[class InputStremaReader]] - основная реализация
+	- [[class FileReader]] - для текстовых файлов
 - [[class Writer (abstract)]] 
 	- [[class BufferedWriter]] - буффер
-	- [[class OutputStreamWriter]] основная реализация
+	- [[class OutputStreamWriter]] - основная реализация
+	- [[class FilleWriter]] - для текстовых файлов
+
+==Сериализация объектов== ([[Сериализация объектов]])
+- [[class ObjectOutputStream]] - сериализация
+	- [[interface Serializable]] - сериализуемые объекты должны имлементировать этот интерфейс.
+	- [[interface Externalizable]] - если надо изменить сериализацию (зашифровать).
+- [[class ObjectInputStream]] - десериализация
 
 ==Вывод и ввод в консоле== 
 - System.in - ввод через консоль (InputStream)
-- System.out - вывод через консоль
+- System.out - вывод через консоль 
 
 
+==Доступ к определенному месту в файле==
+- [[class RandomAccessFile]]
 
 ## Проблемы при чтении файлов
 - **Проблема чтение файлов с помощью массива байтов**
@@ -80,3 +88,5 @@ try(InputStream inputStream = new FileInputStream(file)) {
 	```
 - **Проблема чтения кирилицы побайтово**
 	Мы не можем читать кирилицу побайтово, т.к. она занимает болльше одного байта. Чтобы читать кирилицу, необходимо воспользоваться Reader, которые читает данные посимвольно.
+
+

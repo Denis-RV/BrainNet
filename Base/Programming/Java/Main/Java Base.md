@@ -16,20 +16,22 @@
 - [[Generic]]
 - [[Terms Java]]
 - [[Ключевые слова java]]
+- [[Сериализация объектов]]
 
 ## Stages
 - [[Stream API]]
 - [[Lambda Expression]]
 - [[Java CMD (javac, java, jar)]]
-- [[$ Exception in Java]]
+- [[Exception in Java]]
 - [[Multithreading base]]
 - [[$ JWS & Java servers]]
 - [[Collection Framework]]
 - [[$ Annotations]]
-- [[Важные тонкости java]]
+- [[Тонкости java]]
+- [[Input & Output in Java]]
 
 # Методы и возможности java
-- *[[Важные методы Java]]*
+- *[[Методы Java на все случаи]]*
 
 - [[Сравнение объектов]]
 - [[Working with files]]

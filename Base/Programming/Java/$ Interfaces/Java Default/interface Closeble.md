@@ -1,1 +1,5 @@
 Дает классам метод для закрытия работы с данными. Позволяет использовать классы в конструкции try-witch-resources ([[Конструкции в Java#try-witch-resources]])
+
+
+---
+tegs: #java #javaAnnotation
