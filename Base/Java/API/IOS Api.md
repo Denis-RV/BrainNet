@@ -53,7 +53,7 @@ try(InputStream inputStream = new FileInputStream(file)) {
 	- [[class OutputStreamWriter]] - основная реализация
 	- [[class FilleWriter]] - для текстовых файлов
 
-==Сериализация объектов== ([[$ Сериализация объектов]])
+==Сериализация объектов== ([[$- Сериализация объектов]])
 - [[class ObjectOutputStream]] - сериализация
 	- [[interface Serializable]] - сериализуемые объекты должны имлементировать этот интерфейс.
 	- [[interface Externalizable]] - если надо изменить сериализацию (зашифровать).

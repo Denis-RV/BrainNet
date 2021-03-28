@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#net",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,15 +109,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "Base/$ Development Base.md",
-    "TaskList.md",
-    "Images/Pasted image 20210328160748.png",
-    "Base/Data Base/SQL Base.md",
-    "Base/Web/$ Internet base.md",
-    "Base/Web/Stages/Сети и Linux.md",
-    "Base/Web/Stages/Mini stages/$$ Apache HTTP Server.md",
-    "Base/Web/Stages/Mini stages/$ Web Hosting.md",
-    "Base/Web/Stages/Mini stages/$ UDP.md"
+    "Base/Data Base/$ SQL Base.md",
+    "Base/Data Base/Stages/SQL commands.md",
+    "Base/Web/Stages/Mini stages/$$ URI.md",
+    "Base/Web/Stages/Mini stages/$$ UDP.md",
+    "Base/Web/Stages/Mini stages/$$ TCP & IP.md",
+    "Base/Web/Stages/Mini stages/$$ SSH.md",
+    "Base/Web/Stages/Mini stages/$$ Socket.md",
+    "Base/Web/Stages/Mini stages/$$ SOAP.md",
+    "Base/Web/Stages/Mini stages/$$ Nginx.md",
+    "Base/Web/Stages/Mini stages/$$ JSON.md"
   ]
 }
