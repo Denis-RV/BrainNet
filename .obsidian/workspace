@@ -10,23 +10,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
+            "file": "DataNet/SQL/Stages/Mini stages/Object SYNONYM.md",
             "mode": "source"
           }
-        },
-        "group": "241eff8ac04e265d"
+        }
       },
       {
-        "id": "ca43dbd905c8b91e",
+        "id": "5513e8005d53747c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
-            "mode": "preview"
+            "file": "DataNet/SQL/Stages/Database Objects.md",
+            "mode": "source"
           }
-        },
-        "group": "241eff8ac04e265d"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
+                "file": "DataNet/SQL/Stages/Mini stages/Object SYNONYM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md"
+                "file": "DataNet/SQL/Stages/Mini stages/Object SYNONYM.md"
               }
             }
           }
@@ -128,15 +126,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/SQL/Stages/Mini stages/Object VIEW.md",
-    "Base/SQL/Stages/DB Objects.md",
-    "Base/SQL/$ SQL Base.md",
-    "Base/$ Java Backend Base.md",
-    "Base/Java/Java Base.md",
-    "Base/Java/API/JUnit Api.md",
-    "Base/Linux, Bush, Servers/Stages/Vim intro.md",
-    "Base/Linux, Bush, Servers/Stages/Работа в Vim.md",
-    "TaskList.md",
-    "README.md"
+    "DataNet/SQL/Stages/Mini stages/Object SYNONYM.md",
+    "DataNet/SQL/Stages/Администрироване DB.md",
+    "DataNet/SQL/Stages/DB Objects.md",
+    "DataNet/SQL/Stages/INDEX.md",
+    "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
+    "DataNet/SQL/Stages/Mini stages/Подстановка значений sql.md",
+    "DataNet/SQL/Stages/Mini stages/Untitled.md",
+    "DataNet/SQL/SQL Commands/ALTER TABLE.md",
+    "DataNet/SQL/SQL Commands/CREATE TABLE.md",
+    "DataNet/SQL/SQL Commands/DROP TABLE.md"
   ]
 }

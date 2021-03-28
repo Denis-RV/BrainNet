@@ -19,9 +19,9 @@
 `MERGE` - объединение команд. ([[MERGE]])
 
 ### DDL (Data Definition Language), #DBddl
-`CREATE` - создание таблиц. ([[CREATE TABLE]])
-`ALTER` - изменение струтуры, добавление столбцов. ([[ALTER TABLE]])
-`DROP` - удаление объектов. ([[DROP TABLE]])
+`CREATE` - создание таблиц. ([[CREATE]])
+`ALTER` - изменение струтуры, добавление столбцов. ([[ALTER]])
+`DROP` - удаление объектов. ([[DROP]])
 `RENAME` - изменение имен столбцов. ([[$ RENAME]])
 `TRUNCATE` - удаление содержимого таблицы, но не таблицы. ([[TRUNCATE]])
 

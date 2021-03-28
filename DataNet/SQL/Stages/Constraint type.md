@@ -1,5 +1,5 @@
 # Constraint type
-*Need to know:* [[CREATE TABLE]]
+*Need to know:* [[CREATE]]
 *tegs:* #db  #sql 
 *description:* ограничения для столбцов.
 

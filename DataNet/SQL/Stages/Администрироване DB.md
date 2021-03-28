@@ -10,7 +10,7 @@
 
 > Если мы обращаемся к чужым таблицам БД, нам необходимо писать имя user-а, затем точку и название таблицы 
 
-Про объекты читайте здесь: [[DB Objects]]
+Про объекты читайте здесь: [[Database Objects]]
 
 Пример вывода таблицы *regions* пользователя *hr*:
 ```sql
@@ -74,3 +74,12 @@ public static void main(String\[\] args) throws ClassNotFoundException {
 }
 ```
 
+## Подключиться как администратор
+```bash
+sqlplus sys/password@database_name as sysdba
+```
+
+Выдача прав на создание синоинмов:
+```sql
+grant create public synonym to hr;
+```
