@@ -2,22 +2,6 @@
 *tegs:* #sql #db
 
 ---
-## Получение информации об объектах
-Чтобы получить информацию об объектах, принадлежащих user_objects (к примеру), надо написать следущее:
-```sql
-select * from user_objects;
-```
-Либо:
-```sql
-select OBJECT_type, count(object_type) from user_objects group by object_type order by OBJECT_TYPE;
-```
-
-Получить информацию обо всех объектах:
-```sql
-select OBJECT_type, count(object_type) from all_objects group by object_type order by OBJECT_TYPE;
-```
-
-
 
 ## Типы объектов
 - TABLE - таблицы.
@@ -38,6 +22,21 @@ select OBJECT_type, count(object_type) from all_objects group by object_type ord
 - INDEX - нужны для увелечения производительности поиска информации.
 
 - SEQUENCE - последовательности уникальных значений.
+
+## Получение информации об объектах
+Чтобы получить информацию об объектах, принадлежащих user_objects (к примеру), надо написать следущее:
+```sql
+select * from user_objects;
+```
+Либо:
+```sql
+select OBJECT_type, count(object_type) from user_objects group by object_type order by OBJECT_TYPE;
+```
+
+Получить информацию обо всех объектах:
+```sql
+select OBJECT_type, count(object_type) from all_objects group by object_type order by OBJECT_TYPE;
+```
 
 ## Правила названия объектов (таблиц)
 1. Имя должно быть не длиннее 30 символов (исключая database links).

@@ -2,7 +2,7 @@
 
 Содержит в себе методы следующих типов: 
 - 
-- [[Base/Java/$ Annotations/Spring/@Before]]
+- [[DataNet/Java/$ Annotations/Spring/@Before]]
 
 ---
 tegs: #java #javaAnnotation #spring 

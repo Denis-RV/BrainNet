@@ -10,21 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TaskList.md",
+            "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "241eff8ac04e265d"
       },
       {
-        "id": "58d182e0c9565a99",
+        "id": "ca43dbd905c8b91e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/$ Java Backend Base.md",
+            "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "241eff8ac04e265d"
       }
     ],
     "direction": "vertical"
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#db",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaskList.md",
+                "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskList.md"
+                "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md"
               }
             }
           }
@@ -126,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "TaskList.md",
-    "README.md",
-    "Base/Java/Java Base.md",
-    "Base/$ Java Backend Base.md",
-    "Base/Web/$- Web base.md",
-    "Base/Linux, Bush, Servers/$ Linux Base.md",
-    "Base/Python/Untitled.md",
+    "Base/SQL/Stages/Mini stages/Object VIEW.md",
+    "Base/SQL/Stages/DB Objects.md",
     "Base/SQL/$ SQL Base.md",
-    "Base/Tools for web/Regex/$ Syntax Regex.md",
-    "Base/Web/$ Intro to Internet.md"
+    "Base/$ Java Backend Base.md",
+    "Base/Java/Java Base.md",
+    "Base/Java/API/JUnit Api.md",
+    "Base/Linux, Bush, Servers/Stages/Vim intro.md",
+    "Base/Linux, Bush, Servers/Stages/Работа в Vim.md",
+    "TaskList.md",
+    "README.md"
   ]
 }
