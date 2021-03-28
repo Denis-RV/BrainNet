@@ -1,5 +1,5 @@
 # Socket
-*Need to know:* [[$ Internet base]]
+*Need to know:* [[$- Web base]]
 *tegs:* #net #server #linux
 *description:*
 

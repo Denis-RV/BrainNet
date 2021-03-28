@@ -9,7 +9,7 @@
 
 Основной запрос: [[SELECT]]
 
-Команды SQL: [[SQL Commands]], [[Subquery SQL]]
+Команды SQL: [[SQL commands]], [[Subquery SQL]]
 
 Оптимизация таблиц: [[INDEX]], [[Нормализация. Связи в бд]]
 

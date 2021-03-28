@@ -8,8 +8,22 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TaskList.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "58d182e0c9565a99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/$ Java Backend Base.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#net",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TaskList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TaskList.md"
+              }
             }
           }
         ]
@@ -109,15 +126,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/Data Base/$ SQL Base.md",
-    "Base/Data Base/Stages/SQL commands.md",
-    "Base/Web/Stages/Mini stages/$$ URI.md",
-    "Base/Web/Stages/Mini stages/$$ UDP.md",
-    "Base/Web/Stages/Mini stages/$$ TCP & IP.md",
-    "Base/Web/Stages/Mini stages/$$ SSH.md",
-    "Base/Web/Stages/Mini stages/$$ Socket.md",
-    "Base/Web/Stages/Mini stages/$$ SOAP.md",
-    "Base/Web/Stages/Mini stages/$$ Nginx.md",
-    "Base/Web/Stages/Mini stages/$$ JSON.md"
+    "TaskList.md",
+    "README.md",
+    "Base/Java/Java Base.md",
+    "Base/$ Java Backend Base.md",
+    "Base/Web/$- Web base.md",
+    "Base/Linux, Bush, Servers/$ Linux Base.md",
+    "Base/Python/Untitled.md",
+    "Base/SQL/$ SQL Base.md",
+    "Base/Tools for web/Regex/$ Syntax Regex.md",
+    "Base/Web/$ Intro to Internet.md"
   ]
 }

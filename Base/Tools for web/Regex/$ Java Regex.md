@@ -1,5 +1,5 @@
 # Java Regex
-*need to know*: [[$ Syntax Regex]]
+*need to know*: [[$ Regex intro]]
 *tegs*:  #java #regex #spring 
 
 ---
