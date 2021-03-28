@@ -1,0 +1,2 @@
+- Исправить опечатки в `Base\Linux, Bush, Servers`. Можно воспользоваться https://text.ru/spelling/unauthorized.
+- Исправить опечатки в `Base\Data Base`. 

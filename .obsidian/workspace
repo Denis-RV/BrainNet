@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "73a8d31a3600a276",
+    "type": "split",
+    "children": [
+      {
+        "id": "73cada674e0e06ab",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e23c4bda43b033af",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f1242322e6f2b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e30505713af4954",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d43af30214b074d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "957a922ada6dcc14",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220
+  },
+  "right": {
+    "id": "91c71ee87f2d7ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "83ab9b3897b2b64c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c11a80c727dcd07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f5d56e89d3c5d38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "585d428b96f47e88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "Base/$ Development Base.md",
+    "TaskList.md",
+    "Images/Pasted image 20210328160748.png",
+    "Base/Data Base/SQL Base.md",
+    "Base/Web/$ Internet base.md",
+    "Base/Web/Stages/Сети и Linux.md",
+    "Base/Web/Stages/Mini stages/$$ Apache HTTP Server.md",
+    "Base/Web/Stages/Mini stages/$ Web Hosting.md",
+    "Base/Web/Stages/Mini stages/$ UDP.md"
+  ]
+}
