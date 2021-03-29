@@ -38,4 +38,4 @@
 - [[Collection Framework]] 
 	- [[class HashSet]] - колекция на основе хеш-таблицы.
 	- [[class HashMap]] - коллекция виида ключ-значение.
-	- [[class Hashtable]] - потокобезопасный HashSet.
+	- [[$ class Hashtable]] - потокобезопасный HashSet.

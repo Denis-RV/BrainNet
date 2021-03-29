@@ -5,7 +5,7 @@
 
 ---
 ### Возможности
-- Функциональные интерфейсы [[class FilenameFilter]]
+- Функциональные интерфейсы [[$ class FilenameFilter]]
 	
 ### Методы класса:
 - boolean exists() - true, если file существует
@@ -22,7 +22,7 @@
 - mkdirs() - создает иерархию папок.
 - mkdir() - создает новый каталог. Может создать лишь одну папку и не может создать иерарзию (в этом случае вызывает исколючение).
 - listFiles() - получить массив файлов внутри директории.
-- listFiles(FilenameFilter filter) - фильтрует файлы. Подробнее - [[class FilenameFilter]]
+- listFiles(FilenameFilter filter) - фильтрует файлы. Подробнее - [[$ class FilenameFilter]]
 	
 ### Воможности
 

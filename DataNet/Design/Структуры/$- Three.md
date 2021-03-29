@@ -6,4 +6,4 @@
 
 ## Область применения
 - Collection Framework:
-	- [[class TreeMap]]
+	- [[$ class TreeMap]]

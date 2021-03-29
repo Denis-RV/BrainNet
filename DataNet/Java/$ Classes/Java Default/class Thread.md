@@ -1,7 +1,7 @@
 # class Thread
-** implements:** [[interface Runnable]]
+** implements:** [[$- interface Runnable]]
 tags: #java
-description: Позволяет создать новый поток. В конструкторе принимает класс, реализующий [[interface Runnable]].
+description: Позволяет создать новый поток. В конструкторе принимает класс, реализующий [[$- interface Runnable]].
 
 ---
 ### Возможности:

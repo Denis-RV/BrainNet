@@ -11,7 +11,7 @@ tags: #java
 # Работа с потоками
 ### Создание потока
 Создать поток можно двумя способами:
-1. C помощью [[class Thread]], в конструктор которого нужно передать класс, реализующий [[interface Runnable]].
+1. C помощью [[class Thread]], в конструктор которого нужно передать класс, реализующий [[$- interface Runnable]].
 	```java 
 	Thread t = new Thread(new Runnable() {
 		@Override

@@ -9,7 +9,7 @@
 Работа с файлами осуществляется с помощью [[class File]]. 
 
 ### Фильтрация файлов
-Мы можем отфильтровать файлы с помощью [[class FilenameFilter]].
+Мы можем отфильтровать файлы с помощью [[$ class FilenameFilter]].
 
 Пример
 Выбор файлов, начинающихся на f:
@@ -37,27 +37,27 @@ try(InputStream inputStream = new FileInputStream(file)) {
 
 ==Преобразование данных в байты==
 - [[class InputStream (abstract)]]
-	- [[class BufferedInputStream]] - буфер
-	- [[class FileInputStream]] - основная реализация
+	- [[$ class BufferedInputStream]] - буфер
+	- [[$ class FileInputStream]] - основная реализация
 - [[class OutputStream (abstract)]]
-	- [[class BufferedOutputStream]] - буфер
-	- [[class FileOutputStream]] - основная реализация
+	- [[$ class BufferedOutputStream]] - буфер
+	- [[$ class FileOutputStream]] - основная реализация
 
 ==Преобразование данных в символы==
 - [[class Reader (abstract)]] 
-	- [[class BufferedReader]] - буфер
+	- [[$ class BufferedReader]] - буфер
 	- [[class InputStremaReader]] - основная реализация
-	- [[class FileReader]] - для текстовых файлов
+	- [[$ class FileReader]] - для текстовых файлов
 - [[class Writer (abstract)]] 
-	- [[class BufferedWriter]] - буфер
+	- [[$ class BufferedWriter]] - буфер
 	- [[class OutputStreamWriter]] - основная реализация
-	- [[class FilleWriter]] - для текстовых файлов
+	- [[$ class FilleWriter]] - для текстовых файлов
 
 ==Сериализация объектов== ([[$- Сериализация объектов]])
-- [[class ObjectOutputStream]] - сериализация
+- [[$ class ObjectOutputStream]] - сериализация
 	- [[interface Serializable]] - сериализуемые объекты должны имлементировать этот интерфейс.
 	- [[interface Externalizable]] - если надо изменить сериализацию (зашифровать).
-- [[class ObjectInputStream]] - десериализация
+- [[$ class ObjectInputStream]] - десериализация
 
 ==Вывод и ввод в консоли== 
 - System.in - ввод через консоль (InputStream)
@@ -65,7 +65,7 @@ try(InputStream inputStream = new FileInputStream(file)) {
 
 
 ==Доступ к определенному месту в файле==
-- [[class RandomAccessFile]]
+- [[$ class RandomAccessFile]]
 
 ## Проблемы при чтении файлов
 - **Проблема чтение файлов с помощью массива байтов**
