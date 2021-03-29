@@ -1,6 +1,6 @@
 # JUnit-testing
 *Need to know:*
-*tegs:* #java 
+*tags:* #java 
 *description:* Библиотека для написания авто-тестов. Требует добавление зависимости с помощью [[$- Gradle]] и [[Maven]].
 
 ---

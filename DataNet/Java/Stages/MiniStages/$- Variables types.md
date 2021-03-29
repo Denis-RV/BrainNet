@@ -1,5 +1,5 @@
 # Типы переменных Java
-*tegs:* #java 
+*tags:* #java 
 
 ---
 ## 

@@ -1,5 +1,5 @@
 # Hash-table (Хеш-таблица)
-*tegs:* #java #maths #analysis #dataScience #design #java #python 
+*tags:* #java #maths #analysis #dataScience #design #java #python 
 *description:* Позволяет хранить объекты по их численному представлению, давая мгновенный доступ к элементам массива по ключу.
 
 ---

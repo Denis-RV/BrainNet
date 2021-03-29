@@ -1,5 +1,5 @@
 # Introduction in Data Structures
-*tegs:* #java #analysis #python #dataScience #java
+*tags:* #java #analysis #python #dataScience #java
 *description:* Все реализации алгоритмов доступны по [ссылке](https://www.manning.com/downloads/1368)
 
 ---

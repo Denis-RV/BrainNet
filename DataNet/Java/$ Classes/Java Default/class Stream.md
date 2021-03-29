@@ -1,7 +1,5 @@
 # class Stream
-**extends:** 
-** implements:** 
-**tegs:** #javaClass #java
+**tags:** #java
 **description:** 
 
 ---

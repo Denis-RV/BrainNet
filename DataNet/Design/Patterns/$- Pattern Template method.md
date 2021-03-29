@@ -1,5 +1,5 @@
 # Pattern Template method
-*tegs:* #python #java #design 
+*tags:* #python #java #design 
 *type:* #поведенческий
 *description:* Определяет скелет алгоритма, перекладывая ответственность
 за некоторые его шаги на подклассы. Паттерн позволяет

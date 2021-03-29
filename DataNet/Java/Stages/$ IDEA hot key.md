@@ -1,6 +1,6 @@
 # IDEA hot key
 *Need to know:*
-*tegs:* #editText #java #spring 
+*tags:* #editText #java #spring 
 *description:![[Pasted image 20210228162928.png]]*
 
 ---

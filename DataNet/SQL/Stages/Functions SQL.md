@@ -1,6 +1,6 @@
  # Function SQL
 *Need to know:*
-*tegs:* #database #sql #sqlFunction 
+*tags:* #database #sql #sqlFunction 
 *description:* Функции не меняют данные в базе. Они нужны для извлечения данных и преобразования информации.
 
 ---

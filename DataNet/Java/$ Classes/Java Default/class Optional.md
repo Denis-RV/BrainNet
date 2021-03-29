@@ -1,5 +1,5 @@
 # class Optional <...>
-**tegs:** #javaClass #java
+**tags:** #java
 **description:** Класс-обертка или контейнер. 
 
 ---

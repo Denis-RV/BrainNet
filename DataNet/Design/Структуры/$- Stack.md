@@ -1,5 +1,5 @@
 # Stack (стек)
-*tegs:* #java #maths #analysis #dataScience #design #java #python 
+*tags:* #java #maths #analysis #dataScience #design #java #python 
 *description:* Стек отностися к категории LIFO (Last in, first out).
 
 ---

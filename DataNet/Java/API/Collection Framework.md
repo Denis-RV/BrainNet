@@ -1,6 +1,6 @@
 # Collection Framework
 *Need to know:* 
-*tegs:* #java 
+*tags:* #java 
 *description:* 
 
 ---

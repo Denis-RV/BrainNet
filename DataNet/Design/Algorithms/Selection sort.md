@@ -1,6 +1,6 @@
 # Selection sort
 *Need to know:*[[Data Structures intro]]
-*tegs:* #maths #binarMaths #python #analysis #dataScience #java
+*tags:* #maths #binarMaths #python #analysis #dataScience #java
 *description:* Сортировка массива выбором. Алгоритм проходиться по всем значениями, находит самое большое (маленькое) и вставляет его в новый отсортированный массив.
 
 ---

@@ -10,4 +10,4 @@ GO
 Hell**, h**w are y**u? What is y**ur name?
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #single-row_func #character_func 
+*tags:* #database, #sql, #sqlFunction #single-row_func #character_func 

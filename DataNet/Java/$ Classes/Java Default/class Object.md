@@ -1,7 +1,7 @@
 # class Object
 **extends:** -
-** implements:** All classes!
-**tegs:** #javaClass  #java
+**implements:** All classes!
+**tags:**  #java
 **description:** Main class in Java
 
 ---

@@ -1,5 +1,5 @@
 # Принципы ACID
-*tegs:* #sql #database 
+*tags:* #sql #database 
 
 ---
 **Любые dml команды проходят как транзакции.**

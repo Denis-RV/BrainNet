@@ -7,4 +7,4 @@ select NULLIF(17, 18) from dual; \--17
 select NULLIF('Hello', 'Hello') from dual;
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #general_func #single-row_func 
+*tags:* #database, #sql, #sqlFunction #general_func #single-row_func 

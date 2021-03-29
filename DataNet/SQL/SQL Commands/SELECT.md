@@ -1,5 +1,5 @@
 # SELECT
-*tegs:* #database, #sql, #DBdml.
+*tags:* #database, #sql, #DBdml.
 *description:* выборка из таблиц. SELECT - statement, то есть он не меняет данных.
 
 ---

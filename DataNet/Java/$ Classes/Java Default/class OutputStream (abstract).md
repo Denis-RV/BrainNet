@@ -1,6 +1,6 @@
 # class OutputStream
 *Direct Known Subclasses:* [[class FileOutputStream]], [[class BufferedOutputStream]]
-**tegs:** #javaClass #java #javaAbstractClass
+**tags:** #java #javaAbstractClass
 **description:** преобразует данные в поток выходных байтов.
 
 ---

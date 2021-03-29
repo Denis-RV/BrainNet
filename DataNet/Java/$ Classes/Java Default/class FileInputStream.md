@@ -1,7 +1,7 @@
 # class FileInputStream
 **extends:** [[class InputStream (abstract)]]
-** implements:** 
-**tegs:** #javaClass #java
+**implements:** 
+**tags:** #java
 **description:** Позволяет преобразовать файл в поток данных.
 
 ---

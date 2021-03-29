@@ -9,4 +9,4 @@ select ROUND(sum(sysdate \- hire\_date)/365) years from EMPLOYEES;
 select round(sum(length(FIRST\_NAME)) / count(\*), 3) average from EMPLOYEES;
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #multiple-row_func 
+*tags:* #database, #sql, #sqlFunction #multiple-row_func 

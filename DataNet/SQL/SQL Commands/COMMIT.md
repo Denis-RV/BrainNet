@@ -1,5 +1,5 @@
 # COMMIT
-*tegs:* #database, #sql, #DBtcl 
+*tags:* #database, #sql, #DBtcl 
 *description:* подтвердить.
 
 ---

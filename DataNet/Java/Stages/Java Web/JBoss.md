@@ -1,6 +1,6 @@
 # JBoss
 *Need to know:* [[Maven]], [[HHTP]].
-*tegs:* #java, #net
+*tags:* #java, #net
 *description:*
 
 ---

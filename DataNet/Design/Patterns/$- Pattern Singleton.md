@@ -1,5 +1,5 @@
 # Pattern Singleton
-*tegs:* #python #java #design 
+*tags:* #python #java #design 
 *type:* #порождающий 
 *description:* Гарантирует, что у класса есть только один экземпляр, и
 предоставляет к нему глобальную точку доступа.

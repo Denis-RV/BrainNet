@@ -1,6 +1,6 @@
 # Важные тонкости java
 *description:* Опасные моменты, в которых легко допустить ошибку.
-*tegs:* #java 
+*tags:* #java 
 
 ---
 ## String, StringBuilder или StringBuffer?

@@ -2,4 +2,4 @@
 ![[Pasted image 20210227010559.png]]
 
 ---
-tegs: #java #javaAnnotation #spring 
+*tags:* #java  #spring 

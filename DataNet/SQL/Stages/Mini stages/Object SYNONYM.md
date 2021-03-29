@@ -1,7 +1,7 @@
 
 # Object SYNONYM
 *Need to know:* [[Database Objects]]
-*tegs:* #sql 
+*tags:* #sql 
 *description:* 
 
 ---

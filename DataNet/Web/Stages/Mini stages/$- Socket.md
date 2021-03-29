@@ -1,6 +1,6 @@
 # Socket
 *Need to know:* [[$- Web base]]
-*tegs:* #net #server #linux
+*tags:* #net #server #linux
 *description:*
 
 ---

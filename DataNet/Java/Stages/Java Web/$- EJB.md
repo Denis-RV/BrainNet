@@ -1,6 +1,6 @@
 # Enterprise JavaBeans
 *Need to know:*
-*tegs:* #java #net 
+*tags:* #java #net 
 *description:* спецификация технологии написания и поддержки серверных компонентов, содержащих бизнес-логику. Часть Java EE.
 
 ---

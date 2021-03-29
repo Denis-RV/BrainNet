@@ -20,4 +20,4 @@ dela?
 ```
 
 ---
-*tegs:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*tags:* #database, #sql, #sqlFunction #character_func #single-row_func 

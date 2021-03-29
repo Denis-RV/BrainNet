@@ -1,5 +1,5 @@
 # Classes Base
-*tegs:* #java #javaClass  
+*tags:* #java
 
 ---
 

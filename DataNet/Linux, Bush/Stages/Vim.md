@@ -1,5 +1,5 @@
 # Введение в Vim
-*tegs:* #linux #editText 
+*tags:* #linux #editText 
 
 ---
 # Режимы VIM

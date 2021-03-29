@@ -1,5 +1,5 @@
 # Work with Java from cmd
-tegs: #java 
+tags: #java 
 need to know: [[Bash Syntax]]
 
 ---

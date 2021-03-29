@@ -1,4 +1,16 @@
-Пример:
+# class Comparator
+*extends:*
+*implements:*
+*tags:* #java
+*description:*
+
+---
+### Возможности:
+- 
+### Методы класса:
+- 
+### Примеры использования:
+
 ```java
 Set<Car> cars = new TreeSet<>(new Comparator<Car>() {  
     @Override  
@@ -8,5 +20,3 @@ Set<Car> cars = new TreeSet<>(new Comparator<Car>() {
 });
 ```
 
----
-#java #javaClass 

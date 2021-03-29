@@ -1,7 +1,7 @@
 # class RandomAccessFile
 *extends:*
 *implements:* 
-*tegs:* #javaClass #java
+*tags:* #java
 *description:* Класс позволяет получить доступ к любому месту в файле. В конструктор передаем File и режим чтений ("r" - только чтение, "rw" - чтение и запись)).
 
 ---

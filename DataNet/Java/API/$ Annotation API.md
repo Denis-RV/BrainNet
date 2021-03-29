@@ -1,5 +1,5 @@
 # Annotations
-tegs: #java 
+tags: #java 
 
 ----
 ## Определение аннотации. 

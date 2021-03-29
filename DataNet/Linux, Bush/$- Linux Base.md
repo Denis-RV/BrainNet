@@ -1,5 +1,5 @@
 # Linux Base
-*tegs:* #linux #java #database #sql #net #python #server #regex 
+*tags:* #linux #java #database #sql #net #python #server #regex 
 *description:*
 
 ---

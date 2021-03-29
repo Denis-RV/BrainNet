@@ -1,5 +1,5 @@
 # Lombok
-*tegs:* #java
+*tags:* #java
 *description:*
 
 ---

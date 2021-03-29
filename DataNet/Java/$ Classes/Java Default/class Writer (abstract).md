@@ -1,6 +1,6 @@
 # abstract class Writer
 *Direct Known Subclasses:* [[class OutputStreamWriter]], [[class BufferedWriter]]
-*tegs:* #javaClass #java
+*tags:* #java
 *description:* Посимвольная запись байтов.
 
 ---

@@ -1,7 +1,7 @@
-# class 
+# class Socket
 **extends:** 
-** implements:** 
-tegs: #javaClass #java
+**implements:** 
+tags: #java
 
 ---
 

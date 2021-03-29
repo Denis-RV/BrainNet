@@ -1,6 +1,6 @@
 # Lambda Expression
 *Need to know:* [[Java Base]]
-*tegs:* #java #spring 
+*tags:* #java #spring 
 *description:*
 
 ---

@@ -1,6 +1,6 @@
 #
 *Need to know:*
-*tegs:* #net #server #linux
+*tags:* #net #server #linux
 *description:*
 
 ---

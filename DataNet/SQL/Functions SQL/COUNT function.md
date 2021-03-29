@@ -17,4 +17,4 @@ select count('abc') from EMPLOYEES;
 select count(salary), FIRST\_NAME from EMPLOYEES; \--mistake
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #multiple-row_func 
+*tags:* #database, #sql, #sqlFunction #multiple-row_func 

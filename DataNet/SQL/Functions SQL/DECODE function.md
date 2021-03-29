@@ -8,4 +8,4 @@ select DECODE(3 \* 3, 12, 'twelve', 36, 'thirty six', 'not found') from DUAL; \-
 select DECODE(null, 5, 'ok', null, 44) from dual;
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #conditional_func #single-row_func #oracle_db
+*tags:* #database, #sql, #sqlFunction #conditional_func #single-row_func #oracle_db

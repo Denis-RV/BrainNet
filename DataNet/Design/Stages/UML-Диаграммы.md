@@ -1,5 +1,5 @@
 # UML-диаграммы
-*tegs:* #java #python #design
+*tags:* #java #python #design
 *description:*
 
 ---

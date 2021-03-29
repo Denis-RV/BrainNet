@@ -1,5 +1,5 @@
 # Pattern Iterator
-*tegs:* #python #java #design 
+*tags:* #python #java #design 
 *type:* #поведенческий
 *description:* Даёт возможность последовательно обходить элементы
 составных объектов, не раскрывая их внутреннего

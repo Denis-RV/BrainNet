@@ -1,6 +1,6 @@
 # Base bash commands
 
-*tegs:*  #linux
+*tags:*  #linux
 *need to know:* [[Linux Terms]]
 
 ---

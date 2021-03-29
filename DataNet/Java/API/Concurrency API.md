@@ -1,5 +1,5 @@
  ## Concurrency base
-tegs: #java
+tags: #java
 
 ---
 

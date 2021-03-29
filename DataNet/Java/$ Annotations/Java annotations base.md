@@ -1,5 +1,5 @@
 # Annotations base
-*tegs:* #java #javaAnnotation  
+*tags:* #java 
 
 ---
 

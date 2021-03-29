@@ -1,6 +1,6 @@
 # Input & Output
 *Need to know:* [[class File]] 
-*tegs:* #java
+*tags:* #java
 *description:*
 
 ---

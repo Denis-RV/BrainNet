@@ -1,5 +1,5 @@
 # class FilenameFilter
-**tegs:** #javaClass #java
+**tags:** #java
 **description:** 
 
 ---

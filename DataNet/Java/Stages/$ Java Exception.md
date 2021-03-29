@@ -1,6 +1,6 @@
 # Java Exception
 *Need to know:*
-*tegs:* #java 
+*tags:* #java 
 *description:*
 
 ---

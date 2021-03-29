@@ -6,4 +6,4 @@
 - addAll(List list) - добавляет все элементы одной коллекции в другую.
 
 ---
-#java #javaInterface
+*tags:* #java

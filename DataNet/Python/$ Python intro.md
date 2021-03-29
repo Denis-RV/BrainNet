@@ -1,9 +1,6 @@
 # Base
 
-Created: Nov 3, 2020 10:02 AM
-status: В процессе
-format: flow
-Tags: #python #dataScience 
+tags: #python #dataScience 
 need to know: -
 
 ---

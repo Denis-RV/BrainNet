@@ -9,4 +9,4 @@ ADD_MONTH ADD_MONTH
 30-NOV-19 31-DEC-19
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #date_func #single-row_func 
+*tags:* #database, #sql, #sqlFunction #date_func #single-row_func 

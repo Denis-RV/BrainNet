@@ -1,6 +1,6 @@
 #
 *Need to know:*
-*tegs:*
+*tags:*
 *description:*
 
 ---

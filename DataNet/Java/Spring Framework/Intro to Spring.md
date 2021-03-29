@@ -1,7 +1,7 @@
 # Intro to Spring
 
 *need to know:* [[Java Base]]
-*tegs:* #spring #java 
+*tags:* #spring #java 
 
 ---
 ## Spring Framework

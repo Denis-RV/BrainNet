@@ -9,4 +9,4 @@ GO
 , dir, , go.t, txt.h, txt, m'
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*tags:* #database, #sql, #sqlFunction #character_func #single-row_func 

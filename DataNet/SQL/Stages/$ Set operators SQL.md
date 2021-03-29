@@ -1,5 +1,5 @@
 # Set operators
-*tegs:* #database #sql 
+*tags:* #database #sql 
 *description:* Операторы, использующие несколько select-ов в одном select-е. ([[SELECT]])
 
 ---

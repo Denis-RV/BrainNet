@@ -1,5 +1,5 @@
 # INSERT
-*tegs:* #database, #sql, #DBdml 
+*tags:* #database, #sql, #DBdml 
 *description:* вставка строк в таблицы.
 
 ---

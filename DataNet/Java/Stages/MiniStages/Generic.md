@@ -1,5 +1,5 @@
 # Generic
-tegs: #java 
+tags: #java 
 
 ---
 

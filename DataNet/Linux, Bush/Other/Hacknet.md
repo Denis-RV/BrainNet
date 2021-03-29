@@ -1,5 +1,5 @@
 # Hacknet
-tegs: #linux 
+tags: #linux 
 
 ---
 ### Основные команды:

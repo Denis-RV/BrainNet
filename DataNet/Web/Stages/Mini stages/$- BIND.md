@@ -1,6 +1,6 @@
 # Berkeley Internet Name Domain
 *Need to know:* [[DNS]]
-*tegs:* #net #server #linux
+*tags:* #net #server #linux
 *description:* открытая и наиболее распространённая реализация DNS-сервера ([[DNS]]), обеспечивающая выполнение преобразования DNS-имени в IP-адрес и наоборот. 
 
 ---

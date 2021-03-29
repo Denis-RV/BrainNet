@@ -1,5 +1,5 @@
 # Data Type SQL
-*tegs:* #sql #database
+*tags:* #sql #database
 *description:*
 
 ---

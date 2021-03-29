@@ -1,12 +1,9 @@
 # class Thread
-
-**extends:** 
 ** implements:** [[interface Runnable]]
-tegs: #javaClass #java
+tags: #java
 description: Позволяет создать новый поток. В конструкторе принимает класс, реализующий [[interface Runnable]].
 
 ---
-
 ### Возможности:
 
 ### Методы класса:

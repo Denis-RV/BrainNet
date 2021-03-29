@@ -1,6 +1,6 @@
 # Java Regex
 *need to know*: [[$ Regex intro]]
-*tegs*:  #java #regex #spring 
+*tags*:  #java #regex #spring 
 
 ---
 ## Cheap sheet 

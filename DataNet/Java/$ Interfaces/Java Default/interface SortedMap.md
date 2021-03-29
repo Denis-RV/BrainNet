@@ -1,3 +1,3 @@
 
 ---
-#java #javaInterface
+*tags:* #java

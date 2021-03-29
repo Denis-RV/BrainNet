@@ -1,6 +1,6 @@
 # File Transfer Protocol
 *need to know:* [[$- Web base]]
-*tegs:* #net #server #linux
+*tags:* #net #server #linux
 *description:* Протокол обмена и скачивания файлов на прикладном уровне
 *link:* https://ru.wikipedia.org/wiki/FTP
 

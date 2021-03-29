@@ -1,5 +1,5 @@
 # Pattern Abstract Factory
-*tegs:* #python #java #design 
+*tags:* #python #java #design 
 *type:* #порождающий
 *description:* Позволяет создавать семейства связанных объектов, не
 привязываясь к конкретным классам создаваемых объектов.

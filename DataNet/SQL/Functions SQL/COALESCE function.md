@@ -5,4 +5,4 @@
 
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #general_func #single-row_func 
+*tags:* #database, #sql, #sqlFunction #general_func #single-row_func 

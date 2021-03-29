@@ -16,4 +16,4 @@ EMPLOYEE_ID        SUM
         101      49.19
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #date_func #single-row_func 
+*tags:* #database, #sql, #sqlFunction #date_func #single-row_func 

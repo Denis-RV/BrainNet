@@ -1,5 +1,5 @@
 # DESCRIBE
-*tegs:* #database, #sql, 
+*tags:* #database, #sql, 
 *description:* вывод инфомрации о таблицах.
 
 ---

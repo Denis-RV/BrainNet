@@ -1,7 +1,7 @@
 # class Arrays
 **extends:** 
-** implements:** 
-**tegs:** #javaClass #java
+**implements:** 
+**tags:** #java
 **description:** 
 
 ---

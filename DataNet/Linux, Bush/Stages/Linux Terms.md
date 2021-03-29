@@ -1,5 +1,5 @@
 # Terms
-*tegs:* #linux 
+*tags:* #linux 
 
 ---
 

@@ -2,4 +2,4 @@
 
 
 ---
-tegs: #java #javaAnnotation
+*tags:* #java

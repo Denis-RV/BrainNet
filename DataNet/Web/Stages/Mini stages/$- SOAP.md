@@ -1,5 +1,5 @@
 # Simple Object Access Protocol
-*tegs:* #net #server #linux
+*tags:* #net #server #linux
 *description:*
 *link:* https://ru.wikipedia.org/wiki/SOAP
 

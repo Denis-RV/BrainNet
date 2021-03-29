@@ -1,5 +1,5 @@
 # UPDATE
-*tegs:* #database, #sql, #DBdml 
+*tags:* #database, #sql, #DBdml 
 *description:* изменение данных в существующих строках.
 
 ---

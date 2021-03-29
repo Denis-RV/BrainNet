@@ -5,4 +5,4 @@
 "intro" - java package.//
  
 ---
-tegs: #java #javaAnnotation #spring 
+*tags:* #java #spring 

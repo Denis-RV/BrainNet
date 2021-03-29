@@ -1,5 +1,5 @@
 # Design Principles
-*tegs:* #design #dataScience #java #python #spring 
+*tags:* #design #dataScience #java #python #spring 
 
 ---
 ## Проблемы, встреычаемы из-за неудачного проектирования

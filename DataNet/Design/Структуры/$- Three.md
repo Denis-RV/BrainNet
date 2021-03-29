@@ -1,5 +1,5 @@
 # Three (Дерево)
-*tegs:* #java #maths #analysis #dataScience #design #java #python 
+*tags:* #java #maths #analysis #dataScience #design #java #python 
 *description:* 
 
 ---

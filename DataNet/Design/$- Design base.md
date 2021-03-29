@@ -1,5 +1,5 @@
 # Design base
-*tegs:* #java #maths #binarMaths #python #analysis #dataScience #database #design #editText
+*tags:* #java #maths #binarMaths #python #analysis #dataScience #database #design #editText
 *description:*
 
 ---
@@ -30,6 +30,7 @@
 
 ## Шаблоны проектироания
 #TODO добавить описание
+#TODO убрать теги type и разделить паттерны на группы по этим тегам
 - [[Patterns intro]]
 - [[$ Pattern Decorator]]
 - [[$ Pattern Factory Method]]

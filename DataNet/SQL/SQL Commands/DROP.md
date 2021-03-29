@@ -1,5 +1,5 @@
 # DROP
-*tegs:* #database, #sql, #DBddl 
+*tags:* #database, #sql, #DBddl 
 *description:* удаление объектов. Если где-то отркыта транзакция с таблицей, удалить ее будет нельзя.
 
 ---

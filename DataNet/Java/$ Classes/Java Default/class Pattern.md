@@ -1,5 +1,5 @@
 # class Pattern
-*tegs:* #javaClass #java #regex 
+*tags:* #java #regex 
 *description:*
 
 ---

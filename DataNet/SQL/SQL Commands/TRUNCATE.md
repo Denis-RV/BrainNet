@@ -1,5 +1,5 @@
 # TRUNCATE
-*tegs:* #database, #sql, #DBddl 
+*tags:* #database, #sql, #DBddl 
 *description:* удаление всех строк таблицы. **После использования этой команды нельзя выполнить rollback.**
 
 ---

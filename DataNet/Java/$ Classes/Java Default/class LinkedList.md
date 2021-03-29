@@ -1,7 +1,7 @@
 # class LinkedList
 **extends:** 
-** implements:** [[interface List]]
-**tegs:** #javaClass #java
+**implements:** [[interface List]]
+**tags:** #java
 **description:**  Позволяет хранить любые данные, включая `null`. В основе лежит двунаправленный связный список (каждый элемент имеет ссылку на предыдущий и следующий). Данную коллекцию можно использовать как стек или очередь.
 
 ---

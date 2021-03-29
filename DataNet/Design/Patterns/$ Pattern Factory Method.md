@@ -1,5 +1,5 @@
 # Pattern Factory Method
-*tegs:* #python #java #design 
+*tags:* #python #java #design 
 *type:* #порождающий
 *description:* Определяет общий интерфейс для создания объектов в суперклассе, возволяя подклассам изменять тип создаваемых объектов.
 

@@ -1,6 +1,6 @@
 # abstract class Reader
 *Direct Known Subclasses:* [[class InputStremaReader]], [[class BufferedReader]]
-*tegs:* #javaClass #java
+*tags:* #java
 *description:* Посимвользное чтение байтов. 
 
 ---

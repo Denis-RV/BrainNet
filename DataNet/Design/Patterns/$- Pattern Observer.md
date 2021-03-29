@@ -1,5 +1,5 @@
 # Pattern Observer
-*tegs:* #python #java #design 
+*tags:* #python #java #design 
 *type:* #поведенческий
 *description:* Создаёт механизм подписки, позволяющий одним объектам следить и реагировать на события, происходящие в других
 объектах.

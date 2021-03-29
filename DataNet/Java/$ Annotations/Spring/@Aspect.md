@@ -5,4 +5,4 @@
 - [[DataNet/Java/$ Annotations/Spring/@Before]]
 
 ---
-tegs: #java #javaAnnotation #spring 
+*tags:* #java #spring 

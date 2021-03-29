@@ -1,6 +1,6 @@
 # Aspect Oriented Programming
 *Need to know:* [[Dependency Injection]]
-*tegs:* #spring #java 
+*tags:* #spring #java 
 *description:*
 
 ---

@@ -33,4 +33,4 @@ MOD(3.1,1.2)
           .7
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #single-row_func #numeric_func 
+*tags:* #database, #sql, #sqlFunction #single-row_func #numeric_func 

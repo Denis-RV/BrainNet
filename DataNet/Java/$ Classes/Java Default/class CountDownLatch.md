@@ -1,5 +1,5 @@
 # class CountDownLatch
-**tegs:** #javaClass #java
+**tags:** #java
 **description:** Счетчик для потоков. В качестве параметро ждет число потоков, окончания которых мы ждем. 
 
 ---

@@ -1,5 +1,5 @@
 # Interface Base
-*tegs:* #java #javaInterface 
+*tags:* #java 
 
 ---
 #TODO добавить описание и упорядочить по группам

@@ -1,6 +1,6 @@
 # Хостинг
 *Need to know:* [[$- Web base]]
-*tegs:* #net #server #linux
+*tags:* #net #server #linux
 *description:* Информационное пространство в интернете, куда вы можете помещать что угодно
 
 ---

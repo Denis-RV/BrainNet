@@ -1,5 +1,5 @@
 # class Matcher
-*tegs:* #javaClass #java #regex 
+*tags:* #java #regex 
 *description:*
 
 ---

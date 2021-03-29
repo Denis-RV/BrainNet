@@ -1,7 +1,7 @@
  # Bean
 
 need to know: [[Dependency Injection]]
-tegs: #spring #java
+tags: #spring #java
 
 ---
 ## Bean

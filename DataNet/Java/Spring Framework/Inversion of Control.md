@@ -1,6 +1,6 @@
 # Inversion of Control (loC)
 *Need to know:* [[Intro to Spring]]
-*tegs:* #spring #java 
+*tags:* #spring #java 
 
 ---
 ## Проблемы зависимостей

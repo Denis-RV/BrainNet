@@ -1,7 +1,7 @@
 # static class Math
 **extends:** 
-** implements:** 
-**tegs:** #javaClass #java
+**implements:** 
+**tags:** #java
 **description:** Класс для использования математики.
 
 ---

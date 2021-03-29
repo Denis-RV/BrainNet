@@ -1,6 +1,6 @@
 # Java Servlets
 *Need to know:* [[JBoss]]
-*tegs:* #java #net 
+*tags:* #java #net 
 *description:* 
 *link:* https://www.youtube.com/watch?v=U3YS-U_N3vo
 

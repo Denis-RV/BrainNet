@@ -12,4 +12,4 @@ select COUNT(SALARY) as COUNT\_, SUM(SALARY) as SUM\_, AVG(SALARY) as AVG\_,
     from EMPLOYEES;
 ```
 ---
-*tegs:* #database, #sql, #sqlFunction #multiple-row_func 
+*tags:* #database, #sql, #sqlFunction #multiple-row_func 

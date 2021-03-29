@@ -1,6 +1,6 @@
 # class ObjectInputStream
 *extends:* [[class InputStream (abstract)]]
-*tegs:* #javaClass #java
+*tags:* #java
 *description:* Дерсериализирует объекты. В качестве параметра принимает [[class InputStream (abstract)]]. При десериализации не вызывается конструктор.
 
 ---

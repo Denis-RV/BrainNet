@@ -1,5 +1,5 @@
 # DB Objects
-*tegs:* #sql #database
+*tags:* #sql #database
 
 ---
 

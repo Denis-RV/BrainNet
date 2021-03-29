@@ -1,10 +1,6 @@
 # class TreeSet
-**extends:** 
-
 ** implements:** [[interface Set]]
-
-**tegs:** #javaClass #java 
-
+**tags:** #java 
 **description:** Значения внутри этой коллекции сохранятюся в отсортированном виде. Предоставляет возможность управлять порядком элементов в коллекции при помощи объекта `Comparator`, либо сохраняет элементы с использованием "[natural ordering](http://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html)". Использовать можно только с классами, реализующими [[interface Comparable''T'']]. Алгоритмическая сложность всех операций - O(log(n))
 
 ---

@@ -1,5 +1,5 @@
 # Java Base
-*tegs:* #java #javaClass #javaInterface #javaAnnotation #javaAbstractClass 
+*tags:* #java 
 *description:* 
 
 ---

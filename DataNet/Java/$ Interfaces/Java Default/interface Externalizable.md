@@ -1,4 +1,4 @@
 В тличие от [[interface Serializable]] позволяет управлять процессом сериализации (например делать ее зашифрованной). Тогда надо будет переопределить методы writeExternal() и readExternal().
 
 ---
-tegs: #java #javaAnnotation
+*tags:* #java
