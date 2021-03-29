@@ -11,4 +11,4 @@ LPAD('Z
 ***Zaur
 ```
 ---
-*tegs:* #db, #sql, #sqlFunction #character_func #single-row_func 
+*tegs:* #database, #sql, #sqlFunction #character_func #single-row_func 

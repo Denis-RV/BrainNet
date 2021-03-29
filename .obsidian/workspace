@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5513e8005d53747c",
+        "id": "1a273b33eb3be41e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DataNet/SQL/SQL Commands/ALTER.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1a273b33eb3be41e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -51,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#db",
+                "query": "tag:#python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataNet/SQL/SQL Commands/ALTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataNet/SQL/SQL Commands/ALTER.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,15 +109,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "DataNet/SQL/SQL Commands/ALTER.md",
-    "DataNet/SQL/Stages/Database Objects.md",
-    "DataNet/SQL/Stages/Mini stages/Object VIEW.md",
-    "DataNet/SQL/SQL Commands/CREATE.md",
-    "DataNet/SQL/Stages/Mini stages/Object SEQUENCE.md",
-    "DataNet/SQL/Stages/Mini stages/Untitled.md",
-    "DataNet/SQL/Stages/INDEX.md",
-    "DataNet/SQL/Stages/SQL commands.md",
-    "DataNet/Java/Stages/MiniStages/Работа с датами.md",
-    "DataNet/SQL/Stages/Mini stages/Object SYNONYM.md"
+    "README.md",
+    "TaskList.md",
+    "Images/Pasted image 20210329114226.png",
+    "Images/Pasted image 20210329114037.png",
+    "Images/example2.png",
+    "Templates/Java Class.md",
+    "DataNet/Java/$ Annotations/Java annotations base.md",
+    "DataNet/Java/$ Classes/Java classes base.md",
+    "DataNet/Java/$ Interfaces/Java interfaces Base.md",
+    "DataNet/Java/Java Base.md"
   ]
 }

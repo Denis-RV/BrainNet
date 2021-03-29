@@ -14,4 +14,4 @@ Pat                           3
 Jean                          4
 ```
 ---
-*tegs:* #db, #sql, #sqlFunction #single-row_func #character_func 
+*tegs:* #database, #sql, #sqlFunction #single-row_func #character_func 

@@ -1,5 +1,5 @@
 # GRANT
-*tegs:* #db, #sql, #DBdcl 
+*tegs:* #database , #sql, #DBdcl 
 *description:* выдать права.
 
 ---

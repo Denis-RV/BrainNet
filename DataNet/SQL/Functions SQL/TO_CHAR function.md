@@ -127,4 +127,4 @@ select TO\_CHAR(Sysdate, 'CC') from DUAL;
 ```
 
 ---
-*tegs:* #db, #sql, #sqlFunction, #conversion_func #single-row_func 
+*tegs:* #database, #sql, #sqlFunction, #conversion_func #single-row_func 

@@ -1,6 +1,6 @@
 # Constraint type
 *Need to know:* [[CREATE]]
-*tegs:* #db  #sql 
+*tegs:* #database  #sql 
 *description:* ограничения для столбцов.
 
 ---

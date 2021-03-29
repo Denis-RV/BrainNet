@@ -1,6 +1,6 @@
 # SEQUENCE
 *Need to know:* [[Database Objects]]
-*tegs:* #sql #db
+*tegs:* #sql #database
 *description:* Последовательности уникальгных значений. Sequence не завясят от таблиц и сессий. Они позволяют генерировать уникальные значения.
 
 ---

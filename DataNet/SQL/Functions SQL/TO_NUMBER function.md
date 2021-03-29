@@ -10,4 +10,4 @@ select TO\_NUMBER('3.28', '99.9') from dual; \--mistake
 select TO\_NUMBER('3.28', '99.99') from dual;
 ```
 ---
-*tegs:* #db, #sql, #sqlFunction #single-row_func #conversion_func 
+*tegs:* #database, #sql, #sqlFunction #single-row_func #conversion_func 

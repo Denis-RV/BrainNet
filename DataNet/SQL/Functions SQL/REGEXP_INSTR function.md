@@ -12,4 +12,4 @@ Karen                011.44.1344.467268
 Alberto              011.44.1344.429278
 ```
 ---
-*tegs:* #db, #sql, #sqlFunction #character_func #single-row_func #regex 
+*tegs:* #database, #sql, #sqlFunction #character_func #single-row_func #regex 

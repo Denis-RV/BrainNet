@@ -7,7 +7,7 @@
 ### Java API
 - [[$ Java Regex]] - использование регулярных выражений в java.
 - [[IOS Api]] - работа с системой ввода/вывода
-- [[$ Exception]] - исключения в java
+- [[$ Java Exception]] - исключения в java
 - [[Collection Framework]] - работа с коллекциями в Java
 - [[Stream API]] - работа с потоками данных.
 - [[Lambda API]] - работа с лямда-выражениями.
@@ -15,6 +15,11 @@
 - [[Concurrency API]] - многопоточность в java.
 - [[$ Annotation API]] - аннотации в java.
 - [[$- JVM]] - работа с Java Virtual Мachine 
+
+Следующие 3 темы лучше смотреть в [документации](https://docs.oracle.com/en/java/javase/16/docs/api/index.html). В obsidian добавляются краткие описание классов, которые часто встечаются в практике и в других статьсях.
+- [[@annotation java]] - аннотации java.
+- [[Java interfaces Base]] - интерфейсы java.
+- [[Java classes base]] - классы java.
 
 ### Работа с java
 - [[$ Методы Java на все случаи]] - полезные методы.

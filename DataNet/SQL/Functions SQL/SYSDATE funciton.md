@@ -9,4 +9,4 @@ SYSDATE
 10-MAR-21
 ```
 ---
-*tegs:* #db, #sql, #sqlFunction #date_func #single-row_func 
+*tegs:* #database, #sql, #sqlFunction #date_func #single-row_func 

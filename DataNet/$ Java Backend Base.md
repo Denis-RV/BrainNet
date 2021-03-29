@@ -1,5 +1,5 @@
 # Development Base
-*tegs:* #java #sql #design #spring #net #db #linux #server #html #css
+*tegs:* #java #sql #design #spring #net #database #linux #server #html #css
 *description:* Полный инструментарий для backend разработчков на Java. <? В будущем можно будет передалать статьью для full-stack разработчиков. Будет здорово, если найдутся люди, которые смогут написать про typesrkitp?>
 
 ---

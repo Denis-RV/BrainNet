@@ -5,4 +5,4 @@
 
 ```
 ---
-*tegs:* #db, #sql, #sqlFunction
+*tegs:* #database, #sql, #sqlFunction

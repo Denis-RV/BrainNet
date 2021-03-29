@@ -1,5 +1,5 @@
 # MERGE
-*tegs:* #db, #sql, #DBdml 
+*tegs:* #database, #sql, #DBdml 
 *description:* объединение команд. 
 
 ---

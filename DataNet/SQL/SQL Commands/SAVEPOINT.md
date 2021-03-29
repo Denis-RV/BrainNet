@@ -1,5 +1,5 @@
 # SAVEPOINT
-*tegs:* #db, #sql, #DBtcl 
+*tegs:* #database, #sql, #DBtcl 
 *description:* точка сохранения, к которой можно откатиться с помощью [[ROLLBACK]].
 
 ---

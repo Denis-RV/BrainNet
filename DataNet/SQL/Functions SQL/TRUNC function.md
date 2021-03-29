@@ -31,4 +31,4 @@ TRUNC(35345.4567,-2)
                35300
 ```
 ---
-*tegs:* #db, #sql, #sqlFunction #single-row_func  #numeric_func 
+*tegs:* #database, #sql, #sqlFunction #single-row_func  #numeric_func 

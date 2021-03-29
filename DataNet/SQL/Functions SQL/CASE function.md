@@ -49,4 +49,4 @@ select CASE
     from DUAL;
 ```
 ---
-*tegs:* #db #sql #sqlFunction #single-row_func #conditional_func 
+*tegs:* #database #sql #sqlFunction #single-row_func #conditional_func 

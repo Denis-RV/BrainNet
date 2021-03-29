@@ -14,7 +14,7 @@
 	- [[class HashMap]]
 	- [[class LinkedHashMap]]
 	- [[interface SortedMap]]
-		- [[class ThreeMap]]
+		- [[class TreeMap]]
 - [[interface Set]]
 	- [[class HashSet]]
 		- [[class LinkedHashSet]]

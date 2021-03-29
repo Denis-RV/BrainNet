@@ -1,4 +1,4 @@
-# Exception in Java
+# Java Exception
 *Need to know:*
 *tegs:* #java 
 *description:*

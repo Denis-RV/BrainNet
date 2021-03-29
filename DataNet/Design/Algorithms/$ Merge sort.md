@@ -1,5 +1,5 @@
 # Merge sort
-*Need to know:*[[$ Intro in Data Structures]]
+*Need to know:*[[Data Structures intro]]
 *tegs:* #maths #binarMaths #python #analysis #dataScience #java
 *description:*
 

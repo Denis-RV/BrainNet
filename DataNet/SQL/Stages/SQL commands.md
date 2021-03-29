@@ -1,6 +1,6 @@
 # SQL commands
 *Need to know:*
-*tegs:* #sql #db 
+*tegs:* #sql #database 
 *description:*
 
 ---
