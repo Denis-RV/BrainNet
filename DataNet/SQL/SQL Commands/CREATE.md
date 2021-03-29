@@ -29,7 +29,7 @@ avg_score number(4,2) default 2
 );
 ```
 
-## Создание таблиц на основе других таблиц
+## Создание таблиц с помощью subquery
 **Шаблон:**
 >CREATE TABLE `schema.`table
 >AS
