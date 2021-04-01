@@ -32,12 +32,12 @@
 - В BrainNet будут появляться специальные файлы с вопросами и ответами на них, подобно тому, как это устроенно в программе [Anki](https://apps.ankiweb.net). Также будут появляться практические задания и файлы с проектами, где будут указаны минимальные знания для реализации этого проекта и инструкции по созданию проекта.
 
 ## <a name="install"></a> Установка
-1. Для начала нам необходимо скачать [Obsidian](https://obsidian.md/download) и [GitHub Desktop](https://desktop.github.com).
+1. Для начала вам необходимо скачать [Obsidian](https://obsidian.md/download) и [GitHub Desktop](https://desktop.github.com).
 2. После установки GitHub Desktop запускаем эту программу, выбираем File -> Clone a repository -> URL и вводим:
 	```bash
 	https://github.com/Denis-VR/BrainNet.git
 	```
-	Теперь у нас должна появиться директория BrainNet.
+	Теперь у вас должна появиться директория BrainNet.
 3. Открываем obsidian, жмем "Открыть папку как хранилище" и выбираем BrainNet.
 
 
