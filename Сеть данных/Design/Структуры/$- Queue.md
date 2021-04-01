@@ -1,9 +1,0 @@
-# Queue (очередь)
-*tags:* #java #maths #analysis #dataScience #design #java #python 
-*description:* Очереди поддерживают две операции: постановка в очередь и извлечение из очереди. Из очереди поочередно извлекаются элементы, начиная с тех, которые были первее добавлены. Очередь относится к категории FIFO (FIrst in, first out)
-
----
-
-## Область применения
-- Collection Framework:
-	- [[interface Queue]]
