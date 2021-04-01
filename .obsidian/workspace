@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Меню/Темы/$ SQL base.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Меню/Темы/$ SQL base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Меню/Темы/$ SQL base.md"
+              }
             }
           }
         ]
@@ -109,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Сеть данных/Design/Статьи/$ Принципы проектирования.md",
-    "Сеть данных/Design/Статьи/Паттерны введение.md",
-    "Сеть данных/Design/Статьи/SOLID принципы.md",
-    "Сеть данных/Design/Статьи/Структуры данных введение.md",
-    "Меню/Темы/$ Linux base.md",
-    "TaskList.md",
-    "README.md",
-    "Меню/Темы/$ Web base.md",
     "Меню/Темы/$ SQL base.md",
-    "Меню/Профессии/$ Backend Java Developer prof.md"
+    "README.md",
+    "Изображения/Pasted image 20210401204123.png",
+    "Меню/Профессии/$ Backend Java Developer prof.md",
+    "Сеть данных/Tools for web/Regex/Как изучить Regex.md",
+    "Сеть данных/Tools for web/Maven.md",
+    "Сеть данных/Tools for web/Git.md",
+    "Сеть данных/Tools for web/$- Postman.md",
+    "Сеть данных/Tools for web/$- Gradle.md",
+    "Сеть данных/Tools for web/$- Lombok.md"
   ]
 }
