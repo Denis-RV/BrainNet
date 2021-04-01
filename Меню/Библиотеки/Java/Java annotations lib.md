@@ -4,7 +4,7 @@
 ---
 
 - [[@After]]
-- [[Сеть данных/Java/$ Аннотации/Java Default/@Before]]
+- [[Сеть данных/Языки/Java/$ Аннотации/Java Default/@Before]]
 - [[@FunctionalInterface]]
 - [[@Test]]
 - 
@@ -12,7 +12,7 @@
 - 
 - [[@Aspect]]
 - [[Bean]]
-- [[Сеть данных/Java/$ Аннотации/Spring/@Before]]
+- [[Сеть данных/Языки/Java/$ Аннотации/Spring/@Before]]
 - [[@Component]]
 - [[@ComponentScan]]
 - [[@Configuration]]
