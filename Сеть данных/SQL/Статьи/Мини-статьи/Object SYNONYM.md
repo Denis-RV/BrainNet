@@ -1,6 +1,6 @@
 
 # Object SYNONYM
-*Need to know:* [[Database Объекты]]
+*Need to know:* [[Объекты Баз Данных]]
 *tags:* #sql 
 *description:* 
 
