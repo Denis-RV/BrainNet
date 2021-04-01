@@ -8,7 +8,7 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -109,15 +109,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Изображения/example3.png",
-    "Изображения/example.png",
-    "Изображения/example1.png",
-    "Menu/Профессии/$ Backend Java Developer.md",
     "TaskList.md",
+    "Меню/Java annotations base.md",
+    "Меню/Темы/Java interfaces Base.md",
+    "Меню/Java классы base.md",
+    "Меню/Темы/$ Backend Java Developer.md",
+    "Меню/Профессии/$ Backend Java Developer.md",
+    "Меню/Java Base.md",
     "README.md",
-    "Menu/$ Java Backend Base.md",
-    "Menu/$ Linux Base.md",
-    "Menu/$ SQL Base.md",
-    "Menu/$ Web base.md"
+    "Сеть данных/Web/$ Internet intro.md",
+    "Сеть данных/Tools for web/Regex/$ Regex intro.md"
   ]
 }
