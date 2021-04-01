@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TaskList.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -45,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#numeric_func",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TaskList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TaskList.md"
+              }
             }
           }
         ]
@@ -110,6 +116,7 @@
   },
   "lastOpenFiles": [
     "TaskList.md",
+    "Сеть данных/SQL/Статьи/Database Объекты.md",
     "Меню/Java annotations base.md",
     "Меню/Темы/Java interfaces Base.md",
     "Меню/Java классы base.md",
@@ -117,7 +124,6 @@
     "Меню/Профессии/$ Backend Java Developer.md",
     "Меню/Java Base.md",
     "README.md",
-    "Сеть данных/Web/$ Internet intro.md",
-    "Сеть данных/Tools for web/Regex/$ Regex intro.md"
+    "Сеть данных/Web/$ Internet intro.md"
   ]
 }
