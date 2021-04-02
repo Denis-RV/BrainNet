@@ -108,6 +108,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "e06c783cd2347753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de693274ce75e61c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
