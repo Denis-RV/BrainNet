@@ -1,7 +1,7 @@
 # JBoss
-*Need to know:* [[Maven]], [[HHTP]].
-*tags:* #java, #net
-*description:*
+*необходимо знать:* [[Maven]], [[HHTP]].
+*теги:* #java, #net
+*описание:*
 
 ---
 ## Веб приложения

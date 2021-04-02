@@ -1,7 +1,7 @@
 # IDEA hot key
-*Need to know:*
-*tags:* #editText #java #spring 
-*description:![[Pasted image 20210228162928.png]]*
+*необходимо знать:*
+*теги:* #editText #java #spring 
+*описание:![[Pasted image 20210228162928.png]]*
 
 ---
 #### Работа с кодом

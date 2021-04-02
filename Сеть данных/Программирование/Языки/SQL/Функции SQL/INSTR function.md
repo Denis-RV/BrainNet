@@ -27,4 +27,4 @@ INSTR('ZAURTR...','R',1,2)
 						 7
 ```
 ---
-*tags:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*теги:* #database, #sql, #sqlFunction #character_func #single-row_func 

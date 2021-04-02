@@ -1,6 +1,6 @@
 # class Stream
-**tags:** #java
-**description:** 
+**теги:** #java
+**описание:** 
 
 ---
 ### Возможности:

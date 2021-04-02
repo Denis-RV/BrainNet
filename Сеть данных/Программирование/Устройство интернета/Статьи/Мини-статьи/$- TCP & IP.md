@@ -1,6 +1,6 @@
 # Transmission Control Protocol
-*tags:* #net #server #linux
-*description:*
+*теги:* #net #server #linux
+*описание:*
 *link:* https://ru.wikipedia.org/wiki/Transmission_Control_Protocol
 
 ---

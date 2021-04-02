@@ -1,6 +1,6 @@
 # Web base
-*tags:* #net #server #linux
-*description:* 
+*теги:* #net #server #linux
+*описание:* 
 
 ---
 

@@ -1,6 +1,6 @@
 # Java servers & JWS
-need to know: [[Java Base]], [[Bash синтаксис]], [[HHTP]], [[Servlets Java]]
-tags: #java #net
+необходимо знать: [[Java Base]], [[Bash синтаксис]], [[HHTP]], [[Servlets Java]]
+теги: #java #net
 
 ---
 # Общение клиента с сервером

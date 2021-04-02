@@ -1,6 +1,6 @@
 # class Pattern
-*tags:* #java #regex 
-*description:*
+*теги:* #java #regex 
+*описание:*
 
 ---
 ### Возможности:

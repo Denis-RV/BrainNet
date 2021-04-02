@@ -1,8 +1,8 @@
 # class Object
 **extends:** -
 **implements:** All classes!
-**tags:**  #java
-**description:** Main class in Java
+**теги:**  #java
+**описание:** Main class in Java
 
 ---
 

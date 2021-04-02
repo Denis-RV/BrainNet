@@ -1,5 +1,5 @@
 #
-*description:*
+*описание:*
 
 ---
 ## Cheat sheet

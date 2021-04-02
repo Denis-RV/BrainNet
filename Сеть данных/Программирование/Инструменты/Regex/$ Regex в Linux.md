@@ -1,5 +1,5 @@
 # Regex в Linux
-*tags:* #linux #regex 
-*description:*
+*теги:* #linux #regex 
+*описание:*
 
 ---

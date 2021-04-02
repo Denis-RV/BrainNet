@@ -1,5 +1,5 @@
 # Annotations base
-*tags:* #java 
+*теги:* #java 
 
 ---
 

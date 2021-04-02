@@ -1,5 +1,5 @@
 # Generic
-tags: #java 
+теги: #java 
 
 ---
 

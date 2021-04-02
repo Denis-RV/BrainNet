@@ -1,5 +1,5 @@
 # Terms
-*tags:* #linux 
+*теги:* #linux 
 
 ---
 

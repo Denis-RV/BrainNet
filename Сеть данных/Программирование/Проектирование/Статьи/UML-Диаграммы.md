@@ -1,6 +1,6 @@
 # UML-диаграммы
-*tags:* #java #python #design
-*description:* 
+*теги:* #java #python #design
+*описание:* 
 
 ---
 ## Стандартный вид UML-диаграммы

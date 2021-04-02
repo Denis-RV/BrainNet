@@ -1,7 +1,7 @@
 # Intro to Spring
 
-*need to know:* [[Java Base]]
-*tags:* #spring #java 
+*необходимо знать:* [[Java Base]]
+*теги:* #spring #java 
 
 ---
 ## Spring Framework

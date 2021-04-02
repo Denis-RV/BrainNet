@@ -1,7 +1,7 @@
 #
-*Need to know:*
-*tags:* #net #server #linux
-*description:*
+*необходимо знать:*
+*теги:* #net #server #linux
+*описание:*
 
 ---
 ## 

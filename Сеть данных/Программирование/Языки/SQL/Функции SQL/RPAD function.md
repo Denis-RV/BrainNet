@@ -11,4 +11,4 @@ Steven          24000
 Neena           17000
 ```
 ---
-*tags:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*теги:* #database, #sql, #sqlFunction #character_func #single-row_func 

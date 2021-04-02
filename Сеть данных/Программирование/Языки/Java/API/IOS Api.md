@@ -1,7 +1,7 @@
 # Input & Output
-*Need to know:* [[class File]] 
-*tags:* #java
-*description:*
+*необходимо знать:* [[class File]] 
+*теги:* #java
+*описание:*
 
 ---
 

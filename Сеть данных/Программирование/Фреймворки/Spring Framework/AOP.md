@@ -1,7 +1,7 @@
 # Aspect Oriented Programming
-*Need to know:* [[Dependency Injection]]
-*tags:* #spring #java 
-*description:*
+*необходимо знать:* [[Dependency Injection]]
+*теги:* #spring #java 
+*описание:*
 
 ---
 # Aspects

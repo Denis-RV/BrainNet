@@ -1,5 +1,5 @@
 # GRANT
-*tags:* #database , #sql, #DBdcl 
-*description:* выдать права.
+*теги:* #database , #sql, #DBdcl 
+*описание:* выдать права.
 
 ---

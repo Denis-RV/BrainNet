@@ -1,6 +1,6 @@
 # Lombok
-*tags:* #java
-*description:*
+*теги:* #java
+*описание:*
 
 ---
 ## 

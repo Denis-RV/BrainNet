@@ -9,4 +9,4 @@ select AVG(SALARY)
 select AVG(sysdate \- hire\_date) / 365 from EMPLOYEES;
 ```
 ---
-*tags:* #database, #sql, #sqlFunction #multiple-row_func 
+*теги:* #database, #sql, #sqlFunction #multiple-row_func 

@@ -1,6 +1,6 @@
 # class FilenameFilter
-**tags:** #java
-**description:** 
+**теги:** #java
+**описание:** 
 
 ---
 ### Методы класса:

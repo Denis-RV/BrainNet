@@ -1,7 +1,7 @@
 # Constraint type
-*Need to know:* [[CREATE]]
-*tags:* #database  #sql 
-*description:* ограничения для столбцов.
+*необходимо знать:* [[CREATE]]
+*теги:* #database  #sql 
+*описание:* ограничения для столбцов.
 
 ---
 ## Типы constraint

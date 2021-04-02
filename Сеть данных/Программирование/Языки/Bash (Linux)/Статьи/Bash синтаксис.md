@@ -1,7 +1,7 @@
 # Base bash commands
 
-*tags:*  #linux
-*need to know:* [[Linux Terms]]
+*теги:*  #linux
+*необходимо знать:* [[Linux Terms]]
 
 ---
 

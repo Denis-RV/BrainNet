@@ -1,5 +1,5 @@
 # Конструкции в Java
-tags: #java 
+теги: #java 
 
 ---
 ### try-witch-resources

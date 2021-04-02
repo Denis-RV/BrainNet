@@ -1,6 +1,6 @@
 # class Matcher
-*tags:* #java #regex 
-*description:*
+*теги:* #java #regex 
+*описание:*
 
 ---
 ### Возможности:

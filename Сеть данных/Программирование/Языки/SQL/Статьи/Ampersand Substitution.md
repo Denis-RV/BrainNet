@@ -1,6 +1,6 @@
 # Ampersand Substitution
-*tags:* #sql #database #oracle_db
-*description:* ampersand позволяет делать подстановки значений в запросы, где например надо вводить номер id, чтобы вывести строку. 
+*теги:* #sql #database #oracle_db
+*описание:* ampersand позволяет делать подстановки значений в запросы, где например надо вводить номер id, чтобы вывести строку. 
 
 ---
 ## Single Ampersand

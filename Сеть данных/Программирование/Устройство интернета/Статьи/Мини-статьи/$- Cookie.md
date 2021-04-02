@@ -1,6 +1,6 @@
 # Cookie
-*tags:* #net #server #linux
-*description:* 
+*теги:* #net #server #linux
+*описание:* 
 *link:* https://ru.wikipedia.org/wiki/Cookie
 
 ---

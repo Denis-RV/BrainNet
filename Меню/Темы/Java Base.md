@@ -1,6 +1,6 @@
 # Java Base
-*tags:* #java 
-*description:* 
+*теги:* #java 
+*описание:* 
 
 ---
 ## Java SE

@@ -1,7 +1,7 @@
 # Socket
-*Need to know:* [[$ Web base]]
-*tags:* #net #server #linux
-*description:*
+*необходимо знать:* [[$ Web base]]
+*теги:* #net #server #linux
+*описание:*
 
 ---
  ==сокеты== - абстрактные интерфейсы для связи между 1 и 2 уровнем, позволяющие передавать данные.

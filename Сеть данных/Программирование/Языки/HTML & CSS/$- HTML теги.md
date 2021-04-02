@@ -1,5 +1,5 @@
-# Tags html
-*tags:* #html
+# теги html
+*теги:* #html
 
 Основные:
 ```html

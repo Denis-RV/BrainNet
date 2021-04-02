@@ -1,5 +1,5 @@
 # REVOKE
-*tags:* #database, #sql, #DBdcl 
-*description:* отобрать права.
+*теги:* #database, #sql, #DBdcl 
+*описание:* отобрать права.
 
 ---

@@ -1,6 +1,6 @@
 # Linux Base
-*tags:* #linux #java #database #sql #net #python #server #regex 
-*description:*
+*теги:* #linux #java #database #sql #net #python #server #regex 
+*описание:*
 
 ---
 ## Работа в Bash

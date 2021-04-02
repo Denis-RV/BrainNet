@@ -1,6 +1,6 @@
 # Как, наконец, выучить Regex?
-*tags:* #analysis  #java #linux  #python  #regex 
-*description:* В этой статье вы найдете советы по изучению Regex, ссылки на руководства и шпаргалки.
+*теги:* #analysis  #java #linux  #python  #regex 
+*описание:* В этой статье вы найдете советы по изучению Regex, ссылки на руководства и шпаргалки.
 ![](https://techrocks.ru/wp-content/uploads/2020/12/madelynn-woods-ZHdMovHAHT0-unsplash-1280x2000-1.jpg)
 
 ---

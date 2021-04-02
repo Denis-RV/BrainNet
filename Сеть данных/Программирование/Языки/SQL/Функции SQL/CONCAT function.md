@@ -9,4 +9,4 @@ SELECT CONCAT('privet, ', salary*2) from dual;
 select 'privet, ' || salary*2 from dual;
 ```
 ---
-*tags:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*теги:* #database, #sql, #sqlFunction #character_func #single-row_func 

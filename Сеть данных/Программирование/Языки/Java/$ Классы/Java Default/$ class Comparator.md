@@ -1,8 +1,8 @@
 # class Comparator
 *extends:*
 *implements:*
-*tags:* #java
-*description:*
+*теги:* #java
+*описание:*
 
 ---
 ### Возможности:

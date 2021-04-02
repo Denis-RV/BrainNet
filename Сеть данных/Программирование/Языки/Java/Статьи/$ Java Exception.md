@@ -1,7 +1,7 @@
 # Java Exception
-*Need to know:*
-*tags:* #java 
-*description:*
+*необходимо знать:*
+*теги:* #java 
+*описание:*
 
 ---
 # Иерархия исключений

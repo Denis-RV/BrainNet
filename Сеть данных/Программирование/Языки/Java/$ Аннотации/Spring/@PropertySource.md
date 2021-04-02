@@ -2,4 +2,4 @@
 ![[Pasted image 20210227010559.png]]
 
 ---
-*tags:* #java  #spring 
+*теги:* #java  #spring 

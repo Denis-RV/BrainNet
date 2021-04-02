@@ -1,6 +1,6 @@
 # Java Regex
-*need to know*: [[$ Regex syntax]]
-*tags*:  #java #regex #spring 
+*необходимо знать*: [[$ Regex syntax]]
+*теги*:  #java #regex #spring 
 
 ---
 ## Cheap sheet 

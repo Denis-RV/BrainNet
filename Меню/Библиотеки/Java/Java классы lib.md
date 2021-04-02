@@ -1,5 +1,5 @@
 # Классы Java
-*tags:* #java
+*теги:* #java
 
 ---
 

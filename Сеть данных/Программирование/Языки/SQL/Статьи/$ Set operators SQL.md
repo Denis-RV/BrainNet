@@ -1,6 +1,6 @@
 # Set operators
-*tags:* #database #sql 
-*description:* Операторы, использующие несколько select-ов в одном select-е. ([[SELECT]])
+*теги:* #database #sql 
+*описание:* Операторы, использующие несколько select-ов в одном select-е. ([[SELECT]])
 
 ---
 - [[Set UNION]] - объединяет множества, сортируя их и избавляясь от дубликатов

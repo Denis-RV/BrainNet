@@ -5,4 +5,4 @@
 - [[Сеть данных/Программирование/Языки/Java/$ Аннотации/Spring/@Before]]
 
 ---
-*tags:* #java #spring 
+*теги:* #java #spring 

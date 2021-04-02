@@ -1,5 +1,5 @@
  ## Concurrency API
-tags: #java
+теги: #java
 
 ---
 

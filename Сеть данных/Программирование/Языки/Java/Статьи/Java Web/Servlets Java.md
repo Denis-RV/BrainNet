@@ -1,7 +1,7 @@
 # Java Servlets
-*Need to know:* [[JBoss]]
-*tags:* #java #net 
-*description:* 
+*необходимо знать:* [[JBoss]]
+*теги:* #java #net 
+*описание:* 
 *link:* https://www.youtube.com/watch?v=U3YS-U_N3vo
 
 ---

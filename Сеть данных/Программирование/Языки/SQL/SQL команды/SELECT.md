@@ -1,6 +1,6 @@
 # SELECT
-*tags:* #database, #sql, #DBdml.
-*description:* выборка из таблиц. SELECT - statement, то есть он не меняет данных.
+*теги:* #database, #sql, #DBdml.
+*описание:* выборка из таблиц. SELECT - statement, то есть он не меняет данных.
 
 ---
 # Шаблон

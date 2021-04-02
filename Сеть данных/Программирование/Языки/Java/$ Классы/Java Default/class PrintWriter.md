@@ -1,7 +1,7 @@
 # class PrintWriter
 **extends:** 
 **implements:** 
-tags:
+теги:
 
 ---
 

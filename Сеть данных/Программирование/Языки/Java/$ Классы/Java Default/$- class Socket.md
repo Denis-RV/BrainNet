@@ -1,11 +1,11 @@
 # class Socket
 **extends:** 
 **implements:** 
-tags: #java
+теги: #java
 
 ---
 
->description
+>описание
 
 ### Возможности:
 - 

@@ -1,7 +1,7 @@
 # Lambda Expression
-*Need to know:* [[Java Base]]
-*tags:* #java #spring 
-*description:*
+*необходимо знать:* [[Java Base]]
+*теги:* #java #spring 
+*описание:*
 
 ---
 

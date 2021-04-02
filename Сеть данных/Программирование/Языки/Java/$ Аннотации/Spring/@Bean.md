@@ -4,4 +4,4 @@
 [[Inversion of Control#Вся конфигурация на Java современный способ]]
 
 ---
-*tags:* #java  #spring 
+*теги:* #java  #spring 

@@ -1,6 +1,6 @@
 # Universal Resource Identifier
-*tags:* #net #server #linux
-*description:* универсальный идентификатор ресурса.
+*теги:* #net #server #linux
+*описание:* универсальный идентификатор ресурса.
 *link:* https://ru.wikipedia.org/wiki/URI
 
 ---

@@ -1,6 +1,6 @@
 # COMMIT
-*tags:* #database, #sql, #DBtcl 
-*description:* подтвердить.
+*теги:* #database, #sql, #DBtcl 
+*описание:* подтвердить.
 
 ---
 

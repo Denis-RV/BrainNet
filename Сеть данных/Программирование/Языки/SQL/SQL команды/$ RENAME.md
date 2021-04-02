@@ -1,5 +1,5 @@
 # RENAME
-*tags:* #database, #sql, #DBddl 
-*description:* изменение имен столбцов.
+*теги:* #database, #sql, #DBddl 
+*описание:* изменение имен столбцов.
 
 ---

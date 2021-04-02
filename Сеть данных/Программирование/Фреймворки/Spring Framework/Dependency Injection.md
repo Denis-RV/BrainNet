@@ -1,7 +1,7 @@
   # Dependency Injection
 
-*need to know:* [[Inversion of Control]], [[Bean]]
-*tags:* #spring #java 
+*необходимо знать:* [[Inversion of Control]], [[Bean]]
+*теги:* #spring #java 
 
 ---
 # Избавляемся от ручного внедрения зависимостей.

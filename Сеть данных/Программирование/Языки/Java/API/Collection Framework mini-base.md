@@ -1,7 +1,7 @@
 # Collection Framework
-*Need to know:* 
-*tags:* #java 
-*description:* 
+*необходимо знать:* 
+*теги:* #java 
+*описание:* 
 
 ---
 ### Сложность алгоритмов

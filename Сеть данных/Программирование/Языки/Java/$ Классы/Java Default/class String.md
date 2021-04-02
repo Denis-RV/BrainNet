@@ -1,7 +1,7 @@
 # class String
 *implements:* [[interface Serializable]], Comparable\<String>
-*tags:* #java
-*description:* String - immutable (иммутабельный(неизменяемый). Когда мы как-то меняем String, то создается новый String.
+*теги:* #java
+*описание:* String - immutable (иммутабельный(неизменяемый). Когда мы как-то меняем String, то создается новый String.
 
 ---
 

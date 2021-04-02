@@ -1,6 +1,6 @@
 # Ключевые слова java
 
-tags: #java 
+теги: #java 
 
 ---
 ###  static

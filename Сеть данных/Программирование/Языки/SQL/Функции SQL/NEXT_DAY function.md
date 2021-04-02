@@ -15,4 +15,4 @@ NEXT_DAY(
 15-MAR-21
 ```
 ---
-*tags:* #database, #sql, #sqlFunction #date_func  #single-row_func 
+*теги:* #database, #sql, #sqlFunction #date_func  #single-row_func 

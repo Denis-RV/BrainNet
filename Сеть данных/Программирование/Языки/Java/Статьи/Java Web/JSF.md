@@ -1,7 +1,7 @@
 # Java Server Faces
-*Need to know:* [[Servlets Java]]
-*tags:*
-*description:* Model View Controller фреймворк для построения пользовательского интерфейса веб-приложения.
+*необходимо знать:* [[Servlets Java]]
+*теги:*
+*описание:* Model View Controller фреймворк для построения пользовательского интерфейса веб-приложения.
 *link:* https://www.youtube.com/watch?v=IHUk1Gx4OGQ&list=PLiJ76e8LBYQVOHd1G3vva9FGV66sdV3N1&index=4
 
 ---

@@ -1,7 +1,7 @@
  # Bean
 
-need to know: [[Dependency Injection]]
-tags: #spring #java
+необходимо знать: [[Dependency Injection]]
+теги: #spring #java
 
 ---
 ## Bean

@@ -1,6 +1,6 @@
 # Work with Java from cmd
-tags: #java 
-need to know: [[Bash синтаксис]]
+теги: #java 
+необходимо знать: [[Bash синтаксис]]
 
 ---
 

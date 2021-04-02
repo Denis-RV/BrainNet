@@ -1,6 +1,6 @@
 # Проектирование base
-*tags:* #java #maths #binarMaths #python #analysis #dataScience #database #design #editText
-*description:*
+*теги:* #java #maths #binarMaths #python #analysis #dataScience #database #design #editText
+*описание:*
 
 ---
 

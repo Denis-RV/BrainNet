@@ -1,7 +1,7 @@
 # Basics of Git & GitHub
 
-tags:
-need to know: [[Bash синтаксис]]
+теги:
+необходимо знать: [[Bash синтаксис]]
 
 ![Basics%20of%20Git%20&%20GitHub%20a859a9b942214e4083d4e8ade3882b97/Untitled.png](Untitled.png)
 
