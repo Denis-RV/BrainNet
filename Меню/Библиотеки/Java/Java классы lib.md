@@ -38,7 +38,7 @@
 - [[class Optional]]
 - [[class OutputStream (abstract)]]
 - [[class OutputStreamWriter]]
-- [[$ class Pattern]]
+- [[$- class Pattern]]
 - [[class PrintWriter]]
 - [[$ class PriorityQueue]]
 - [[$ class RandomAccessFile]]
