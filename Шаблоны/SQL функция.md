@@ -5,4 +5,4 @@
 
 ```
 ---
-*tags:* #database, #sql, #sqlFunction
+*теги:* #database, #sql, #sqlFunction
