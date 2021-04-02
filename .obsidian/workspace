@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Сеть данных/Программирование/Языки/SQL/Статьи/Нормализация. Связи в бд.md",
+            "file": "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть данных/Программирование/Языки/SQL/Статьи/Нормализация. Связи в бд.md",
+                "file": "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть данных/Программирование/Языки/SQL/Статьи/Нормализация. Связи в бд.md"
+                "file": "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md"
               }
             }
           }
@@ -115,6 +115,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
     "Сеть данных/Программирование/Языки/SQL/Статьи/Нормализация. Связи в бд.md",
     "README.md",
     "Сеть данных/Программирование/Языки/Java/$ Классы/Java Default/class CountDownLatch.md",
@@ -123,7 +124,6 @@
     "Сеть данных/Программирование/Языки/Java/$ Классы/Java Default/$ class Pattern.md",
     "Сеть данных/Программирование/Языки/Java/$ Аннотации/Spring/@Qualifier.md",
     "Меню/Библиотеки/Java/Java annotations lib.md",
-    "Сеть данных/Программирование/Устройство интернета/Статьи/Мини-статьи/$- UDP.md",
-    "Сеть данных/Программирование/Языки/SQL/SQL команды/ALTER.md"
+    "Сеть данных/Программирование/Устройство интернета/Статьи/Мини-статьи/$- UDP.md"
   ]
 }
