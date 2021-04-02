@@ -8,7 +8,7 @@
 - [[$ Java Regex]] - использование регулярных выражений в java.
 - [[IOS Api]] - работа с системой ввода/вывода
 - [[$ Java Exception]] - исключения в java
-- [[Collection Framework]] - работа с коллекциями в Java
+- [[Collection Framework mini-base]] - работа с коллекциями в Java
 - [[Stream API]] - работа с потоками данных.
 - [[Лямда-выражения API]] - работа с лямда-выражениями.
 - [[Java CMD (javac, java, jar)]] - работа с java в CMD.

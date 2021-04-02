@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "00754ebb3705d2ff",
+        "id": "f19a70d3dbefb8b0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Меню/Темы/$ SQL base.md",
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "a7597e8d58914dd7"
+      },
+      {
+        "id": "9fbf68fe83893ee0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "a7597e8d58914dd7"
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#numeric_func",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 342.5
   },
   "right": {
     "id": "91c71ee87f2d7ab1",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Меню/Темы/$ SQL base.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Меню/Темы/$ SQL base.md"
+                "file": "README.md"
               }
             }
           }
@@ -115,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Меню/Темы/$ SQL base.md",
     "README.md",
-    "Изображения/Pasted image 20210401204123.png",
-    "Меню/Профессии/$ Backend Java Developer prof.md",
-    "Сеть данных/Tools for web/Regex/Как изучить Regex.md",
-    "Сеть данных/Tools for web/Maven.md",
-    "Сеть данных/Tools for web/Git.md",
-    "Сеть данных/Tools for web/$- Postman.md",
-    "Сеть данных/Tools for web/$- Gradle.md",
-    "Сеть данных/Tools for web/$- Lombok.md"
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Builder.md",
+    "Меню/Темы/$- Проектирование base.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Мост.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Bridge.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Adapter.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Abstract Factory.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$ Паттерн Factory Method.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$ Паттерн Декоратор.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$ Паттерн Decorator.md"
   ]
 }
