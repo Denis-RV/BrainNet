@@ -1,5 +1,5 @@
 # class Pattern
-*теги:* #java #regex 
+*теги:* #java/class  #regex 
 *описание:*
 
 ---

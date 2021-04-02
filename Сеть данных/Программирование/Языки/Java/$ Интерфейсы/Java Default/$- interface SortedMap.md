@@ -1,3 +1,3 @@
 
 ---
-*теги:* #java
+*теги:* #java/interface 

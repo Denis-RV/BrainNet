@@ -1,5 +1,5 @@
 # Web base
-*теги:* #net #server #linux
+*теги:* #web #web/server #linux
 *описание:* 
 
 ---

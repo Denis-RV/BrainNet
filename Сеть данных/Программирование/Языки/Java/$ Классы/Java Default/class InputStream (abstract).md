@@ -1,7 +1,7 @@
 # class InputStream
 
 *Direct Known Subclasses:* [[$ class FileInputStream]], [[$ class BufferedInputStream]]
-*теги:* #java #javaAbstractClass
+*теги:* #java/class 
 *описание:* преобразует данные в поток входных байтов.
 
 ---

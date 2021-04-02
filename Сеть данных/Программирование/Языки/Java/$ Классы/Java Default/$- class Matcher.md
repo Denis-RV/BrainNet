@@ -1,5 +1,5 @@
 # class Matcher
-*теги:* #java #regex 
+*теги:* #java/class  #regex 
 *описание:*
 
 ---

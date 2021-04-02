@@ -1,5 +1,5 @@
 # Development Base
-*теги:* #java #sql #design #spring #net #database #linux #server #html #css
+*теги:* #java #sql #проектирование #spring #web #базы_данных #linux #web/server #html #css
 *описание:* Инструментарий для backend разработчков на Java. <? Необходимо переделать статью так, чтобы изучать материал можно было последовательно ?>
 
 ---

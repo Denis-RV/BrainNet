@@ -40,4 +40,4 @@ HIRE_DATE ROUND(HIR
 ```
 
 ---
-*теги:* #database, #sql, #sqlFunction, #single-row_func  #numeric_func #date_func  
+*теги:* #базы_данных, #sql/function/single-row/numeric_func #sql/function/single-row/date  

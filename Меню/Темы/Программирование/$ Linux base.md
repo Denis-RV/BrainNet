@@ -1,5 +1,5 @@
 # Linux Base
-*теги:* #linux #java #database #sql #net #python #server #regex 
+*теги:* #linux #java #базы_данных #sql #web #python #web/server #regex 
 *описание:*
 
 ---

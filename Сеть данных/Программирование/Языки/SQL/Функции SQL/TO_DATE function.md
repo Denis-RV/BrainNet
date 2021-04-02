@@ -22,4 +22,4 @@ select TO\_char(to\_date('18-SEP-10', 'DD-MON-RR'), 'Month') from dual;
 select to\_char(TO\_DATE('15?1987?17?18?19/09', 'hh24?YYYY?MI?SS?DD/mm'), 'dd-MON-yyyy hh24:mi:ss') from dual;
 ```
 ---
-*теги:* #database, #sql, #sqlFunction, #conversion_func #single-row_func 
+*теги:* #базы_данных, #sql/function/single-row/conversion 

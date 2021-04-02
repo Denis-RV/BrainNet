@@ -1,6 +1,6 @@
 # IDEA hot key
 *необходимо знать:*
-*теги:* #editText #java #spring 
+*теги:* #text_editing #java #spring 
 *описание:![[Pasted image 20210228162928.png]]*
 
 ---

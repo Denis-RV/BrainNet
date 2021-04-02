@@ -1,4 +1,4 @@
 
 
 ---
-теги: #java #javaAnnotation
+теги: #java/annotation

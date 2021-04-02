@@ -1,5 +1,5 @@
 # class FilenameFilter
-**теги:** #java
+**теги:** #java/class 
 **описание:** 
 
 ---

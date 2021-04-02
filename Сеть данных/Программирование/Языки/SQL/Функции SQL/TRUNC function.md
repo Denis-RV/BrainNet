@@ -31,4 +31,4 @@ TRUNC(35345.4567,-2)
                35300
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #single-row_func  #numeric_func 
+*теги:* #базы_данных, #sql/function/single-row/numeric_func 

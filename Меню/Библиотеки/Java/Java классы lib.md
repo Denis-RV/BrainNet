@@ -57,4 +57,4 @@
 - [[$ class TreeSet]]
 - [[$ class Vector]]
 - [[$ class WeakHashMap]]
-- [[class Writer (abstract)]]
+- [[$ class Writer (abstract)]]

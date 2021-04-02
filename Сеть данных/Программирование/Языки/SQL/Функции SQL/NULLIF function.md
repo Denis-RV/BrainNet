@@ -7,4 +7,4 @@ select NULLIF(17, 18) from dual; \--17
 select NULLIF('Hello', 'Hello') from dual;
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #general_func #single-row_func 
+*теги:* #базы_данных,  #sql/function/single-row/general

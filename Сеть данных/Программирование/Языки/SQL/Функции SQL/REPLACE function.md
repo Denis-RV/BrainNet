@@ -10,4 +10,4 @@ GO
 Hell**, h**w are y**u? What is y**ur name?
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #single-row_func #character_func 
+*теги:* #базы_данных, #sql/function/single-row/character 

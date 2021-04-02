@@ -14,4 +14,4 @@ Pat                           3
 Jean                          4
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #single-row_func #character_func 
+*теги:* #базы_данных, #sql/function/single-row/character 

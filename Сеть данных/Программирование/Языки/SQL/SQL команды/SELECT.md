@@ -1,5 +1,5 @@
 # SELECT
-*теги:* #database, #sql, #DBdml.
+*теги:* #базы_данных, #sql/command/DBdml.
 *описание:* выборка из таблиц. SELECT - statement, то есть он не меняет данных.
 
 ---

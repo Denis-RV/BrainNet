@@ -1,6 +1,6 @@
 # Java Database Connectivity
 *необходимо знать:* [[$ SQL base]], [[Java Base]]
-*теги:* #java #sql #database 
+*теги:* #java #sql #базы_данных 
 *описание:* DBC — это интерфейс, который позволяет программе Java подключаться к базе данных и выдавать операторы DML и DDL.
 *link:* https://javarush.ru/groups/posts/2172-jdbc-ili-s-chego-vsje-nachinaetsja, https://www.youtube.com/watch?v=Y2sRuCUpJ78, 
 

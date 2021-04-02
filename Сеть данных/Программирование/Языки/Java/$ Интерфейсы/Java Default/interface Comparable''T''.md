@@ -14,4 +14,4 @@ public int compareTo(Car obj) {
 ```
 
 ---
-*теги:* #java
+*теги:* #java/interface 

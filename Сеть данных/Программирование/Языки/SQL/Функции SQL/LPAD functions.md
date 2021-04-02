@@ -11,4 +11,4 @@ LPAD('Z
 ***Zaur
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*теги:* #базы_данных, #sql/function/single-row/character

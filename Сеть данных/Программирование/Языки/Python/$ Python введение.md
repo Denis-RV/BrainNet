@@ -1,7 +1,7 @@
 # Введение в Python
 
-теги: #python #dataScience 
-необходимо знать: -
+теги: #python 
+необходимо знать:
 
 ---
 ## Starting terms

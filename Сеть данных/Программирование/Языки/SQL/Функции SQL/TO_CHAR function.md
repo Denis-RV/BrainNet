@@ -127,4 +127,4 @@ select TO\_CHAR(Sysdate, 'CC') from DUAL;
 ```
 
 ---
-*теги:* #database, #sql, #sqlFunction, #conversion_func #single-row_func 
+*теги:* #базы_данных, #sql/function/single-row/conversion

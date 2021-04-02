@@ -33,4 +33,4 @@ MOD(3.1,1.2)
           .7
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #single-row_func #numeric_func 
+*теги:* #базы_данных, #sql/function/single-row/numeric_func 

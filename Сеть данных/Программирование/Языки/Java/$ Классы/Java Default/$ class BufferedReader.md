@@ -1,6 +1,6 @@
 # class BufferedReader
 *extends:* [[class Reader (abstract)]]
-*теги:* #java
+*теги:* #java/class 
 *описание:* Выступает в качестве буффера, позволяет работать с данными более эффективно.
 
 ---

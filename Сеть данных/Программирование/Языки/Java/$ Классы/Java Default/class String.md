@@ -1,6 +1,6 @@
 # class String
 *implements:* [[interface Serializable]], Comparable\<String>
-*теги:* #java
+*теги:* #java/class 
 *описание:* String - immutable (иммутабельный(неизменяемый). Когда мы как-то меняем String, то создается новый String.
 
 ---

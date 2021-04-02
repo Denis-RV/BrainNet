@@ -7,4 +7,4 @@ select NVL(null, 35) from dual; \--Out: 35
 select FIRST\_NAME, NVL(COMMISSION\_PCT, 0) from EMPLOYEES;
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #general_func #single-row_func 
+*теги:* #базы_данных, #sql/function/single-row/general

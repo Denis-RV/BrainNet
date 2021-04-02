@@ -23,4 +23,4 @@ select * from employees where LOWER(first_name) = 'david';
 ```
 	
 ---
-*теги:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*теги:* #sql/function/single-row/character 

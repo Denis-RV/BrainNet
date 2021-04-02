@@ -3,4 +3,4 @@
 
 
 ---
-*теги:* #java  #spring 
+*теги:* #java/annotation   #spring/annotation 

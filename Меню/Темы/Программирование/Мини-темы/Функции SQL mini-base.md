@@ -1,21 +1,21 @@
  # Function SQL
 *необходимо знать:*
-*теги:* #database #sql #sqlFunction 
+*теги:* #базы_данных #sql/function 
 *описание:* Функции не меняют данные в базе. Они нужны для извлечения данных и преобразования информации.
 
 ---
 
 ## Single-row functions 
 Сколько информации на входе, столько и на входе (сколько стров в таблице, столько строк и будет обработано). Например вычисляет длину имени работников для каждой строки. Будет сформировано столько же строк.
-#single-row_func
+#sql/function/single-row
 
 Имеют несколько подразделений:
-- *Character* - функции, работающие со строками. #character_func
-- *Numeric* - функции для чисел. #numeric_func
-- *Date* - для дат. #date_func
-- *Conversion* - преобразовывают типы данных. #conversion_func
-- *General* - работают с null-значениями #general_func
-- *Conditional* - условия. #conditional_func
+- *Character* - функции, работающие со строками. #sql/function/single-row/character
+- *Numeric* - функции для чисел. #sql/function/single-row/numeric_func
+- *Date* - для дат. #sql/function/single-row/date
+- *Conversion* - преобразовывают типы данных. #sql/function/single-row/conversion
+- *General* - работают с null-значениями #sql/function/single-row/general
+- *Conditional* - условия. #sql/function/single-row/conditional
 
 Функции могут быть вложенными:
 ```sql
@@ -74,7 +74,7 @@ Today is 08-MAR-21. It's cool!
 
 ## Multiple-row functions
 Принимают информацию из многих строк и выводит одну. Например вычисляет длину имен всех работников и дает единый результат. Данные функции используются вместе с  [[SELECT#GROUP BY группировка]]
-#multiple-row_func
+#sql/function/multiple-row
 
 - [[COUNT function]] - считает строки по столбцу
 - [[SUM function]] - вычисляет сумму числовых столбиков.

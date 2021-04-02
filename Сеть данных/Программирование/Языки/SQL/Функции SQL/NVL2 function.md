@@ -10,4 +10,4 @@ select FIRST\_NAME,
     from EMPLOYEES;
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #general_func #single-row_func 
+*теги:* #базы_данных, #sql/function/single-row/general 

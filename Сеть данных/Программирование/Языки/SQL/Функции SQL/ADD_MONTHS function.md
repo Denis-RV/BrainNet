@@ -9,4 +9,4 @@ ADD_MONTH ADD_MONTH
 30-NOV-19 31-DEC-19
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #date_func #single-row_func 
+*теги:* #базы_данных, #sql/function/single-row/date 

@@ -6,4 +6,4 @@
 ```
 
 ---
-*теги:* #java 
+*теги:* #java/annotation 

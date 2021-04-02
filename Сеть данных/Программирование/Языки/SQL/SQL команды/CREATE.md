@@ -1,6 +1,6 @@
 # CREATE TABLE
 *необходимо знать* [[Constraint type]]
-*теги:* #database, #sql, #DBddl 
+*теги:* #базы_данных, #sql/command/DBddl 
 *описание:* создание таблиц.
 
 ---

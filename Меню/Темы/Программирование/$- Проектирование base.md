@@ -1,5 +1,5 @@
 # Проектирование base
-*теги:* #java #maths #binarMaths #python #analysis #dataScience #database #design #editText
+*теги:* #java #maths #python #базы_данных #проектирование #text_editing
 *описание:*
 
 ---

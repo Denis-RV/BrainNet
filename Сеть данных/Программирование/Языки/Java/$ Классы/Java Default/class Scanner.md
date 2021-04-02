@@ -1,7 +1,7 @@
 # class Scanner
 *extends:*
 *implements:*
-*теги:* #java
+*теги:* #java/class 
 *описание:* Позволяет считывать данные определенного типа. В качетсве параметра принимает InputStream (например System.in)
 
 ---

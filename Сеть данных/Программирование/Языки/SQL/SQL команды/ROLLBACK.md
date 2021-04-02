@@ -1,5 +1,5 @@
 # ROLLBACK
-*теги:* #database, #sql, #DBtcl 
+*теги:* #базы_данных, #sql/command/DBtcl 
 *описание:* отменить транзакцию или откатиться до savepoint.
 
 ---

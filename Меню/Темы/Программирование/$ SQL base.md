@@ -1,5 +1,5 @@
 # SQL Base
-*теги:* #database, #sql, #dataScience, 
+*теги:* #базы_данных, #sql, 
 
 ---
 

@@ -1,7 +1,7 @@
 # class System
 **extends:** 
 ** implements:** 
-**теги:** #java 
+**теги:** #java/class  
 **описание:** 
 
 ---

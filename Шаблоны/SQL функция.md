@@ -5,4 +5,4 @@
 
 ```
 ---
-*теги:* #database, #sql, #sqlFunction
+*теги:* #базы_данных, #sql/function

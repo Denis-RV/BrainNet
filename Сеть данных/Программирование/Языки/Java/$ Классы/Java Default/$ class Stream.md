@@ -1,5 +1,5 @@
 # class Stream
-**теги:** #java
+**теги:** #java/class 
 **описание:** 
 
 ---

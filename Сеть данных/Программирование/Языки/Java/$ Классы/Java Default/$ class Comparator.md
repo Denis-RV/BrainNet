@@ -1,7 +1,7 @@
 # class Comparator
 *extends:*
 *implements:*
-*теги:* #java
+*теги:* #java/class 
 *описание:*
 
 ---

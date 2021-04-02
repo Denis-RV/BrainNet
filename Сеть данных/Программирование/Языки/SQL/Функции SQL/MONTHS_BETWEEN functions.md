@@ -16,4 +16,4 @@ EMPLOYEE_ID        SUM
         101      49.19
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #date_func #single-row_func 
+*теги:* #базы_данных, #sql/function/single-row/date 

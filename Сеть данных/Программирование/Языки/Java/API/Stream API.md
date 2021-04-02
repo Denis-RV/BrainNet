@@ -1,6 +1,6 @@
 # Stream API
 *необходимо знать:* [[Java Base]]
-*теги:* #java #database
+*теги:* #java #базы_данных
 *описание:* Stream API is a special stream, that helping us to add filters at data stream.
 
 ---

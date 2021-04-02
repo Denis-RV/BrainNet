@@ -1,5 +1,5 @@
 # tmux
-*теги:* #editText #linux #java #html #python
+*теги:* #text_editing #linux #java #html #python
 *link:* https://habr.com/ru/hub/vim/
 *описание:* Терминальный мультиплексор. Позволяет разделять окна в терминале и быстро переключать сессии.
 

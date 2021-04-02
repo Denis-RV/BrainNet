@@ -1,7 +1,7 @@
 # class Socket
 **extends:** 
 **implements:** 
-теги: #java
+теги: #java/class 
 
 ---
 

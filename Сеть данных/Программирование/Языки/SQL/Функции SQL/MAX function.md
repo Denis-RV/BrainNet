@@ -12,4 +12,4 @@ select COUNT(SALARY) as COUNT_, SUM(SALARY) as SUM_,
     from EMPLOYEES;
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #multiple-row_func 
+*теги:* #базы_данных, #sql/function/multiple-row 

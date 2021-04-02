@@ -21,4 +21,4 @@ select TRIM(both '*' from '***Zaur**qqqq***') from dual;
 select TRIM('*' from '***Zaur**qqqq***') from dual;
 ```
 ---
-*теги:* #database, #sql, #sqlFunction #character_func #single-row_func 
+*теги:* #базы_данных,  #sql/function/single-row/character

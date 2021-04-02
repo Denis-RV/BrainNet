@@ -48,7 +48,7 @@ try(InputStream inputStream = new FileInputStream(file)) {
 	- [[$ class BufferedReader]] - буфер
 	- [[class InputStremaReader]] - основная реализация
 	- [[$ class FileReader]] - для текстовых файлов
-- [[class Writer (abstract)]] 
+- [[$ class Writer (abstract)]] 
 	- [[$ class BufferedWriter]] - буфер
 	- [[class OutputStreamWriter]] - основная реализация
 	- [[$ class FilleWriter]] - для текстовых файлов
