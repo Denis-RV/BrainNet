@@ -42,5 +42,5 @@ pablic void main(String[] args) {
 
 [name_link](itself_link)
 
-| Hello | World | Oy  |
-| ----- | ----- | --- |
+| Hello |     |     | World | Oy  |
+| ----- | --- | --- | ----- | --- |
