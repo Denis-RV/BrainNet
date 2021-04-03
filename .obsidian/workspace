@@ -6,18 +6,18 @@
       {
         "id": "f0d8215c78973053",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Сеть данных/Программирование/Фреймворки/Spring Framework/Dependency Injection.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       },
       {
         "id": "028cbbeda295e563",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaskList.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskList.md"
+                "file": "README.md"
               }
             }
           },
@@ -149,9 +149,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "TaskList.md",
     "README.md",
     "Сеть данных/Программирование/Фреймворки/Spring Framework/Dependency Injection.md",
+    "TaskList.md",
     "Как учиться с BrainNet/Доп. файлы/$- Чек-лист для пул-реквестов.md",
     "Как учиться с BrainNet/Доп. файлы/Untitled.md",
     "Меню/Обучающие сборники/Untitled.md",
