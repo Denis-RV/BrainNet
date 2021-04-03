@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Error/Программирование/Фреймворки/Spring Framework/Dependency Injection.md",
+            "file": "Сеть данных/Программирование/Фреймворки/Spring Framework/Dependency Injection.md",
             "mode": "preview"
           }
         }
@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "TaskList.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }

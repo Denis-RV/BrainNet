@@ -4,7 +4,7 @@
 ---
 
 - [[@After]]
-- [[Error/Программирование/Языки/Java/$ Аннотации/Java Default/@Before]]
+- [[Сеть данных/Программирование/Языки/Java/$ Аннотации/Java Default/@Before]]
 - [[@FunctionalInterface]]
 - [[@Test]]
 - 
@@ -12,7 +12,7 @@
 - 
 - [[@Aspect]]
 - [[Bean]]
-- [[Error/Программирование/Языки/Java/$ Аннотации/Spring/@Before]]
+- [[Сеть данных/Программирование/Языки/Java/$ Аннотации/Spring/@Before]]
 - [[@Component]]
 - [[@ComponentScan]]
 - [[@Configuration]]
