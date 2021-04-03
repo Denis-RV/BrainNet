@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "f19a70d3dbefb8b0",
+        "id": "f0d8215c78973053",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Error/Программирование/Фреймворки/Spring Framework/Dependency Injection.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "028cbbeda295e563",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TaskList.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TaskList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TaskList.md"
+              }
             }
           },
           {
@@ -110,22 +127,37 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "af3065d349fdbff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7611d8cc8929514f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "TaskList.md",
     "README.md",
+    "Сеть данных/Программирование/Фреймворки/Spring Framework/Dependency Injection.md",
+    "Как учиться с BrainNet/Доп. файлы/$- Чек-лист для пул-реквестов.md",
+    "Как учиться с BrainNet/Доп. файлы/Untitled.md",
     "Меню/Обучающие сборники/Untitled.md",
     "Меню/Профессии/$ Backend Java Developer prof.md",
     "Сеть данных/Программирование/Языки/SQL/SQL команды/$ GRANT.md",
     "Сеть данных/Программирование/Языки/SQL/Статьи/$ Set operators SQL.md",
-    "Сеть данных/Программирование/Языки/SQL/SQL команды/$ REVOKE.md",
-    "Как учиться с BrainNet/Доп. файлы/$- Как строить связи.md",
-    "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
-    "Как учиться с BrainNet/Доп. файлы/$- Чек-лист для пул-реквестов.md",
-    "Сеть данных/Программирование/Проектирование/Статьи/Структуры данных введение.md"
+    "Сеть данных/Программирование/Языки/SQL/SQL команды/$ REVOKE.md"
   ]
 }
