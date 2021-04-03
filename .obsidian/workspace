@@ -4,27 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d8215c78973053",
+        "id": "5a54e187902f90c3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Меню/Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4bcd02e0f2e38a64"
       },
       {
-        "id": "028cbbeda295e563",
+        "id": "8db32c31850e3f95",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TaskList.md",
+            "file": "Меню/Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "4bcd02e0f2e38a64"
       }
     ],
     "direction": "vertical"
@@ -38,7 +40,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e30505713af4954",
+            "id": "52a85e9616b5a3f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,26 +48,26 @@
             }
           },
           {
-            "id": "957a922ada6dcc14",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "949f9730e99012ef",
+            "id": "396b798eafc6b887",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#проектирование",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c10dc2a1d9551fa7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -83,12 +85,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c11a80c727dcd07",
+            "id": "6e57f6f010fcda51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bcad8029cd0afd0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Меню/Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +108,7 @@
             }
           },
           {
-            "id": "2f5d56e89d3c5d38",
+            "id": "3d08e368e78b9462",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -109,35 +119,26 @@
             }
           },
           {
-            "id": "cdd1e2d0ae0a3c39",
+            "id": "0e4dfb21fe3e37e7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Меню/Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md"
               }
             }
-          },
-          {
-            "id": "6e57f6f010fcda51",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "af3065d349fdbff8",
+        "id": "5c40e0fe1f3e23bb",
         "type": "tabs",
         "children": [
           {
             "id": "7611d8cc8929514f",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "empty",
               "state": {}
             }
           }
@@ -149,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "Сеть данных/Программирование/Фреймворки/Spring Framework/Dependency Injection.md",
-    "TaskList.md",
-    "Как учиться с BrainNet/Доп. файлы/$- Чек-лист для пул-реквестов.md",
-    "Как учиться с BrainNet/Доп. файлы/Untitled.md",
-    "Меню/Обучающие сборники/Untitled.md",
+    "Меню/Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
+    "Сеть данных/Входящие материалы/Основы языка SQL book/1. Термины DB и SQL.md",
+    "Сеть данных/Входящие материалы/Основы языка SQL book/3. Основные операции с таблицами.md",
     "Меню/Профессии/$ Backend Java Developer prof.md",
-    "Сеть данных/Программирование/Языки/SQL/SQL команды/$ GRANT.md",
-    "Сеть данных/Программирование/Языки/SQL/Статьи/$ Set operators SQL.md",
-    "Сеть данных/Программирование/Языки/SQL/SQL команды/$ REVOKE.md"
+    "Сеть данных/Программирование/Проектирование/Паттерны/$ Паттерн Декоратор.md",
+    "Меню/Темы/Программирование/Java Base.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Visitor.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Template method.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Prototype.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Observer.md"
   ]
 }

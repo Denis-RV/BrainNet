@@ -1,4 +1,6 @@
-- Исправить опечатки в `Base\Linux, Bush, Servers`. Можно воспользоваться https://text.ru/spelling/unauthorized.
+
+
+-   Исправить опечатки в `Base\Linux, Bush, Servers`. Можно воспользоваться https://text.ru/spelling/unauthorized.
 - Исправить опечатки в `Base\Data Base`. 
 - Создать файл с заданиями и описать его структуру (см [[README#Как получить максимум пользы]]).
 - Сделать нормальное описание в README
