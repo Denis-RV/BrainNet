@@ -1,5 +1,5 @@
 # Java servers & JWS
-необходимо знать: [[Java Base]], [[Bash синтаксис]], [[HHTP]], [[Servlets Java]]
+необходимо знать: [[Java Base]], [[Bash введение]], [[HHTP]], [[Servlets Java]]
 теги: #java #web
 
 ---

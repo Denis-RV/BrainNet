@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "73a8d31a3600a276",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a54e187902f90c3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
+            "mode": "source"
+          }
+        },
+        "group": "4bcd02e0f2e38a64"
+      },
+      {
+        "id": "8db32c31850e3f95",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4bcd02e0f2e38a64"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e23c4bda43b033af",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f1242322e6f2b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a85e9616b5a3f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "396b798eafc6b887",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c10dc2a1d9551fa7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "91c71ee87f2d7ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "83ab9b3897b2b64c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e57f6f010fcda51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bcad8029cd0afd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d08e368e78b9462",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e4dfb21fe3e37e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c40e0fe1f3e23bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7611d8cc8929514f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Меню/Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
+    "Сеть данных/Входящие материалы/Основы языка SQL book/1. Термины DB и SQL.md",
+    "Сеть данных/Входящие материалы/Основы языка SQL book/3. Основные операции с таблицами.md",
+    "Меню/Профессии/$ Backend Java Developer prof.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$ Паттерн Декоратор.md",
+    "Меню/Темы/Программирование/Java Base.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Visitor.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Template method.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Prototype.md",
+    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Observer.md"
+  ]
+}

@@ -8,25 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Сеть данных/Входящие материалы/Программирование/Инструменты/Git.md",
-            "mode": "source"
-          }
-        },
-        "group": "4bcd02e0f2e38a64"
-      },
-      {
-        "id": "8db32c31850e3f95",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Сеть данных/Входящие материалы/Программирование/Инструменты/Git.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4bcd02e0f2e38a64"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 259
   },
   "right": {
     "id": "91c71ee87f2d7ab1",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть данных/Входящие материалы/Программирование/Инструменты/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,26 +106,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Сеть данных/Входящие материалы/Программирование/Инструменты/Git.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c40e0fe1f3e23bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7611d8cc8929514f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Сеть данных/Программирование/Инструменты/Git.md",
-    "Меню/Как учиться с BrainNet/Доп. файлы/$- Работа с MarkDown.md",
-    "Сеть данных/Входящие материалы/Основы языка SQL book/1. Термины DB и SQL.md",
-    "Сеть данных/Входящие материалы/Основы языка SQL book/3. Основные операции с таблицами.md",
-    "Меню/Профессии/$ Backend Java Developer prof.md",
-    "Сеть данных/Программирование/Проектирование/Паттерны/$ Паттерн Декоратор.md",
-    "Меню/Темы/Программирование/Java Base.md",
-    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Visitor.md",
-    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Template method.md",
-    "Сеть данных/Программирование/Проектирование/Паттерны/$- Паттерн Prototype.md"
+    "Сеть данных/Входящие материалы/Программирование/Языки/SQL/Bases/Set operators SQL/$ Set operators SQL.md",
+    "Меню/Обучающие сборники/Вебинары Александра Романовича.md",
+    "Сеть данных/Входящие материалы/Программирование/Языки/Java/$- Java введение.md",
+    "Меню/Библиотеки/Java/Java annotations lib.md",
+    "Сеть данных/Входящие материалы/Программирование/Языки/Java/Bases/Java аннотации/Java аннотации mini-base.md",
+    "Сеть данных/Входящие материалы/Программирование/Языки/Java/Bases/Java интерфейсы/Java интерфейсы mini-base 1.md",
+    "Сеть данных/Входящие материалы/Программирование/Языки/Java/Bases/Java интерфейсы/Java интерфейсы mini-base.md",
+    "Меню/Библиотеки/Java/Java interfaces lib.md",
+    "Сеть данных/Входящие материалы/Программирование/Языки/Java/Bases/Java классы/Java классы mini-base 1.md",
+    "Сеть данных/Входящие материалы/Программирование/Языки/Java/Bases/Java классы/Java классы mini-base.md"
   ]
 }

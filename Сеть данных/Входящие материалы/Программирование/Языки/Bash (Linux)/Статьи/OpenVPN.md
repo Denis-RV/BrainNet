@@ -1,7 +1,7 @@
 # VPN Сервера. OpenVPN
 *описание:* https://www.dmosk.ru/instruktions.php?object=openvpn-centos-install
 *теги:* #linux #web
-*необходимо знать:* [[Bash синтаксис]]
+*необходимо знать:* [[Bash введение]]
 
 ---
 

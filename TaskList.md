@@ -1,6 +1,6 @@
-
-
--   Исправить опечатки в `Base\Linux, Bush, Servers`. Можно воспользоваться https://text.ru/spelling/unauthorized.
+- Продумать структуру и введение Base и mini-base файлов
+- Продумать структуру и шаблон Введение
+- Исправить опечатки в `Base\Linux, Bush, Servers`. Можно воспользоваться https://text.ru/spelling/unauthorized.
 - Исправить опечатки в `Base\Data Base`. 
 - Создать файл с заданиями и описать его структуру (см [[README#Как получить максимум пользы]]).
 - Сделать нормальное описание в README

@@ -17,9 +17,9 @@
 - [[$- JVM]] - работа с Java Virtual Мachine 
 
 Следующие 3 темы лучше смотреть в [документации](https://docs.oracle.com/en/java/javase/16/docs/api/index.html). В obsidian добавляются краткие описание классов, которые часто встечаются в практике и в других статьсях.
-- [[Java annotations lib]] - аннотации java.
-- [[Java interfaces lib]] - интерфейсы java.
-- [[Java классы lib]] - классы java.
+- [[Java аннотации mini-base]] - аннотации java.
+- [[Java интерфейсы mini-base]] - интерфейсы java.
+- [[Java классы mini-base]] - классы java.
 
 ### Работа с java
 - [[$ Методы Java на все случаи]] - полезные методы.
