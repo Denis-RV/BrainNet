@@ -6,7 +6,7 @@
 ## Java SE
 ### Java API
 - [[$ Java Regex]] - использование регулярных выражений в java.
-- [[IOS Api]] - работа с системой ввода/вывода
+- [[Input-output mini-base]] - работа с системой ввода/вывода
 - [[$ Java Exception]] - исключения в java
 - [[Collection Framework mini-base]] - работа с коллекциями в Java
 - [[Stream API]] - работа с потоками данных.
@@ -17,9 +17,9 @@
 - [[$- JVM]] - работа с Java Virtual Мachine 
 
 Следующие 3 темы лучше смотреть в [документации](https://docs.oracle.com/en/java/javase/16/docs/api/index.html). В obsidian добавляются краткие описание классов, которые часто встечаются в практике и в других статьсях.
-- [[Java аннотации mini-base]] - аннотации java.
-- [[Java интерфейсы mini-base]] - интерфейсы java.
-- [[Java классы mini-base]] - классы java.
+- [[Java аннотации lib]] - аннотации java.
+- [[Java интерфейсы lib]] - интерфейсы java.
+- [[Java классы lib]] - классы java.
 
 ### Работа с java
 - [[$ Методы Java на все случаи]] - полезные методы.
