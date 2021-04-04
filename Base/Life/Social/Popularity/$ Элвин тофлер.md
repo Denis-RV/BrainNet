@@ -1,1 +1,0 @@
-tegs: #life 
