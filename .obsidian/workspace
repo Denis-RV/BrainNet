@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d85d711c4543bf34",
+        "id": "65abb769801eba22",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -117,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Сеть данных/Входящие материалы/Программирование/Инструменты/Maven.md",
-    "Сеть данных/Входящие материалы/Программирование/Инструменты/$- Postman.md",
-    "Сеть данных/Входящие материалы/Программирование/Инструменты/$- Gradle.md",
-    "Сеть данных/Входящие материалы/Программирование/Инструменты/Git/Git введение.md",
-    "Шаблоны/@аннотация java.md",
-    "Шаблоны/Алгоритм.md",
-    "Шаблоны/Связь.md",
-    "Как учиться с BrainNet/Информация/Термины BrainNet/Bases/Статус связи/Bases/Не начата.md",
-    "Шаблоны/Java класс.md",
-    "README.md"
+    "README.md",
+    "TaskList.md",
+    "Изображения/Untitled 10.png",
+    "Изображения/Pasted image 20210402162939.png",
+    "Изображения/Untitled 1.png",
+    "Изображения/Untitled 1 1.png",
+    "Изображения/Untitled 1 1 1.png",
+    "Изображения/Untitled 1 2.png",
+    "Изображения/Untitled 2 2.png",
+    "Изображения/Untitled 3.png"
   ]
 }
