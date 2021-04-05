@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "TaskList.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TaskList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TaskList.md"
               }
             }
           }
@@ -123,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
     "TaskList.md",
+    "Шаблоны/Связь.md",
+    "Шаблоны/Шаблон шаблон.md",
+    "Шаблоны/Java класс.md",
+    "README.md",
     "Изображения/Untitled 10.png",
     "Изображения/Pasted image 20210402162939.png",
     "Изображения/Untitled 1.png",
     "Изображения/Untitled 1 1.png",
-    "Изображения/Untitled 1 1 1.png",
-    "Изображения/Untitled 1 2.png",
-    "Изображения/Untitled 2 2.png",
-    "Изображения/Untitled 3.png"
+    "Изображения/Untitled 1 1 1.png"
   ]
 }
