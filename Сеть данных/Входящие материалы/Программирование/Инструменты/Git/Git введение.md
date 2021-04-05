@@ -1,23 +1,22 @@
 # Git введение
+*необходимо знать:* [[Bash введение]] ( #TODO/конкретизация)
+статус статьи: 
+<? 
+1. Добавить термин конерктизации ссылок в словарь терминов BrainNet и указать, что рядом с конкретизацией часто будут коментарии
+2. Продумать систему пометок ссылок, которые надо конкретизировать. Тэги не очень подходят.
+3. Изменить ссылку с Bash введение на "Cmd минимум". Возможно, седалть отдельный тип статей "минимум", в которых будет максимально кратко все изложено.
+?>
+`теги:` #проектирование 
 
-теги:
-необходимо знать: [[Bash введение]]
-
-![Basics%20of%20Git%20&%20GitHub%20a859a9b942214e4083d4e8ade3882b97/Untitled.png](Untitled.png)
-
-### **Создание имени и почты**
-(указываются для взаимодействия с сервером)
-
-It is a good idea to introduce yourself to Git with your name and public email
-address before doing any operation. The easiest way to do so is:
-
+---
+## Указание почты и имени
+Чтобы взаимодействовать с сервером, необходимо у себя в консоли указать почту и имя.
 ```bash
-       $ git config --global user.name "Your Name Comes Here"
-       $ git config --global user.email "you@yourdomain.example.com"
+$ git config --global user.name "Ваше имя"
+$ git config --global user.email "Ваша почта"
 ```
 
 Подсоединиться к GitHub репозиторию можно двумя способами:
-
 ```bash
 # С помощью http. В этом случае придется часто вводить пороли
 $ git clone <HTTP copies> 

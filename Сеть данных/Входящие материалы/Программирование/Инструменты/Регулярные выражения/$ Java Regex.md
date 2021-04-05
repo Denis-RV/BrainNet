@@ -1,6 +1,6 @@
 # Java Regex
 *необходимо знать*: [[$ Regex введение]]
-*теги*:  #java #regex #spring 
+*теги*:  #java #регулярка #spring 
 
 ---
 ## Cheap sheet 

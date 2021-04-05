@@ -12,4 +12,4 @@ Karen                011.44.1344.467268
 Alberto              011.44.1344.429278
 ```
 ---
-*теги:* #базы_данных, #sql/function/single-row/character  #regex 
+*теги:* #базы_данных, #sql/function/single-row/character  #регулярка 

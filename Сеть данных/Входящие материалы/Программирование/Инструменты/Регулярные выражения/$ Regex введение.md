@@ -1,5 +1,5 @@
 # Syntax Regex
-теги:  #java #linux  #python  #regex 
+теги:  #java #linux  #python  #регулярка 
 
 ---
 **Основы**

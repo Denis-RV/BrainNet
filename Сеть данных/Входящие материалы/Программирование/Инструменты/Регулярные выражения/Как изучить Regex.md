@@ -1,5 +1,5 @@
 # Как, наконец, выучить Regex?
-*теги:*  #java #linux  #python  #regex 
+*теги:*  #java #linux  #python  #регулярка 
 *описание:* В этой статье вы найдете советы по изучению Regex, ссылки на руководства и шпаргалки.
 ![](https://techrocks.ru/wp-content/uploads/2020/12/madelynn-woods-ZHdMovHAHT0-unsplash-1280x2000-1.jpg)
 
