@@ -1,8 +1,8 @@
-# class 
-*extends:* 
-*implements:* 
-*теги:* #java/class
-*описание:* 
+# class ИМЯ_КЛАССА
+`extends:` 
+`implements:` 
+`теги:` #java/class
+`описание:` 
 
 ---
 ### Возможности:
