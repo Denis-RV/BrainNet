@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#проектирование/паттерн/порождающий",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -109,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Как учиться с BrainNet/Информация/Внедрение знаний/Bases/Быстрое внедрение.md",
-    "Как учиться с BrainNet/Информация/Внедрение знаний/Bases/Эффектвное внедрение.md",
-    "Как учиться с BrainNet/Информация/Внедрение знаний/$- Внедрение знаний mini-base.md",
-    "Как учиться с BrainNet/Информация/Создание связей/$- Создание связей.md",
-    "Как учиться с BrainNet/Информация/Создание связей/$- Стиль оформления связей.md",
-    "Как учиться с BrainNet/Информация/Термины BrainNet/Bases/Статус связи/Bases/Готовность Б.md",
-    "Как учиться с BrainNet/Информация/Термины BrainNet/Bases/Статус связи/Bases/Готовность A.md",
-    "Как учиться с BrainNet/Информация/Термины BrainNet/Bases/Статус связи/Bases/Не готова.md",
+    "Сеть данных/Входящие материалы/Программирование/Инструменты/Maven.md",
+    "Сеть данных/Входящие материалы/Программирование/Инструменты/$- Postman.md",
+    "Сеть данных/Входящие материалы/Программирование/Инструменты/$- Gradle.md",
+    "Сеть данных/Входящие материалы/Программирование/Инструменты/Git/Git введение.md",
+    "Шаблоны/@аннотация java.md",
+    "Шаблоны/Алгоритм.md",
+    "Шаблоны/Связь.md",
     "Как учиться с BrainNet/Информация/Термины BrainNet/Bases/Статус связи/Bases/Не начата.md",
-    "Как учиться с BrainNet/Информация/Термины BrainNet/Bases/Статус связи/Статус связи.md"
+    "Шаблоны/Java класс.md",
+    "README.md"
   ]
 }
