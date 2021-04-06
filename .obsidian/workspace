@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9fed221034aebbfe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Как учиться с BrainNet/Информация/Внедрение знаний/Bases/$ Быстрое внедрение.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "5852d3e0f984dbf7",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Как учиться с BrainNet/Информация/Создание связей/Создание base.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -72,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 371
   },
   "right": {
     "id": "91c71ee87f2d7ab1",
@@ -96,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как учиться с BrainNet/Информация/Создание связей/Создание base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,13 +106,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Как учиться с BrainNet/Информация/Создание связей/Создание base.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Как учиться с BrainNet/Информация/Создание связей/Untitled.md",
-    "Как учиться с BrainNet/Информация/Создание связей/$- Создание связей.md",
-    "Как учиться с BrainNet/Информация/Внедрение знаний/Bases/$ Быстрое внедрение.md",
-    "Как учиться с BrainNet/Информация/Внедрение знаний/Bases/$- Эффектвное внедрение.md",
-    "Как учиться с BrainNet/Информация/Шаблоны/Шаблоны mini-base.md",
-    "Как учиться с BrainNet/Информация/$- Как строить связи.md",
-    "Как учиться с BrainNet/Информация/$- Работа с MarkDown.md",
-    "Как учиться с BrainNet/Информация/$- Чек-лист для пул-реквестов.md",
-    "Как учиться с BrainNet/$- Начни здесь!.md",
-    "Как учиться с BrainNet/Информация/Создание связей/$- Стиль оформления связей.md"
+    "Сеть данных/Входящие материалы/Программирование/Языки/Bash (Linux)/$ Linux base.md",
+    "Меню/Темы/Программирование/$ Linux base.md",
+    "Меню/Темы/Программирование/$ Web base.md",
+    "Меню/Темы/Программирование/$- Проектирование base.md",
+    "Меню/Темы/Программирование/$- HTML & CSS base.md",
+    "Меню/Темы/Программирование/$- Python base.md",
+    "Меню/Темы/Программирование/$- Spring base.md",
+    "Меню/Темы/Программирование/SQL link.md",
+    "Меню/Темы/Математика topic.md",
+    "Меню/Темы/Программирование topic.md"
   ]
 }
