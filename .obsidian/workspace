@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Как учиться с BrainNet/Информация/$- Работа с MarkDown.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как учиться с BrainNet/Информация/$- Работа с MarkDown.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как учиться с BrainNet/Информация/$- Работа с MarkDown.md"
+                "file": "README.md"
               }
             }
           }
@@ -123,6 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
+    "TaskList.md",
     "Как учиться с BrainNet/Информация/$- Работа с MarkDown.md",
     "Как учиться с BrainNet/$- Начни здесь!.md",
     "Меню/Темы/Программирование/$- Проектирование base.md",
@@ -130,8 +132,6 @@
     "Меню/Профессии/$ Backend Java Developer prof.md",
     "Меню/Обучающие сборники/Вебинары Александра Романовича.md",
     "Меню/Темы/Программирование/$ Web base.md",
-    "Меню/Темы/Программирование/$ SQL base.md",
-    "Меню/Темы/Программирование/$ Linux base.md",
-    "Меню/Темы/Программирование/$- Spring base.md"
+    "Меню/Темы/Программирование/$ SQL base.md"
   ]
 }
